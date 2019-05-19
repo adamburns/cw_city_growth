@@ -1,0 +1,540 @@
+#
+# File created on 2019-05-18 23:23:55 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+55	Wisconsin	001	Adams County	1985	14.660
+55	Wisconsin	001	Adams County	1990	15.680
+55	Wisconsin	001	Adams County	1995	16.770
+55	Wisconsin	001	Adams County	2000	18.640
+55	Wisconsin	001	Adams County	2005	20.828
+55	Wisconsin	001	Adams County	2010	20.875
+55	Wisconsin	001	Adams County	2015	20.148
+55	Wisconsin	003	Ashland County	1985	16.780
+55	Wisconsin	003	Ashland County	1990	16.310
+55	Wisconsin	003	Ashland County	1995	16.610
+55	Wisconsin	003	Ashland County	2000	16.870
+55	Wisconsin	003	Ashland County	2005	16.627
+55	Wisconsin	003	Ashland County	2010	16.157
+55	Wisconsin	003	Ashland County	2015	15.843
+55	Wisconsin	005	Barron County	1985	41.040
+55	Wisconsin	005	Barron County	1990	40.750
+55	Wisconsin	005	Barron County	1995	41.770
+55	Wisconsin	005	Barron County	2000	44.960
+55	Wisconsin	005	Barron County	2005	45.834
+55	Wisconsin	005	Barron County	2010	45.870
+55	Wisconsin	005	Barron County	2015	45.563
+55	Wisconsin	007	Bayfield County	1985	13.910
+55	Wisconsin	007	Bayfield County	1990	14.010
+55	Wisconsin	007	Bayfield County	1995	14.300
+55	Wisconsin	007	Bayfield County	2000	15.010
+55	Wisconsin	007	Bayfield County	2005	15.145
+55	Wisconsin	007	Bayfield County	2010	15.014
+55	Wisconsin	007	Bayfield County	2015	14.977
+55	Wisconsin	009	Brown County	1985	185.260
+55	Wisconsin	009	Brown County	1990	194.590
+55	Wisconsin	009	Brown County	1995	209.080
+55	Wisconsin	009	Brown County	2000	226.780
+55	Wisconsin	009	Brown County	2005	238.987
+55	Wisconsin	009	Brown County	2010	248.007
+55	Wisconsin	009	Brown County	2015	258.718
+55	Wisconsin	011	Buffalo County	1985	14.260
+55	Wisconsin	011	Buffalo County	1990	13.580
+55	Wisconsin	011	Buffalo County	1995	13.650
+55	Wisconsin	011	Buffalo County	2000	13.800
+55	Wisconsin	011	Buffalo County	2005	13.968
+55	Wisconsin	011	Buffalo County	2010	13.587
+55	Wisconsin	011	Buffalo County	2015	13.192
+55	Wisconsin	013	Burnett County	1985	12.970
+55	Wisconsin	013	Burnett County	1990	13.080
+55	Wisconsin	013	Burnett County	1995	13.640
+55	Wisconsin	013	Burnett County	2000	15.670
+55	Wisconsin	013	Burnett County	2005	16.528
+55	Wisconsin	013	Burnett County	2010	15.457
+55	Wisconsin	013	Burnett County	2015	15.159
+55	Wisconsin	015	Calumet County	1985	33.330
+55	Wisconsin	015	Calumet County	1990	34.290
+55	Wisconsin	015	Calumet County	1995	36.850
+55	Wisconsin	015	Calumet County	2000	40.630
+55	Wisconsin	015	Calumet County	2005	44.137
+55	Wisconsin	015	Calumet County	2010	48.971
+55	Wisconsin	015	Calumet County	2015	49.762
+55	Wisconsin	017	Chippewa County	1985	53.700
+55	Wisconsin	017	Chippewa County	1990	52.360
+55	Wisconsin	017	Chippewa County	1995	53.670
+55	Wisconsin	017	Chippewa County	2000	55.200
+55	Wisconsin	017	Chippewa County	2005	59.950
+55	Wisconsin	017	Chippewa County	2010	62.415
+55	Wisconsin	017	Chippewa County	2015	63.531
+55	Wisconsin	019	Clark County	1985	32.940
+55	Wisconsin	019	Clark County	1990	31.650
+55	Wisconsin	019	Clark County	1995	32.150
+55	Wisconsin	019	Clark County	2000	33.560
+55	Wisconsin	019	Clark County	2005	34.098
+55	Wisconsin	019	Clark County	2010	34.690
+55	Wisconsin	019	Clark County	2015	34.445
+55	Wisconsin	021	Columbia County	1985	43.680
+55	Wisconsin	021	Columbia County	1990	45.090
+55	Wisconsin	021	Columbia County	1995	47.220
+55	Wisconsin	021	Columbia County	2000	52.470
+55	Wisconsin	021	Columbia County	2005	55.364
+55	Wisconsin	021	Columbia County	2010	56.833
+55	Wisconsin	021	Columbia County	2015	56.743
+55	Wisconsin	023	Crawford County	1985	16.700
+55	Wisconsin	023	Crawford County	1990	15.940
+55	Wisconsin	023	Crawford County	1995	16.000
+55	Wisconsin	023	Crawford County	2000	17.240
+55	Wisconsin	023	Crawford County	2005	17.134
+55	Wisconsin	023	Crawford County	2010	16.644
+55	Wisconsin	023	Crawford County	2015	16.391
+55	Wisconsin	025	Dane County	1985	339.190
+55	Wisconsin	025	Dane County	1990	367.080
+55	Wisconsin	025	Dane County	1995	393.560
+55	Wisconsin	025	Dane County	2000	426.530
+55	Wisconsin	025	Dane County	2005	458.106
+55	Wisconsin	025	Dane County	2010	488.073
+55	Wisconsin	025	Dane County	2015	523.643
+55	Wisconsin	027	Dodge County	1985	76.890
+55	Wisconsin	027	Dodge County	1990	76.560
+55	Wisconsin	027	Dodge County	1995	79.920
+55	Wisconsin	027	Dodge County	2000	85.900
+55	Wisconsin	027	Dodge County	2005	88.103
+55	Wisconsin	027	Dodge County	2010	88.759
+55	Wisconsin	027	Dodge County	2015	88.502
+55	Wisconsin	029	Door County	1985	26.170
+55	Wisconsin	029	Door County	1990	25.690
+55	Wisconsin	029	Door County	1995	26.030
+55	Wisconsin	029	Door County	2000	27.960
+55	Wisconsin	029	Door County	2005	28.349
+55	Wisconsin	029	Door County	2010	27.785
+55	Wisconsin	029	Door County	2015	27.554
+55	Wisconsin	031	Douglas County	1985	42.680
+55	Wisconsin	031	Douglas County	1990	41.760
+55	Wisconsin	031	Douglas County	1995	42.230
+55	Wisconsin	031	Douglas County	2000	43.290
+55	Wisconsin	031	Douglas County	2005	44.208
+55	Wisconsin	031	Douglas County	2010	44.159
+55	Wisconsin	031	Douglas County	2015	43.601
+55	Wisconsin	033	Dunn County	1985	35.430
+55	Wisconsin	033	Dunn County	1990	35.910
+55	Wisconsin	033	Dunn County	1995	37.060
+55	Wisconsin	033	Dunn County	2000	39.860
+55	Wisconsin	033	Dunn County	2005	41.708
+55	Wisconsin	033	Dunn County	2010	43.857
+55	Wisconsin	033	Dunn County	2015	44.497
+55	Wisconsin	035	Eau Claire County	1985	83.740
+55	Wisconsin	035	Eau Claire County	1990	85.180
+55	Wisconsin	035	Eau Claire County	1995	87.830
+55	Wisconsin	035	Eau Claire County	2000	93.140
+55	Wisconsin	035	Eau Claire County	2005	94.089
+55	Wisconsin	035	Eau Claire County	2010	98.736
+55	Wisconsin	035	Eau Claire County	2015	102.105
+55	Wisconsin	037	Florence County	1985	4.290
+55	Wisconsin	037	Florence County	1990	4.590
+55	Wisconsin	037	Florence County	1995	4.830
+55	Wisconsin	037	Florence County	2000	5.090
+55	Wisconsin	037	Florence County	2005	4.974
+55	Wisconsin	037	Florence County	2010	4.423
+55	Wisconsin	037	Florence County	2015	4.464
+55	Wisconsin	039	Fond du Lac County	1985	90.130
+55	Wisconsin	039	Fond du Lac County	1990	90.080
+55	Wisconsin	039	Fond du Lac County	1995	93.390
+55	Wisconsin	039	Fond du Lac County	2000	97.300
+55	Wisconsin	039	Fond du Lac County	2005	99.337
+55	Wisconsin	039	Fond du Lac County	2010	101.633
+55	Wisconsin	039	Fond du Lac County	2015	101.973
+55	Wisconsin	041	Forest County	1985	9.370
+55	Wisconsin	041	Forest County	1990	8.780
+55	Wisconsin	041	Forest County	1995	9.000
+55	Wisconsin	041	Forest County	2000	10.020
+55	Wisconsin	041	Forest County	2005	9.961
+55	Wisconsin	041	Forest County	2010	9.304
+55	Wisconsin	041	Forest County	2015	9.057
+55	Wisconsin	043	Grant County	1985	52.300
+55	Wisconsin	043	Grant County	1990	49.260
+55	Wisconsin	043	Grant County	1995	49.400
+55	Wisconsin	043	Grant County	2000	49.600
+55	Wisconsin	043	Grant County	2005	49.671
+55	Wisconsin	043	Grant County	2010	51.208
+55	Wisconsin	043	Grant County	2015	52.250
+55	Wisconsin	045	Green County	1985	30.470
+55	Wisconsin	045	Green County	1990	30.340
+55	Wisconsin	045	Green County	1995	31.070
+55	Wisconsin	045	Green County	2000	33.650
+55	Wisconsin	045	Green County	2005	35.165
+55	Wisconsin	045	Green County	2010	36.842
+55	Wisconsin	045	Green County	2015	37.186
+55	Wisconsin	047	Green Lake County	1985	19.150
+55	Wisconsin	047	Green Lake County	1990	18.650
+55	Wisconsin	047	Green Lake County	1995	18.980
+55	Wisconsin	047	Green Lake County	2000	19.110
+55	Wisconsin	047	Green Lake County	2005	19.168
+55	Wisconsin	047	Green Lake County	2010	19.051
+55	Wisconsin	047	Green Lake County	2015	18.856
+55	Wisconsin	049	Iowa County	1985	20.190
+55	Wisconsin	049	Iowa County	1990	20.150
+55	Wisconsin	049	Iowa County	1995	21.090
+55	Wisconsin	049	Iowa County	2000	22.780
+55	Wisconsin	049	Iowa County	2005	23.569
+55	Wisconsin	049	Iowa County	2010	23.687
+55	Wisconsin	049	Iowa County	2015	23.813
+55	Wisconsin	051	Iron County	1985	6.460
+55	Wisconsin	051	Iron County	1990	6.150
+55	Wisconsin	051	Iron County	1995	6.240
+55	Wisconsin	051	Iron County	2000	6.860
+55	Wisconsin	051	Iron County	2005	6.649
+55	Wisconsin	051	Iron County	2010	5.916
+55	Wisconsin	051	Iron County	2015	5.794
+55	Wisconsin	053	Jackson County	1985	16.910
+55	Wisconsin	053	Jackson County	1990	16.590
+55	Wisconsin	053	Jackson County	1995	17.020
+55	Wisconsin	053	Jackson County	2000	19.100
+55	Wisconsin	053	Jackson County	2005	19.758
+55	Wisconsin	053	Jackson County	2010	20.449
+55	Wisconsin	053	Jackson County	2015	20.554
+55	Wisconsin	055	Jefferson County	1985	66.580
+55	Wisconsin	055	Jefferson County	1990	67.780
+55	Wisconsin	055	Jefferson County	1995	70.890
+55	Wisconsin	055	Jefferson County	2000	74.020
+55	Wisconsin	055	Jefferson County	2005	79.328
+55	Wisconsin	055	Jefferson County	2010	83.686
+55	Wisconsin	055	Jefferson County	2015	84.559
+55	Wisconsin	057	Juneau County	1985	21.920
+55	Wisconsin	057	Juneau County	1990	21.650
+55	Wisconsin	057	Juneau County	1995	22.680
+55	Wisconsin	057	Juneau County	2000	24.320
+55	Wisconsin	057	Juneau County	2005	26.725
+55	Wisconsin	057	Juneau County	2010	26.664
+55	Wisconsin	057	Juneau County	2015	26.224
+55	Wisconsin	059	Kenosha County	1985	121.160
+55	Wisconsin	059	Kenosha County	1990	128.180
+55	Wisconsin	059	Kenosha County	1995	136.830
+55	Wisconsin	059	Kenosha County	2000	149.580
+55	Wisconsin	059	Kenosha County	2005	160.544
+55	Wisconsin	059	Kenosha County	2010	166.426
+55	Wisconsin	059	Kenosha County	2015	168.437
+55	Wisconsin	061	Kewaunee County	1985	20.190
+55	Wisconsin	061	Kewaunee County	1990	18.880
+55	Wisconsin	061	Kewaunee County	1995	19.280
+55	Wisconsin	061	Kewaunee County	2000	20.190
+55	Wisconsin	061	Kewaunee County	2005	20.840
+55	Wisconsin	061	Kewaunee County	2010	20.574
+55	Wisconsin	061	Kewaunee County	2015	20.366
+55	Wisconsin	063	La Crosse County	1985	96.630
+55	Wisconsin	063	La Crosse County	1990	97.900
+55	Wisconsin	063	La Crosse County	1995	102.270
+55	Wisconsin	063	La Crosse County	2000	107.120
+55	Wisconsin	063	La Crosse County	2005	108.958
+55	Wisconsin	063	La Crosse County	2010	114.638
+55	Wisconsin	063	La Crosse County	2015	118.212
+55	Wisconsin	065	Lafayette County	1985	17.430
+55	Wisconsin	065	Lafayette County	1990	16.080
+55	Wisconsin	065	Lafayette County	1995	16.060
+55	Wisconsin	065	Lafayette County	2000	16.140
+55	Wisconsin	065	Lafayette County	2005	16.310
+55	Wisconsin	065	Lafayette County	2010	16.836
+55	Wisconsin	065	Lafayette County	2015	16.829
+55	Wisconsin	067	Langlade County	1985	20.320
+55	Wisconsin	067	Langlade County	1990	19.510
+55	Wisconsin	067	Langlade County	1995	20.240
+55	Wisconsin	067	Langlade County	2000	20.740
+55	Wisconsin	067	Langlade County	2005	20.735
+55	Wisconsin	067	Langlade County	2010	19.977
+55	Wisconsin	067	Langlade County	2015	19.223
+55	Wisconsin	069	Lincoln County	1985	26.800
+55	Wisconsin	069	Lincoln County	1990	26.990
+55	Wisconsin	069	Lincoln County	1995	28.170
+55	Wisconsin	069	Lincoln County	2000	29.640
+55	Wisconsin	069	Lincoln County	2005	30.319
+55	Wisconsin	069	Lincoln County	2010	28.743
+55	Wisconsin	069	Lincoln County	2015	27.980
+55	Wisconsin	071	Manitowoc County	1985	83.130
+55	Wisconsin	071	Manitowoc County	1990	80.420
+55	Wisconsin	071	Manitowoc County	1995	83.630
+55	Wisconsin	071	Manitowoc County	2000	82.890
+55	Wisconsin	071	Manitowoc County	2005	81.949
+55	Wisconsin	071	Manitowoc County	2010	81.442
+55	Wisconsin	071	Manitowoc County	2015	79.806
+55	Wisconsin	073	Marathon County	1985	111.940
+55	Wisconsin	073	Marathon County	1990	115.400
+55	Wisconsin	073	Marathon County	1995	122.100
+55	Wisconsin	073	Marathon County	2000	125.830
+55	Wisconsin	073	Marathon County	2005	128.941
+55	Wisconsin	073	Marathon County	2010	134.063
+55	Wisconsin	073	Marathon County	2015	135.868
+55	Wisconsin	075	Marinette County	1985	40.100
+55	Wisconsin	075	Marinette County	1990	40.550
+55	Wisconsin	075	Marinette County	1995	41.680
+55	Wisconsin	075	Marinette County	2000	43.380
+55	Wisconsin	075	Marinette County	2005	43.406
+55	Wisconsin	075	Marinette County	2010	41.749
+55	Wisconsin	075	Marinette County	2015	40.884
+55	Wisconsin	077	Marquette County	1985	12.580
+55	Wisconsin	077	Marquette County	1990	12.320
+55	Wisconsin	077	Marquette County	1995	12.990
+55	Wisconsin	077	Marquette County	2000	15.830
+55	Wisconsin	077	Marquette County	2005	15.237
+55	Wisconsin	077	Marquette County	2010	15.404
+55	Wisconsin	077	Marquette County	2015	15.075
+55	Wisconsin	078	Menominee County	1985	3.850
+55	Wisconsin	078	Menominee County	1990	3.890
+55	Wisconsin	078	Menominee County	1995	4.150
+55	Wisconsin	078	Menominee County	2000	4.560
+55	Wisconsin	078	Menominee County	2005	4.580
+55	Wisconsin	078	Menominee County	2010	4.232
+55	Wisconsin	078	Menominee County	2015	4.573
+55	Wisconsin	079	Milwaukee County	1985	964.990
+55	Wisconsin	079	Milwaukee County	1990	959.270
+55	Wisconsin	079	Milwaukee County	1995	965.260
+55	Wisconsin	079	Milwaukee County	2000	940.170
+55	Wisconsin	079	Milwaukee County	2005	921.654
+55	Wisconsin	079	Milwaukee County	2010	947.735
+55	Wisconsin	079	Milwaukee County	2015	957.735
+55	Wisconsin	081	Monroe County	1985	36.180
+55	Wisconsin	081	Monroe County	1990	36.630
+55	Wisconsin	081	Monroe County	1995	37.840
+55	Wisconsin	081	Monroe County	2000	40.900
+55	Wisconsin	081	Monroe County	2005	42.644
+55	Wisconsin	081	Monroe County	2010	44.673
+55	Wisconsin	081	Monroe County	2015	45.549
+55	Wisconsin	083	Oconto County	1985	30.290
+55	Wisconsin	083	Oconto County	1990	30.230
+55	Wisconsin	083	Oconto County	1995	31.750
+55	Wisconsin	083	Oconto County	2000	35.630
+55	Wisconsin	083	Oconto County	2005	37.666
+55	Wisconsin	083	Oconto County	2010	37.660
+55	Wisconsin	083	Oconto County	2015	37.435
+55	Wisconsin	085	Oneida County	1985	32.630
+55	Wisconsin	085	Oneida County	1990	31.680
+55	Wisconsin	085	Oneida County	1995	33.470
+55	Wisconsin	085	Oneida County	2000	36.780
+55	Wisconsin	085	Oneida County	2005	36.994
+55	Wisconsin	085	Oneida County	2010	35.998
+55	Wisconsin	085	Oneida County	2015	35.567
+55	Wisconsin	087	Outagamie County	1985	134.100
+55	Wisconsin	087	Outagamie County	1990	140.510
+55	Wisconsin	087	Outagamie County	1995	150.050
+55	Wisconsin	087	Outagamie County	2000	160.970
+55	Wisconsin	087	Outagamie County	2005	171.006
+55	Wisconsin	087	Outagamie County	2010	176.695
+55	Wisconsin	087	Outagamie County	2015	183.245
+55	Wisconsin	089	Ozaukee County	1985	67.460
+55	Wisconsin	089	Ozaukee County	1990	72.830
+55	Wisconsin	089	Ozaukee County	1995	77.730
+55	Wisconsin	089	Ozaukee County	2000	82.320
+55	Wisconsin	089	Ozaukee County	2005	86.072
+55	Wisconsin	089	Ozaukee County	2010	86.395
+55	Wisconsin	089	Ozaukee County	2015	87.850
+55	Wisconsin	091	Pepin County	1985	7.510
+55	Wisconsin	091	Pepin County	1990	7.110
+55	Wisconsin	091	Pepin County	1995	7.180
+55	Wisconsin	091	Pepin County	2000	7.210
+55	Wisconsin	091	Pepin County	2005	7.380
+55	Wisconsin	091	Pepin County	2010	7.469
+55	Wisconsin	091	Pepin County	2015	7.290
+55	Wisconsin	093	Pierce County	1985	32.130
+55	Wisconsin	093	Pierce County	1990	32.770
+55	Wisconsin	093	Pierce County	1995	33.690
+55	Wisconsin	093	Pierce County	2000	36.800
+55	Wisconsin	093	Pierce County	2005	39.102
+55	Wisconsin	093	Pierce County	2010	41.019
+55	Wisconsin	093	Pierce County	2015	40.889
+55	Wisconsin	095	Polk County	1985	34.950
+55	Wisconsin	095	Polk County	1990	34.770
+55	Wisconsin	095	Polk County	1995	36.040
+55	Wisconsin	095	Polk County	2000	41.320
+55	Wisconsin	095	Polk County	2005	44.329
+55	Wisconsin	095	Polk County	2010	44.205
+55	Wisconsin	095	Polk County	2015	43.441
+55	Wisconsin	097	Portage County	1985	61.400
+55	Wisconsin	097	Portage County	1990	61.400
+55	Wisconsin	097	Portage County	1995	65.120
+55	Wisconsin	097	Portage County	2000	67.180
+55	Wisconsin	097	Portage County	2005	67.585
+55	Wisconsin	097	Portage County	2010	70.019
+55	Wisconsin	097	Portage County	2015	70.408
+55	Wisconsin	099	Price County	1985	16.290
+55	Wisconsin	099	Price County	1990	15.600
+55	Wisconsin	099	Price County	1995	16.000
+55	Wisconsin	099	Price County	2000	15.820
+55	Wisconsin	099	Price County	2005	15.220
+55	Wisconsin	099	Price County	2010	14.159
+55	Wisconsin	099	Price County	2015	13.645
+55	Wisconsin	101	Racine County	1985	169.190
+55	Wisconsin	101	Racine County	1990	175.030
+55	Wisconsin	101	Racine County	1995	183.360
+55	Wisconsin	101	Racine County	2000	188.830
+55	Wisconsin	101	Racine County	2005	195.708
+55	Wisconsin	101	Racine County	2010	195.408
+55	Wisconsin	101	Racine County	2015	195.080
+55	Wisconsin	103	Richland County	1985	17.370
+55	Wisconsin	103	Richland County	1990	17.520
+55	Wisconsin	103	Richland County	1995	17.470
+55	Wisconsin	103	Richland County	2000	17.920
+55	Wisconsin	103	Richland County	2005	18.403
+55	Wisconsin	103	Richland County	2010	18.021
+55	Wisconsin	103	Richland County	2015	17.495
+55	Wisconsin	105	Rock County	1985	138.690
+55	Wisconsin	105	Rock County	1990	139.510
+55	Wisconsin	105	Rock County	1995	145.370
+55	Wisconsin	105	Rock County	2000	152.310
+55	Wisconsin	105	Rock County	2005	157.538
+55	Wisconsin	105	Rock County	2010	160.331
+55	Wisconsin	105	Rock County	2015	161.448
+55	Wisconsin	107	Rusk County	1985	15.610
+55	Wisconsin	107	Rusk County	1990	15.080
+55	Wisconsin	107	Rusk County	1995	15.230
+55	Wisconsin	107	Rusk County	2000	15.350
+55	Wisconsin	107	Rusk County	2005	15.198
+55	Wisconsin	107	Rusk County	2010	14.755
+55	Wisconsin	107	Rusk County	2015	14.124
+55	Wisconsin	109	St. Croix County	1985	46.550
+55	Wisconsin	109	St. Croix County	1990	50.250
+55	Wisconsin	109	St. Croix County	1995	53.400
+55	Wisconsin	109	St. Croix County	2000	63.160
+55	Wisconsin	109	St. Croix County	2005	77.144
+55	Wisconsin	109	St. Croix County	2010	84.345
+55	Wisconsin	109	St. Croix County	2015	87.513
+55	Wisconsin	111	Sauk County	1985	45.730
+55	Wisconsin	111	Sauk County	1990	46.980
+55	Wisconsin	111	Sauk County	1995	50.090
+55	Wisconsin	111	Sauk County	2000	55.230
+55	Wisconsin	111	Sauk County	2005	57.746
+55	Wisconsin	111	Sauk County	2010	61.976
+55	Wisconsin	111	Sauk County	2015	63.642
+55	Wisconsin	113	Sawyer County	1985	13.780
+55	Wisconsin	113	Sawyer County	1990	14.180
+55	Wisconsin	113	Sawyer County	1995	14.820
+55	Wisconsin	113	Sawyer County	2000	16.200
+55	Wisconsin	113	Sawyer County	2005	16.975
+55	Wisconsin	113	Sawyer County	2010	16.557
+55	Wisconsin	113	Sawyer County	2015	16.376
+55	Wisconsin	115	Shawano County	1985	36.780
+55	Wisconsin	115	Shawano County	1990	37.160
+55	Wisconsin	115	Shawano County	1995	37.820
+55	Wisconsin	115	Shawano County	2000	40.660
+55	Wisconsin	115	Shawano County	2005	41.335
+55	Wisconsin	115	Shawano County	2010	41.949
+55	Wisconsin	115	Shawano County	2015	41.304
+55	Wisconsin	117	Sheboygan County	1985	102.180
+55	Wisconsin	117	Sheboygan County	1990	103.880
+55	Wisconsin	117	Sheboygan County	1995	107.840
+55	Wisconsin	117	Sheboygan County	2000	112.650
+55	Wisconsin	117	Sheboygan County	2005	114.610
+55	Wisconsin	117	Sheboygan County	2010	115.507
+55	Wisconsin	117	Sheboygan County	2015	115.569
+55	Wisconsin	119	Taylor County	1985	19.540
+55	Wisconsin	119	Taylor County	1990	18.900
+55	Wisconsin	119	Taylor County	1995	19.140
+55	Wisconsin	119	Taylor County	2000	19.680
+55	Wisconsin	119	Taylor County	2005	19.766
+55	Wisconsin	119	Taylor County	2010	20.689
+55	Wisconsin	119	Taylor County	2015	20.455
+55	Wisconsin	121	Trempealeau County	1985	26.710
+55	Wisconsin	121	Trempealeau County	1990	25.260
+55	Wisconsin	121	Trempealeau County	1995	25.750
+55	Wisconsin	121	Trempealeau County	2000	27.010
+55	Wisconsin	121	Trempealeau County	2005	27.812
+55	Wisconsin	121	Trempealeau County	2010	28.816
+55	Wisconsin	121	Trempealeau County	2015	29.550
+55	Wisconsin	123	Vernon County	1985	26.340
+55	Wisconsin	123	Vernon County	1990	25.620
+55	Wisconsin	123	Vernon County	1995	26.070
+55	Wisconsin	123	Vernon County	2000	28.060
+55	Wisconsin	123	Vernon County	2005	29.055
+55	Wisconsin	123	Vernon County	2010	29.773
+55	Wisconsin	123	Vernon County	2015	30.506
+55	Wisconsin	125	Vilas County	1985	17.400
+55	Wisconsin	125	Vilas County	1990	17.710
+55	Wisconsin	125	Vilas County	1995	18.660
+55	Wisconsin	125	Vilas County	2000	21.030
+55	Wisconsin	125	Vilas County	2005	22.330
+55	Wisconsin	125	Vilas County	2010	21.430
+55	Wisconsin	125	Vilas County	2015	21.387
+55	Wisconsin	127	Walworth County	1985	72.200
+55	Wisconsin	127	Walworth County	1990	75.000
+55	Wisconsin	127	Walworth County	1995	80.410
+55	Wisconsin	127	Walworth County	2000	93.760
+55	Wisconsin	127	Walworth County	2005	99.844
+55	Wisconsin	127	Walworth County	2010	102.228
+55	Wisconsin	127	Walworth County	2015	102.804
+55	Wisconsin	129	Washburn County	1985	14.150
+55	Wisconsin	129	Washburn County	1990	13.770
+55	Wisconsin	129	Washburn County	1995	14.330
+55	Wisconsin	129	Washburn County	2000	16.040
+55	Wisconsin	129	Washburn County	2005	16.601
+55	Wisconsin	129	Washburn County	2010	15.911
+55	Wisconsin	129	Washburn County	2015	15.552
+55	Wisconsin	131	Washington County	1985	87.250
+55	Wisconsin	131	Washington County	1990	95.330
+55	Wisconsin	131	Washington County	1995	106.970
+55	Wisconsin	131	Washington County	2000	117.490
+55	Wisconsin	131	Washington County	2005	126.158
+55	Wisconsin	131	Washington County	2010	131.887
+55	Wisconsin	131	Washington County	2015	133.674
+55	Wisconsin	133	Waukesha County	1985	285.900
+55	Wisconsin	133	Waukesha County	1990	304.720
+55	Wisconsin	133	Waukesha County	1995	328.630
+55	Wisconsin	133	Waukesha County	2000	360.770
+55	Wisconsin	133	Waukesha County	2005	378.971
+55	Wisconsin	133	Waukesha County	2010	389.891
+55	Wisconsin	133	Waukesha County	2015	396.488
+55	Wisconsin	135	Waupaca County	1985	44.740
+55	Wisconsin	135	Waupaca County	1990	46.100
+55	Wisconsin	135	Waupaca County	1995	48.430
+55	Wisconsin	135	Waupaca County	2000	51.730
+55	Wisconsin	135	Waupaca County	2005	52.563
+55	Wisconsin	135	Waupaca County	2010	52.410
+55	Wisconsin	135	Waupaca County	2015	51.945
+55	Wisconsin	137	Waushara County	1985	19.630
+55	Wisconsin	137	Waushara County	1990	19.390
+55	Wisconsin	137	Waushara County	1995	20.090
+55	Wisconsin	137	Waushara County	2000	23.150
+55	Wisconsin	137	Waushara County	2005	24.789
+55	Wisconsin	137	Waushara County	2010	24.496
+55	Wisconsin	137	Waushara County	2015	24.033
+55	Wisconsin	139	Winnebago County	1985	136.130
+55	Wisconsin	139	Winnebago County	1990	140.320
+55	Wisconsin	139	Winnebago County	1995	148.120
+55	Wisconsin	139	Winnebago County	2000	156.760
+55	Wisconsin	139	Winnebago County	2005	159.482
+55	Wisconsin	139	Winnebago County	2010	166.994
+55	Wisconsin	139	Winnebago County	2015	169.546
+55	Wisconsin	141	Wood County	1985	75.460
+55	Wisconsin	141	Wood County	1990	73.600
+55	Wisconsin	141	Wood County	1995	76.010
+55	Wisconsin	141	Wood County	2000	75.560
+55	Wisconsin	141	Wood County	2005	75.234
+55	Wisconsin	141	Wood County	2010	74.749
+55	Wisconsin	141	Wood County	2015	73.435

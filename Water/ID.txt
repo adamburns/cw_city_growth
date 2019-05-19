@@ -1,0 +1,344 @@
+#
+# File created on 2019-05-18 23:23:21 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+16	Idaho	001	Ada County	1985	191.500
+16	Idaho	001	Ada County	1990	205.770
+16	Idaho	001	Ada County	1995	251.830
+16	Idaho	001	Ada County	2000	300.900
+16	Idaho	001	Ada County	2005	344.727
+16	Idaho	001	Ada County	2010	392.365
+16	Idaho	001	Ada County	2015	434.211
+16	Idaho	003	Adams County	1985	3.400
+16	Idaho	003	Adams County	1990	3.250
+16	Idaho	003	Adams County	1995	3.880
+16	Idaho	003	Adams County	2000	3.480
+16	Idaho	003	Adams County	2005	3.591
+16	Idaho	003	Adams County	2010	3.976
+16	Idaho	003	Adams County	2015	3.843
+16	Idaho	005	Bannock County	1985	68.900
+16	Idaho	005	Bannock County	1990	66.030
+16	Idaho	005	Bannock County	1995	72.120
+16	Idaho	005	Bannock County	2000	75.570
+16	Idaho	005	Bannock County	2005	78.155
+16	Idaho	005	Bannock County	2010	82.839
+16	Idaho	005	Bannock County	2015	83.744
+16	Idaho	007	Bear Lake County	1985	6.800
+16	Idaho	007	Bear Lake County	1990	6.080
+16	Idaho	007	Bear Lake County	1995	6.600
+16	Idaho	007	Bear Lake County	2000	6.410
+16	Idaho	007	Bear Lake County	2005	6.176
+16	Idaho	007	Bear Lake County	2010	5.986
+16	Idaho	007	Bear Lake County	2015	5.922
+16	Idaho	009	Benewah County	1985	8.600
+16	Idaho	009	Benewah County	1990	7.940
+16	Idaho	009	Benewah County	1995	8.780
+16	Idaho	009	Benewah County	2000	9.170
+16	Idaho	009	Benewah County	2005	9.218
+16	Idaho	009	Benewah County	2010	9.285
+16	Idaho	009	Benewah County	2015	9.052
+16	Idaho	011	Bingham County	1985	38.700
+16	Idaho	011	Bingham County	1990	37.580
+16	Idaho	011	Bingham County	1995	41.190
+16	Idaho	011	Bingham County	2000	41.740
+16	Idaho	011	Bingham County	2005	43.739
+16	Idaho	011	Bingham County	2010	45.607
+16	Idaho	011	Bingham County	2015	44.990
+16	Idaho	013	Blaine County	1985	12.900
+16	Idaho	013	Blaine County	1990	13.550
+16	Idaho	013	Blaine County	1995	16.470
+16	Idaho	013	Blaine County	2000	18.990
+16	Idaho	013	Blaine County	2005	21.166
+16	Idaho	013	Blaine County	2010	21.376
+16	Idaho	013	Blaine County	2015	21.592
+16	Idaho	015	Boise County	1985	3.100
+16	Idaho	015	Boise County	1990	3.510
+16	Idaho	015	Boise County	1995	4.770
+16	Idaho	015	Boise County	2000	6.670
+16	Idaho	015	Boise County	2005	7.535
+16	Idaho	015	Boise County	2010	7.028
+16	Idaho	015	Boise County	2015	7.058
+16	Idaho	017	Bonner County	1985	26.000
+16	Idaho	017	Bonner County	1990	26.620
+16	Idaho	017	Bonner County	1995	33.080
+16	Idaho	017	Bonner County	2000	36.840
+16	Idaho	017	Bonner County	2005	40.908
+16	Idaho	017	Bonner County	2010	40.877
+16	Idaho	017	Bonner County	2015	41.859
+16	Idaho	019	Bonneville County	1985	70.600
+16	Idaho	019	Bonneville County	1990	72.210
+16	Idaho	019	Bonneville County	1995	79.530
+16	Idaho	019	Bonneville County	2000	82.520
+16	Idaho	019	Bonneville County	2005	91.856
+16	Idaho	019	Bonneville County	2010	104.234
+16	Idaho	019	Bonneville County	2015	110.089
+16	Idaho	021	Boundary County	1985	7.700
+16	Idaho	021	Boundary County	1990	8.330
+16	Idaho	021	Boundary County	1995	9.550
+16	Idaho	021	Boundary County	2000	9.870
+16	Idaho	021	Boundary County	2005	10.619
+16	Idaho	021	Boundary County	2010	10.972
+16	Idaho	021	Boundary County	2015	11.318
+16	Idaho	023	Butte County	1985	3.400
+16	Idaho	023	Butte County	1990	2.920
+16	Idaho	023	Butte County	1995	3.010
+16	Idaho	023	Butte County	2000	2.900
+16	Idaho	023	Butte County	2005	2.808
+16	Idaho	023	Butte County	2010	2.891
+16	Idaho	023	Butte County	2015	2.501
+16	Idaho	025	Camas County	1985	0.700
+16	Idaho	025	Camas County	1990	0.730
+16	Idaho	025	Camas County	1995	0.850
+16	Idaho	025	Camas County	2000	0.990
+16	Idaho	025	Camas County	2005	1.050
+16	Idaho	025	Camas County	2010	1.117
+16	Idaho	025	Camas County	2015	1.066
+16	Idaho	027	Canyon County	1985	89.200
+16	Idaho	027	Canyon County	1990	90.080
+16	Idaho	027	Canyon County	1995	108.510
+16	Idaho	027	Canyon County	2000	131.440
+16	Idaho	027	Canyon County	2005	164.593
+16	Idaho	027	Canyon County	2010	188.923
+16	Idaho	027	Canyon County	2015	207.478
+16	Idaho	029	Caribou County	1985	8.500
+16	Idaho	029	Caribou County	1990	6.960
+16	Idaho	029	Caribou County	1995	7.280
+16	Idaho	029	Caribou County	2000	7.300
+16	Idaho	029	Caribou County	2005	7.131
+16	Idaho	029	Caribou County	2010	6.963
+16	Idaho	029	Caribou County	2015	6.770
+16	Idaho	031	Cassia County	1985	20.700
+16	Idaho	031	Cassia County	1990	19.530
+16	Idaho	031	Cassia County	1995	21.100
+16	Idaho	031	Cassia County	2000	21.420
+16	Idaho	031	Cassia County	2005	21.324
+16	Idaho	031	Cassia County	2010	22.952
+16	Idaho	031	Cassia County	2015	23.506
+16	Idaho	033	Clark County	1985	0.800
+16	Idaho	033	Clark County	1990	0.760
+16	Idaho	033	Clark County	1995	0.820
+16	Idaho	033	Clark County	2000	1.020
+16	Idaho	033	Clark County	2005	0.943
+16	Idaho	033	Clark County	2010	0.982
+16	Idaho	033	Clark County	2015	0.880
+16	Idaho	035	Clearwater County	1985	10.000
+16	Idaho	035	Clearwater County	1990	8.500
+16	Idaho	035	Clearwater County	1995	9.120
+16	Idaho	035	Clearwater County	2000	8.930
+16	Idaho	035	Clearwater County	2005	8.373
+16	Idaho	035	Clearwater County	2010	8.761
+16	Idaho	035	Clearwater County	2015	8.496
+16	Idaho	037	Custer County	1985	5.200
+16	Idaho	037	Custer County	1990	4.130
+16	Idaho	037	Custer County	1995	4.320
+16	Idaho	037	Custer County	2000	4.340
+16	Idaho	037	Custer County	2005	4.077
+16	Idaho	037	Custer County	2010	4.368
+16	Idaho	037	Custer County	2015	4.087
+16	Idaho	039	Elmore County	1985	22.200
+16	Idaho	039	Elmore County	1990	21.200
+16	Idaho	039	Elmore County	1995	23.180
+16	Idaho	039	Elmore County	2000	29.130
+16	Idaho	039	Elmore County	2005	28.634
+16	Idaho	039	Elmore County	2010	27.038
+16	Idaho	039	Elmore County	2015	25.876
+16	Idaho	041	Franklin County	1985	9.500
+16	Idaho	041	Franklin County	1990	9.230
+16	Idaho	041	Franklin County	1995	10.290
+16	Idaho	041	Franklin County	2000	11.330
+16	Idaho	041	Franklin County	2005	12.371
+16	Idaho	041	Franklin County	2010	12.786
+16	Idaho	041	Franklin County	2015	13.074
+16	Idaho	043	Fremont County	1985	10.800
+16	Idaho	043	Fremont County	1990	10.940
+16	Idaho	043	Fremont County	1995	11.530
+16	Idaho	043	Fremont County	2000	11.820
+16	Idaho	043	Fremont County	2005	12.242
+16	Idaho	043	Fremont County	2010	13.242
+16	Idaho	043	Fremont County	2015	12.819
+16	Idaho	045	Gem County	1985	11.800
+16	Idaho	045	Gem County	1990	11.840
+16	Idaho	045	Gem County	1995	13.860
+16	Idaho	045	Gem County	2000	15.180
+16	Idaho	045	Gem County	2005	16.273
+16	Idaho	045	Gem County	2010	16.719
+16	Idaho	045	Gem County	2015	16.852
+16	Idaho	047	Gooding County	1985	12.300
+16	Idaho	047	Gooding County	1990	11.630
+16	Idaho	047	Gooding County	1995	12.980
+16	Idaho	047	Gooding County	2000	14.160
+16	Idaho	047	Gooding County	2005	14.461
+16	Idaho	047	Gooding County	2010	15.464
+16	Idaho	047	Gooding County	2015	15.284
+16	Idaho	049	Idaho County	1985	14.400
+16	Idaho	049	Idaho County	1990	13.780
+16	Idaho	049	Idaho County	1995	14.790
+16	Idaho	049	Idaho County	2000	15.510
+16	Idaho	049	Idaho County	2005	15.697
+16	Idaho	049	Idaho County	2010	16.267
+16	Idaho	049	Idaho County	2015	16.272
+16	Idaho	051	Jefferson County	1985	16.400
+16	Idaho	051	Jefferson County	1990	16.540
+16	Idaho	051	Jefferson County	1995	18.790
+16	Idaho	051	Jefferson County	2000	19.160
+16	Idaho	051	Jefferson County	2005	21.580
+16	Idaho	051	Jefferson County	2010	26.140
+16	Idaho	051	Jefferson County	2015	27.157
+16	Idaho	053	Jerome County	1985	15.600
+16	Idaho	053	Jerome County	1990	15.140
+16	Idaho	053	Jerome County	1995	17.020
+16	Idaho	053	Jerome County	2000	18.340
+16	Idaho	053	Jerome County	2005	19.638
+16	Idaho	053	Jerome County	2010	22.374
+16	Idaho	053	Jerome County	2015	22.814
+16	Idaho	055	Kootenai County	1985	67.200
+16	Idaho	055	Kootenai County	1990	69.800
+16	Idaho	055	Kootenai County	1995	91.680
+16	Idaho	055	Kootenai County	2000	108.690
+16	Idaho	055	Kootenai County	2005	127.668
+16	Idaho	055	Kootenai County	2010	138.494
+16	Idaho	055	Kootenai County	2015	150.346
+16	Idaho	057	Latah County	1985	30.500
+16	Idaho	057	Latah County	1990	30.620
+16	Idaho	057	Latah County	1995	32.860
+16	Idaho	057	Latah County	2000	34.940
+16	Idaho	057	Latah County	2005	34.714
+16	Idaho	057	Latah County	2010	37.244
+16	Idaho	057	Latah County	2015	38.778
+16	Idaho	059	Lemhi County	1985	7.500
+16	Idaho	059	Lemhi County	1990	6.900
+16	Idaho	059	Lemhi County	1995	7.970
+16	Idaho	059	Lemhi County	2000	7.810
+16	Idaho	059	Lemhi County	2005	7.909
+16	Idaho	059	Lemhi County	2010	7.936
+16	Idaho	059	Lemhi County	2015	7.735
+16	Idaho	061	Lewis County	1985	3.800
+16	Idaho	061	Lewis County	1990	3.520
+16	Idaho	061	Lewis County	1995	3.940
+16	Idaho	061	Lewis County	2000	3.750
+16	Idaho	061	Lewis County	2005	3.750
+16	Idaho	061	Lewis County	2010	3.821
+16	Idaho	061	Lewis County	2015	3.789
+16	Idaho	063	Lincoln County	1985	3.400
+16	Idaho	063	Lincoln County	1990	3.310
+16	Idaho	063	Lincoln County	1995	3.730
+16	Idaho	063	Lincoln County	2000	4.040
+16	Idaho	063	Lincoln County	2005	4.545
+16	Idaho	063	Lincoln County	2010	5.208
+16	Idaho	063	Lincoln County	2015	5.297
+16	Idaho	065	Madison County	1985	21.800
+16	Idaho	065	Madison County	1990	23.670
+16	Idaho	065	Madison County	1995	23.810
+16	Idaho	065	Madison County	2000	27.470
+16	Idaho	065	Madison County	2005	30.975
+16	Idaho	065	Madison County	2010	37.536
+16	Idaho	065	Madison County	2015	38.273
+16	Idaho	067	Minidoka County	1985	21.200
+16	Idaho	067	Minidoka County	1990	19.360
+16	Idaho	067	Minidoka County	1995	21.060
+16	Idaho	067	Minidoka County	2000	20.170
+16	Idaho	067	Minidoka County	2005	19.014
+16	Idaho	067	Minidoka County	2010	20.069
+16	Idaho	067	Minidoka County	2015	20.461
+16	Idaho	069	Nez Perce County	1985	33.400
+16	Idaho	069	Nez Perce County	1990	33.750
+16	Idaho	069	Nez Perce County	1995	36.550
+16	Idaho	069	Nez Perce County	2000	37.410
+16	Idaho	069	Nez Perce County	2005	37.931
+16	Idaho	069	Nez Perce County	2010	39.265
+16	Idaho	069	Nez Perce County	2015	40.048
+16	Idaho	071	Oneida County	1985	3.500
+16	Idaho	071	Oneida County	1990	3.490
+16	Idaho	071	Oneida County	1995	3.840
+16	Idaho	071	Oneida County	2000	4.130
+16	Idaho	071	Oneida County	2005	4.209
+16	Idaho	071	Oneida County	2010	4.286
+16	Idaho	071	Oneida County	2015	4.281
+16	Idaho	073	Owyhee County	1985	8.600
+16	Idaho	073	Owyhee County	1990	8.390
+16	Idaho	073	Owyhee County	1995	9.520
+16	Idaho	073	Owyhee County	2000	10.640
+16	Idaho	073	Owyhee County	2005	11.073
+16	Idaho	073	Owyhee County	2010	11.526
+16	Idaho	073	Owyhee County	2015	11.310
+16	Idaho	075	Payette County	1985	16.100
+16	Idaho	075	Payette County	1990	16.430
+16	Idaho	075	Payette County	1995	19.530
+16	Idaho	075	Payette County	2000	20.580
+16	Idaho	075	Payette County	2005	22.197
+16	Idaho	075	Payette County	2010	22.623
+16	Idaho	075	Payette County	2015	22.896
+16	Idaho	077	Power County	1985	7.000
+16	Idaho	077	Power County	1990	7.090
+16	Idaho	077	Power County	1995	7.990
+16	Idaho	077	Power County	2000	7.540
+16	Idaho	077	Power County	2005	7.753
+16	Idaho	077	Power County	2010	7.817
+16	Idaho	077	Power County	2015	7.648
+16	Idaho	079	Shoshone County	1985	16.800
+16	Idaho	079	Shoshone County	1990	14.000
+16	Idaho	079	Shoshone County	1995	14.040
+16	Idaho	079	Shoshone County	2000	13.770
+16	Idaho	079	Shoshone County	2005	13.157
+16	Idaho	079	Shoshone County	2010	12.765
+16	Idaho	079	Shoshone County	2015	12.432
+16	Idaho	081	Teton County	1985	3.100
+16	Idaho	081	Teton County	1990	3.440
+16	Idaho	081	Teton County	1995	4.710
+16	Idaho	081	Teton County	2000	6.000
+16	Idaho	081	Teton County	2005	7.467
+16	Idaho	081	Teton County	2010	10.170
+16	Idaho	081	Teton County	2015	10.564
+16	Idaho	083	Twin Falls County	1985	56.100
+16	Idaho	083	Twin Falls County	1990	53.580
+16	Idaho	083	Twin Falls County	1995	59.480
+16	Idaho	083	Twin Falls County	2000	64.280
+16	Idaho	083	Twin Falls County	2005	69.419
+16	Idaho	083	Twin Falls County	2010	77.230
+16	Idaho	083	Twin Falls County	2015	82.375
+16	Idaho	085	Valley County	1985	6.700
+16	Idaho	085	Valley County	1990	6.110
+16	Idaho	085	Valley County	1995	7.880
+16	Idaho	085	Valley County	2000	7.650
+16	Idaho	085	Valley County	2005	8.332
+16	Idaho	085	Valley County	2010	9.862
+16	Idaho	085	Valley County	2015	10.103
+16	Idaho	087	Washington County	1985	8.300
+16	Idaho	087	Washington County	1990	8.550
+16	Idaho	087	Washington County	1995	9.460
+16	Idaho	087	Washington County	2000	9.980
+16	Idaho	087	Washington County	2005	10.098
+16	Idaho	087	Washington County	2010	10.198
+16	Idaho	087	Washington County	2015	9.984

@@ -1,0 +1,431 @@
+#
+# File created on 2019-05-18 23:23:34 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+30	Montana	001	Beaverhead County	1985	8.710
+30	Montana	001	Beaverhead County	1990	8.420
+30	Montana	001	Beaverhead County	1995	9.010
+30	Montana	001	Beaverhead County	2000	9.200
+30	Montana	001	Beaverhead County	2005	8.773
+30	Montana	001	Beaverhead County	2010	9.246
+30	Montana	001	Beaverhead County	2015	9.300
+30	Montana	003	Big Horn County	1985	11.520
+30	Montana	003	Big Horn County	1990	11.340
+30	Montana	003	Big Horn County	1995	12.220
+30	Montana	003	Big Horn County	2000	12.670
+30	Montana	003	Big Horn County	2005	13.149
+30	Montana	003	Big Horn County	2010	12.865
+30	Montana	003	Big Horn County	2015	13.242
+30	Montana	005	Blaine County	1985	7.050
+30	Montana	005	Blaine County	1990	6.730
+30	Montana	005	Blaine County	1995	7.030
+30	Montana	005	Blaine County	2000	7.010
+30	Montana	005	Blaine County	2005	6.629
+30	Montana	005	Blaine County	2010	6.491
+30	Montana	005	Blaine County	2015	6.577
+30	Montana	007	Broadwater County	1985	3.420
+30	Montana	007	Broadwater County	1990	3.320
+30	Montana	007	Broadwater County	1995	3.880
+30	Montana	007	Broadwater County	2000	4.390
+30	Montana	007	Broadwater County	2005	4.517
+30	Montana	007	Broadwater County	2010	5.612
+30	Montana	007	Broadwater County	2015	5.689
+30	Montana	009	Carbon County	1985	8.600
+30	Montana	009	Carbon County	1990	8.080
+30	Montana	009	Carbon County	1995	9.030
+30	Montana	009	Carbon County	2000	9.550
+30	Montana	009	Carbon County	2005	9.902
+30	Montana	009	Carbon County	2010	10.078
+30	Montana	009	Carbon County	2015	10.408
+30	Montana	011	Carter County	1985	1.760
+30	Montana	011	Carter County	1990	1.500
+30	Montana	011	Carter County	1995	1.460
+30	Montana	011	Carter County	2000	1.360
+30	Montana	011	Carter County	2005	1.320
+30	Montana	011	Carter County	2010	1.160
+30	Montana	011	Carter County	2015	1.180
+30	Montana	013	Cascade County	1985	81.760
+30	Montana	013	Cascade County	1990	77.690
+30	Montana	013	Cascade County	1995	81.090
+30	Montana	013	Cascade County	2000	80.360
+30	Montana	013	Cascade County	2005	79.569
+30	Montana	013	Cascade County	2010	81.327
+30	Montana	013	Cascade County	2015	82.278
+30	Montana	015	Chouteau County	1985	6.160
+30	Montana	015	Chouteau County	1990	5.450
+30	Montana	015	Chouteau County	1995	5.490
+30	Montana	015	Chouteau County	2000	5.970
+30	Montana	015	Chouteau County	2005	5.463
+30	Montana	015	Chouteau County	2010	5.813
+30	Montana	015	Chouteau County	2015	5.767
+30	Montana	017	Custer County	1985	13.450
+30	Montana	017	Custer County	1990	11.700
+30	Montana	017	Custer County	1995	12.190
+30	Montana	017	Custer County	2000	11.700
+30	Montana	017	Custer County	2005	11.267
+30	Montana	017	Custer County	2010	11.699
+30	Montana	017	Custer County	2015	12.135
+30	Montana	019	Daniels County	1985	2.770
+30	Montana	019	Daniels County	1990	2.270
+30	Montana	019	Daniels County	1995	2.140
+30	Montana	019	Daniels County	2000	2.020
+30	Montana	019	Daniels County	2005	1.836
+30	Montana	019	Daniels County	2010	1.751
+30	Montana	019	Daniels County	2015	1.760
+30	Montana	021	Dawson County	1985	12.700
+30	Montana	021	Dawson County	1990	9.510
+30	Montana	021	Dawson County	1995	9.100
+30	Montana	021	Dawson County	2000	9.060
+30	Montana	021	Dawson County	2005	8.688
+30	Montana	021	Dawson County	2010	8.966
+30	Montana	021	Dawson County	2015	9.625
+30	Montana	023	Deer Lodge County	1985	11.190
+30	Montana	023	Deer Lodge County	1990	10.280
+30	Montana	023	Deer Lodge County	1995	10.150
+30	Montana	023	Deer Lodge County	2000	9.420
+30	Montana	023	Deer Lodge County	2005	8.948
+30	Montana	023	Deer Lodge County	2010	9.298
+30	Montana	023	Deer Lodge County	2015	9.139
+30	Montana	025	Fallon County	1985	3.760
+30	Montana	025	Fallon County	1990	3.100
+30	Montana	025	Fallon County	1995	3.000
+30	Montana	025	Fallon County	2000	2.840
+30	Montana	025	Fallon County	2005	2.717
+30	Montana	025	Fallon County	2010	2.890
+30	Montana	025	Fallon County	2015	3.190
+30	Montana	027	Fergus County	1985	12.900
+30	Montana	027	Fergus County	1990	12.080
+30	Montana	027	Fergus County	1995	12.690
+30	Montana	027	Fergus County	2000	11.890
+30	Montana	027	Fergus County	2005	11.551
+30	Montana	027	Fergus County	2010	11.586
+30	Montana	027	Fergus County	2015	11.427
+30	Montana	029	Flathead County	1985	53.830
+30	Montana	029	Flathead County	1990	59.220
+30	Montana	029	Flathead County	1995	69.510
+30	Montana	029	Flathead County	2000	74.470
+30	Montana	029	Flathead County	2005	83.172
+30	Montana	029	Flathead County	2010	90.928
+30	Montana	029	Flathead County	2015	96.165
+30	Montana	031	Gallatin County	1985	47.560
+30	Montana	031	Gallatin County	1990	50.460
+30	Montana	031	Gallatin County	1995	59.410
+30	Montana	031	Gallatin County	2000	67.830
+30	Montana	031	Gallatin County	2005	78.210
+30	Montana	031	Gallatin County	2010	89.513
+30	Montana	031	Gallatin County	2015	100.739
+30	Montana	033	Garfield County	1985	1.690
+30	Montana	033	Garfield County	1990	1.590
+30	Montana	033	Garfield County	1995	1.420
+30	Montana	033	Garfield County	2000	1.280
+30	Montana	033	Garfield County	2005	1.199
+30	Montana	033	Garfield County	2010	1.206
+30	Montana	033	Garfield County	2015	1.314
+30	Montana	035	Glacier County	1985	11.280
+30	Montana	035	Glacier County	1990	12.120
+30	Montana	035	Glacier County	1995	12.680
+30	Montana	035	Glacier County	2000	13.250
+30	Montana	035	Glacier County	2005	13.552
+30	Montana	035	Glacier County	2010	13.399
+30	Montana	035	Glacier County	2015	13.647
+30	Montana	037	Golden Valley County	1985	1.100
+30	Montana	037	Golden Valley County	1990	0.910
+30	Montana	037	Golden Valley County	1995	0.980
+30	Montana	037	Golden Valley County	2000	1.040
+30	Montana	037	Golden Valley County	2005	1.159
+30	Montana	037	Golden Valley County	2010	0.884
+30	Montana	037	Golden Valley County	2015	0.827
+30	Montana	039	Granite County	1985	2.810
+30	Montana	039	Granite County	1990	2.550
+30	Montana	039	Granite County	1995	2.620
+30	Montana	039	Granite County	2000	2.830
+30	Montana	039	Granite County	2005	2.965
+30	Montana	039	Granite County	2010	3.079
+30	Montana	039	Granite County	2015	3.240
+30	Montana	041	Hill County	1985	18.530
+30	Montana	041	Hill County	1990	17.650
+30	Montana	041	Hill County	1995	17.670
+30	Montana	041	Hill County	2000	16.670
+30	Montana	041	Hill County	2005	16.304
+30	Montana	041	Hill County	2010	16.096
+30	Montana	041	Hill County	2015	16.572
+30	Montana	043	Jefferson County	1985	8.030
+30	Montana	043	Jefferson County	1990	7.940
+30	Montana	043	Jefferson County	1995	9.230
+30	Montana	043	Jefferson County	2000	10.050
+30	Montana	043	Jefferson County	2005	11.170
+30	Montana	043	Jefferson County	2010	11.406
+30	Montana	043	Jefferson County	2015	11.645
+30	Montana	045	Judith Basin County	1985	2.700
+30	Montana	045	Judith Basin County	1990	2.280
+30	Montana	045	Judith Basin County	1995	2.280
+30	Montana	045	Judith Basin County	2000	2.330
+30	Montana	045	Judith Basin County	2005	2.198
+30	Montana	045	Judith Basin County	2010	2.072
+30	Montana	045	Judith Basin County	2015	1.926
+30	Montana	047	Lake County	1985	20.380
+30	Montana	047	Lake County	1990	21.040
+30	Montana	047	Lake County	1995	24.480
+30	Montana	047	Lake County	2000	26.510
+30	Montana	047	Lake County	2005	28.297
+30	Montana	047	Lake County	2010	28.746
+30	Montana	047	Lake County	2015	29.457
+30	Montana	049	Lewis and Clark County	1985	45.740
+30	Montana	049	Lewis and Clark County	1990	47.490
+30	Montana	049	Lewis and Clark County	1995	52.780
+30	Montana	049	Lewis and Clark County	2000	55.720
+30	Montana	049	Lewis and Clark County	2005	58.449
+30	Montana	049	Lewis and Clark County	2010	63.395
+30	Montana	049	Lewis and Clark County	2015	66.418
+30	Montana	051	Liberty County	1985	2.540
+30	Montana	051	Liberty County	1990	2.290
+30	Montana	051	Liberty County	1995	2.250
+30	Montana	051	Liberty County	2000	2.160
+30	Montana	051	Liberty County	2005	2.003
+30	Montana	051	Liberty County	2010	2.339
+30	Montana	051	Liberty County	2015	2.408
+30	Montana	053	Lincoln County	1985	18.650
+30	Montana	053	Lincoln County	1990	17.480
+30	Montana	053	Lincoln County	1995	18.680
+30	Montana	053	Lincoln County	2000	18.840
+30	Montana	053	Lincoln County	2005	19.193
+30	Montana	053	Lincoln County	2010	19.687
+30	Montana	053	Lincoln County	2015	19.052
+30	Montana	055	McCone County	1985	2.700
+30	Montana	055	McCone County	1990	2.280
+30	Montana	055	McCone County	1995	2.120
+30	Montana	055	McCone County	2000	1.980
+30	Montana	055	McCone County	2005	1.805
+30	Montana	055	McCone County	2010	1.734
+30	Montana	055	McCone County	2015	1.683
+30	Montana	057	Madison County	1985	5.840
+30	Montana	057	Madison County	1990	5.990
+30	Montana	057	Madison County	1995	6.660
+30	Montana	057	Madison County	2000	6.850
+30	Montana	057	Madison County	2005	7.274
+30	Montana	057	Madison County	2010	7.691
+30	Montana	057	Madison County	2015	7.915
+30	Montana	059	Meagher County	1985	2.230
+30	Montana	059	Meagher County	1990	1.820
+30	Montana	059	Meagher County	1995	1.830
+30	Montana	059	Meagher County	2000	1.930
+30	Montana	059	Meagher County	2005	1.999
+30	Montana	059	Meagher County	2010	1.891
+30	Montana	059	Meagher County	2015	1.830
+30	Montana	061	Mineral County	1985	3.690
+30	Montana	061	Mineral County	1990	3.320
+30	Montana	061	Mineral County	1995	3.630
+30	Montana	061	Mineral County	2000	3.880
+30	Montana	061	Mineral County	2005	4.014
+30	Montana	061	Mineral County	2010	4.223
+30	Montana	061	Mineral County	2015	4.251
+30	Montana	063	Missoula County	1985	76.020
+30	Montana	063	Missoula County	1990	78.690
+30	Montana	063	Missoula County	1995	87.130
+30	Montana	063	Missoula County	2000	95.800
+30	Montana	063	Missoula County	2005	100.086
+30	Montana	063	Missoula County	2010	109.299
+30	Montana	063	Missoula County	2015	114.181
+30	Montana	065	Musselshell County	1985	4.700
+30	Montana	065	Musselshell County	1990	4.110
+30	Montana	065	Musselshell County	1995	4.490
+30	Montana	065	Musselshell County	2000	4.500
+30	Montana	065	Musselshell County	2005	4.497
+30	Montana	065	Musselshell County	2010	4.538
+30	Montana	065	Musselshell County	2015	4.582
+30	Montana	067	Park County	1985	13.050
+30	Montana	067	Park County	1990	14.560
+30	Montana	067	Park County	1995	15.860
+30	Montana	067	Park County	2000	15.690
+30	Montana	067	Park County	2005	15.968
+30	Montana	067	Park County	2010	15.636
+30	Montana	067	Park County	2015	15.972
+30	Montana	069	Petroleum County	1985	0.670
+30	Montana	069	Petroleum County	1990	0.520
+30	Montana	069	Petroleum County	1995	0.530
+30	Montana	069	Petroleum County	2000	0.490
+30	Montana	069	Petroleum County	2005	0.470
+30	Montana	069	Petroleum County	2010	0.494
+30	Montana	069	Petroleum County	2015	0.475
+30	Montana	071	Phillips County	1985	5.670
+30	Montana	071	Phillips County	1990	5.160
+30	Montana	071	Phillips County	1995	5.150
+30	Montana	071	Phillips County	2000	4.600
+30	Montana	071	Phillips County	2005	4.179
+30	Montana	071	Phillips County	2010	4.253
+30	Montana	071	Phillips County	2015	4.169
+30	Montana	073	Pondera County	1985	7.060
+30	Montana	073	Pondera County	1990	6.430
+30	Montana	073	Pondera County	1995	6.270
+30	Montana	073	Pondera County	2000	6.420
+30	Montana	073	Pondera County	2005	6.087
+30	Montana	073	Pondera County	2010	6.153
+30	Montana	073	Pondera County	2015	6.184
+30	Montana	075	Powder River County	1985	2.480
+30	Montana	075	Powder River County	1990	2.090
+30	Montana	075	Powder River County	1995	2.010
+30	Montana	075	Powder River County	2000	1.860
+30	Montana	075	Powder River County	2005	1.705
+30	Montana	075	Powder River County	2010	1.743
+30	Montana	075	Powder River County	2015	1.773
+30	Montana	077	Powell County	1985	6.870
+30	Montana	077	Powell County	1990	6.620
+30	Montana	077	Powell County	1995	6.860
+30	Montana	077	Powell County	2000	7.180
+30	Montana	077	Powell County	2005	6.999
+30	Montana	077	Powell County	2010	7.027
+30	Montana	077	Powell County	2015	6.840
+30	Montana	079	Prairie County	1985	1.870
+30	Montana	079	Prairie County	1990	1.380
+30	Montana	079	Prairie County	1995	1.340
+30	Montana	079	Prairie County	2000	1.200
+30	Montana	079	Prairie County	2005	1.105
+30	Montana	079	Prairie County	2010	1.179
+30	Montana	079	Prairie County	2015	1.160
+30	Montana	081	Ravalli County	1985	24.830
+30	Montana	081	Ravalli County	1990	25.010
+30	Montana	081	Ravalli County	1995	32.230
+30	Montana	081	Ravalli County	2000	36.070
+30	Montana	081	Ravalli County	2005	39.940
+30	Montana	081	Ravalli County	2010	40.212
+30	Montana	081	Ravalli County	2015	41.373
+30	Montana	083	Richland County	1985	14.350
+30	Montana	083	Richland County	1990	10.720
+30	Montana	083	Richland County	1995	10.350
+30	Montana	083	Richland County	2000	9.670
+30	Montana	083	Richland County	2005	9.096
+30	Montana	083	Richland County	2010	9.746
+30	Montana	083	Richland County	2015	11.960
+30	Montana	085	Roosevelt County	1985	11.560
+30	Montana	085	Roosevelt County	1990	11.000
+30	Montana	085	Roosevelt County	1995	11.240
+30	Montana	085	Roosevelt County	2000	10.620
+30	Montana	085	Roosevelt County	2005	10.524
+30	Montana	085	Roosevelt County	2010	10.425
+30	Montana	085	Roosevelt County	2015	11.476
+30	Montana	087	Rosebud County	1985	13.140
+30	Montana	087	Rosebud County	1990	10.510
+30	Montana	087	Rosebud County	1995	10.880
+30	Montana	087	Rosebud County	2000	9.380
+30	Montana	087	Rosebud County	2005	9.212
+30	Montana	087	Rosebud County	2010	9.233
+30	Montana	087	Rosebud County	2015	9.398
+30	Montana	089	Sanders County	1985	9.190
+30	Montana	089	Sanders County	1990	8.670
+30	Montana	089	Sanders County	1995	10.090
+30	Montana	089	Sanders County	2000	10.230
+30	Montana	089	Sanders County	2005	11.057
+30	Montana	089	Sanders County	2010	11.413
+30	Montana	089	Sanders County	2015	11.336
+30	Montana	091	Sheridan County	1985	5.940
+30	Montana	091	Sheridan County	1990	4.730
+30	Montana	091	Sheridan County	1995	4.430
+30	Montana	091	Sheridan County	2000	4.110
+30	Montana	091	Sheridan County	2005	3.524
+30	Montana	091	Sheridan County	2010	3.384
+30	Montana	091	Sheridan County	2015	3.687
+30	Montana	093	Silver Bow County	1985	35.170
+30	Montana	093	Silver Bow County	1990	33.940
+30	Montana	093	Silver Bow County	1995	34.800
+30	Montana	093	Silver Bow County	2000	34.610
+30	Montana	093	Silver Bow County	2005	32.982
+30	Montana	093	Silver Bow County	2010	34.200
+30	Montana	093	Silver Bow County	2015	34.622
+30	Montana	095	Stillwater County	1985	6.010
+30	Montana	095	Stillwater County	1990	6.540
+30	Montana	095	Stillwater County	1995	7.470
+30	Montana	095	Stillwater County	2000	8.200
+30	Montana	095	Stillwater County	2005	8.493
+30	Montana	095	Stillwater County	2010	9.117
+30	Montana	095	Stillwater County	2015	9.486
+30	Montana	097	Sweet Grass County	1985	3.300
+30	Montana	097	Sweet Grass County	1990	3.150
+30	Montana	097	Sweet Grass County	1995	3.370
+30	Montana	097	Sweet Grass County	2000	3.610
+30	Montana	097	Sweet Grass County	2005	3.672
+30	Montana	097	Sweet Grass County	2010	3.651
+30	Montana	097	Sweet Grass County	2015	3.634
+30	Montana	099	Teton County	1985	6.440
+30	Montana	099	Teton County	1990	6.270
+30	Montana	099	Teton County	1995	6.370
+30	Montana	099	Teton County	2000	6.450
+30	Montana	099	Teton County	2005	6.240
+30	Montana	099	Teton County	2010	6.073
+30	Montana	099	Teton County	2015	6.104
+30	Montana	101	Toole County	1985	5.740
+30	Montana	101	Toole County	1990	5.050
+30	Montana	101	Toole County	1995	5.100
+30	Montana	101	Toole County	2000	5.270
+30	Montana	101	Toole County	2005	5.031
+30	Montana	101	Toole County	2010	5.324
+30	Montana	101	Toole County	2015	5.087
+30	Montana	103	Treasure County	1985	1.010
+30	Montana	103	Treasure County	1990	0.870
+30	Montana	103	Treasure County	1995	0.840
+30	Montana	103	Treasure County	2000	0.860
+30	Montana	103	Treasure County	2005	0.689
+30	Montana	103	Treasure County	2010	0.718
+30	Montana	103	Treasure County	2015	0.697
+30	Montana	105	Valley County	1985	9.970
+30	Montana	105	Valley County	1990	8.240
+30	Montana	105	Valley County	1995	8.460
+30	Montana	105	Valley County	2000	7.680
+30	Montana	105	Valley County	2005	7.143
+30	Montana	105	Valley County	2010	7.369
+30	Montana	105	Valley County	2015	7.659
+30	Montana	107	Wheatland County	1985	2.300
+30	Montana	107	Wheatland County	1990	2.250
+30	Montana	107	Wheatland County	1995	2.420
+30	Montana	107	Wheatland County	2000	2.260
+30	Montana	107	Wheatland County	2005	2.037
+30	Montana	107	Wheatland County	2010	2.168
+30	Montana	107	Wheatland County	2015	2.110
+30	Montana	109	Wibaux County	1985	1.490
+30	Montana	109	Wibaux County	1990	1.190
+30	Montana	109	Wibaux County	1995	1.170
+30	Montana	109	Wibaux County	2000	1.070
+30	Montana	109	Wibaux County	2005	0.951
+30	Montana	109	Wibaux County	2010	1.017
+30	Montana	109	Wibaux County	2015	1.130
+30	Montana	111	Yellowstone County	1985	118.670
+30	Montana	111	Yellowstone County	1990	113.420
+30	Montana	111	Yellowstone County	1995	124.660
+30	Montana	111	Yellowstone County	2000	129.350
+30	Montana	111	Yellowstone County	2005	136.691
+30	Montana	111	Yellowstone County	2010	147.972
+30	Montana	111	Yellowstone County	2015	157.048
+30	Montana	113	Yellowstone Natl Park County	1985	0.280
+30	Montana	113	Yellowstone Natl Park County	1990	0.050
+30	Montana	113	Yellowstone Natl Park County	1995	0.050

@@ -1,0 +1,148 @@
+#
+# File created on 2019-05-18 23:23:27 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+23	Maine	001	Androscoggin County	1985	100.700
+23	Maine	001	Androscoggin County	1990	105.260
+23	Maine	001	Androscoggin County	1995	103.750
+23	Maine	001	Androscoggin County	2000	103.790
+23	Maine	001	Androscoggin County	2005	108.039
+23	Maine	001	Androscoggin County	2010	107.702
+23	Maine	001	Androscoggin County	2015	107.233
+23	Maine	003	Aroostook County	1985	88.950
+23	Maine	003	Aroostook County	1990	86.940
+23	Maine	003	Aroostook County	1995	78.630
+23	Maine	003	Aroostook County	2000	73.940
+23	Maine	003	Aroostook County	2005	73.240
+23	Maine	003	Aroostook County	2010	71.870
+23	Maine	003	Aroostook County	2015	68.628
+23	Maine	005	Cumberland County	1985	223.250
+23	Maine	005	Cumberland County	1990	243.110
+23	Maine	005	Cumberland County	1995	248.530
+23	Maine	005	Cumberland County	2000	265.610
+23	Maine	005	Cumberland County	2005	274.950
+23	Maine	005	Cumberland County	2010	281.674
+23	Maine	005	Cumberland County	2015	289.977
+23	Maine	007	Franklin County	1985	29.030
+23	Maine	007	Franklin County	1990	29.010
+23	Maine	007	Franklin County	1995	29.510
+23	Maine	007	Franklin County	2000	29.470
+23	Maine	007	Franklin County	2005	29.704
+23	Maine	007	Franklin County	2010	30.768
+23	Maine	007	Franklin County	2015	29.991
+23	Maine	009	Hancock County	1985	43.430
+23	Maine	009	Hancock County	1990	46.950
+23	Maine	009	Hancock County	1995	49.270
+23	Maine	009	Hancock County	2000	51.790
+23	Maine	009	Hancock County	2005	53.660
+23	Maine	009	Hancock County	2010	54.418
+23	Maine	009	Hancock County	2015	54.659
+23	Maine	011	Kennebec County	1985	112.180
+23	Maine	011	Kennebec County	1990	115.900
+23	Maine	011	Kennebec County	1995	117.000
+23	Maine	011	Kennebec County	2000	117.110
+23	Maine	011	Kennebec County	2005	120.986
+23	Maine	011	Kennebec County	2010	122.151
+23	Maine	011	Kennebec County	2015	119.980
+23	Maine	013	Knox County	1985	34.160
+23	Maine	013	Knox County	1990	36.310
+23	Maine	013	Knox County	1995	37.370
+23	Maine	013	Knox County	2000	39.620
+23	Maine	013	Knox County	2005	41.219
+23	Maine	013	Knox County	2010	39.736
+23	Maine	013	Knox County	2015	39.855
+23	Maine	015	Lincoln County	1985	27.520
+23	Maine	015	Lincoln County	1990	30.360
+23	Maine	015	Lincoln County	1995	31.330
+23	Maine	015	Lincoln County	2000	33.620
+23	Maine	015	Lincoln County	2005	35.240
+23	Maine	015	Lincoln County	2010	34.457
+23	Maine	015	Lincoln County	2015	33.969
+23	Maine	017	Oxford County	1985	49.660
+23	Maine	017	Oxford County	1990	52.600
+23	Maine	017	Oxford County	1995	53.440
+23	Maine	017	Oxford County	2000	54.760
+23	Maine	017	Oxford County	2005	56.628
+23	Maine	017	Oxford County	2010	57.833
+23	Maine	017	Oxford County	2015	57.202
+23	Maine	019	Penobscot County	1985	138.430
+23	Maine	019	Penobscot County	1990	146.600
+23	Maine	019	Penobscot County	1995	145.900
+23	Maine	019	Penobscot County	2000	144.920
+23	Maine	019	Penobscot County	2005	147.068
+23	Maine	019	Penobscot County	2010	153.923
+23	Maine	019	Penobscot County	2015	152.692
+23	Maine	021	Piscataquis County	1985	18.000
+23	Maine	021	Piscataquis County	1990	18.650
+23	Maine	021	Piscataquis County	1995	18.490
+23	Maine	021	Piscataquis County	2000	17.240
+23	Maine	021	Piscataquis County	2005	17.674
+23	Maine	021	Piscataquis County	2010	17.535
+23	Maine	021	Piscataquis County	2015	16.931
+23	Maine	023	Sagadahoc County	1985	30.320
+23	Maine	023	Sagadahoc County	1990	33.530
+23	Maine	023	Sagadahoc County	1995	33.960
+23	Maine	023	Sagadahoc County	2000	35.210
+23	Maine	023	Sagadahoc County	2005	36.962
+23	Maine	023	Sagadahoc County	2010	35.293
+23	Maine	023	Sagadahoc County	2015	35.149
+23	Maine	025	Somerset County	1985	46.480
+23	Maine	025	Somerset County	1990	49.770
+23	Maine	025	Somerset County	1995	51.350
+23	Maine	025	Somerset County	2000	50.890
+23	Maine	025	Somerset County	2005	51.667
+23	Maine	025	Somerset County	2010	52.228
+23	Maine	025	Somerset County	2015	51.113
+23	Maine	027	Waldo County	1985	29.450
+23	Maine	027	Waldo County	1990	33.020
+23	Maine	027	Waldo County	1995	35.710
+23	Maine	027	Waldo County	2000	36.280
+23	Maine	027	Waldo County	2005	38.705
+23	Maine	027	Waldo County	2010	38.786
+23	Maine	027	Waldo County	2015	39.155
+23	Maine	029	Washington County	1985	34.120
+23	Maine	029	Washington County	1990	35.310
+23	Maine	029	Washington County	1995	36.160
+23	Maine	029	Washington County	2000	33.940
+23	Maine	029	Washington County	2005	33.448
+23	Maine	029	Washington County	2010	32.856
+23	Maine	029	Washington County	2015	31.625
+23	Maine	031	York County	1985	151.500
+23	Maine	031	York County	1990	164.590
+23	Maine	031	York County	1995	170.980
+23	Maine	031	York County	2000	186.740
+23	Maine	031	York County	2005	202.315
+23	Maine	031	York County	2010	197.131
+23	Maine	031	York County	2015	201.169

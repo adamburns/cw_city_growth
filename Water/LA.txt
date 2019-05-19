@@ -1,0 +1,484 @@
+#
+# File created on 2019-05-18 23:23:26 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+22	Louisiana	001	Acadia Parish	1985	59.500
+22	Louisiana	001	Acadia Parish	1990	55.880
+22	Louisiana	001	Acadia Parish	1995	57.380
+22	Louisiana	001	Acadia Parish	2000	58.860
+22	Louisiana	001	Acadia Parish	2005	59.552
+22	Louisiana	001	Acadia Parish	2010	61.773
+22	Louisiana	001	Acadia Parish	2015	62.577
+22	Louisiana	003	Allen Parish	1985	21.600
+22	Louisiana	003	Allen Parish	1990	21.230
+22	Louisiana	003	Allen Parish	1995	23.620
+22	Louisiana	003	Allen Parish	2000	25.440
+22	Louisiana	003	Allen Parish	2005	25.270
+22	Louisiana	003	Allen Parish	2010	25.764
+22	Louisiana	003	Allen Parish	2015	25.683
+22	Louisiana	005	Ascension Parish	1985	58.000
+22	Louisiana	005	Ascension Parish	1990	58.210
+22	Louisiana	005	Ascension Parish	1995	65.850
+22	Louisiana	005	Ascension Parish	2000	76.630
+22	Louisiana	005	Ascension Parish	2005	90.501
+22	Louisiana	005	Ascension Parish	2010	107.215
+22	Louisiana	005	Ascension Parish	2015	119.455
+22	Louisiana	007	Assumption Parish	1985	23.300
+22	Louisiana	007	Assumption Parish	1990	22.750
+22	Louisiana	007	Assumption Parish	1995	22.860
+22	Louisiana	007	Assumption Parish	2000	23.390
+22	Louisiana	007	Assumption Parish	2005	23.196
+22	Louisiana	007	Assumption Parish	2010	23.421
+22	Louisiana	007	Assumption Parish	2015	22.842
+22	Louisiana	009	Avoyelles Parish	1985	43.300
+22	Louisiana	009	Avoyelles Parish	1990	39.160
+22	Louisiana	009	Avoyelles Parish	1995	40.120
+22	Louisiana	009	Avoyelles Parish	2000	41.480
+22	Louisiana	009	Avoyelles Parish	2005	42.098
+22	Louisiana	009	Avoyelles Parish	2010	42.073
+22	Louisiana	009	Avoyelles Parish	2015	41.103
+22	Louisiana	011	Beauregard Parish	1985	32.300
+22	Louisiana	011	Beauregard Parish	1990	30.080
+22	Louisiana	011	Beauregard Parish	1995	31.790
+22	Louisiana	011	Beauregard Parish	2000	32.990
+22	Louisiana	011	Beauregard Parish	2005	34.562
+22	Louisiana	011	Beauregard Parish	2010	35.654
+22	Louisiana	011	Beauregard Parish	2015	36.462
+22	Louisiana	013	Bienville Parish	1985	16.600
+22	Louisiana	013	Bienville Parish	1990	15.980
+22	Louisiana	013	Bienville Parish	1995	15.810
+22	Louisiana	013	Bienville Parish	2000	15.750
+22	Louisiana	013	Bienville Parish	2005	15.176
+22	Louisiana	013	Bienville Parish	2010	14.353
+22	Louisiana	013	Bienville Parish	2015	13.786
+22	Louisiana	015	Bossier Parish	1985	90.000
+22	Louisiana	015	Bossier Parish	1990	86.090
+22	Louisiana	015	Bossier Parish	1995	90.890
+22	Louisiana	015	Bossier Parish	2000	98.310
+22	Louisiana	015	Bossier Parish	2005	105.541
+22	Louisiana	015	Bossier Parish	2010	116.979
+22	Louisiana	015	Bossier Parish	2015	125.175
+22	Louisiana	017	Caddo Parish	1985	272.500
+22	Louisiana	017	Caddo Parish	1990	248.250
+22	Louisiana	017	Caddo Parish	1995	246.700
+22	Louisiana	017	Caddo Parish	2000	252.160
+22	Louisiana	017	Caddo Parish	2005	251.309
+22	Louisiana	017	Caddo Parish	2010	254.969
+22	Louisiana	017	Caddo Parish	2015	251.460
+22	Louisiana	019	Calcasieu Parish	1985	174.300
+22	Louisiana	019	Calcasieu Parish	1990	168.130
+22	Louisiana	019	Calcasieu Parish	1995	175.870
+22	Louisiana	019	Calcasieu Parish	2000	183.580
+22	Louisiana	019	Calcasieu Parish	2005	185.419
+22	Louisiana	019	Calcasieu Parish	2010	192.768
+22	Louisiana	019	Calcasieu Parish	2015	198.788
+22	Louisiana	021	Caldwell Parish	1985	11.200
+22	Louisiana	021	Caldwell Parish	1990	9.810
+22	Louisiana	021	Caldwell Parish	1995	10.200
+22	Louisiana	021	Caldwell Parish	2000	10.560
+22	Louisiana	021	Caldwell Parish	2005	10.563
+22	Louisiana	021	Caldwell Parish	2010	10.132
+22	Louisiana	021	Caldwell Parish	2015	9.993
+22	Louisiana	023	Cameron Parish	1985	9.900
+22	Louisiana	023	Cameron Parish	1990	9.260
+22	Louisiana	023	Cameron Parish	1995	8.800
+22	Louisiana	023	Cameron Parish	2000	9.990
+22	Louisiana	023	Cameron Parish	2005	9.558
+22	Louisiana	023	Cameron Parish	2010	6.839
+22	Louisiana	023	Cameron Parish	2015	6.817
+22	Louisiana	025	Catahoula Parish	1985	12.600
+22	Louisiana	025	Catahoula Parish	1990	11.070
+22	Louisiana	025	Catahoula Parish	1995	11.180
+22	Louisiana	025	Catahoula Parish	2000	10.920
+22	Louisiana	025	Catahoula Parish	2005	10.447
+22	Louisiana	025	Catahoula Parish	2010	10.407
+22	Louisiana	025	Catahoula Parish	2015	10.147
+22	Louisiana	027	Claiborne Parish	1985	18.500
+22	Louisiana	027	Claiborne Parish	1990	17.400
+22	Louisiana	027	Claiborne Parish	1995	17.260
+22	Louisiana	027	Claiborne Parish	2000	16.850
+22	Louisiana	027	Claiborne Parish	2005	16.309
+22	Louisiana	027	Claiborne Parish	2010	17.195
+22	Louisiana	027	Claiborne Parish	2015	16.295
+22	Louisiana	029	Concordia Parish	1985	23.500
+22	Louisiana	029	Concordia Parish	1990	20.830
+22	Louisiana	029	Concordia Parish	1995	21.060
+22	Louisiana	029	Concordia Parish	2000	20.250
+22	Louisiana	029	Concordia Parish	2005	19.273
+22	Louisiana	029	Concordia Parish	2010	20.822
+22	Louisiana	029	Concordia Parish	2015	20.142
+22	Louisiana	031	De Soto Parish	1985	28.100
+22	Louisiana	031	De Soto Parish	1990	25.350
+22	Louisiana	031	De Soto Parish	1995	25.170
+22	Louisiana	031	De Soto Parish	2000	25.490
+22	Louisiana	031	De Soto Parish	2005	26.383
+22	Louisiana	031	De Soto Parish	2010	26.656
+22	Louisiana	031	De Soto Parish	2015	27.052
+22	Louisiana	033	East Baton Rouge Parish	1985	393.600
+22	Louisiana	033	East Baton Rouge Parish	1990	380.100
+22	Louisiana	033	East Baton Rouge Parish	1995	397.360
+22	Louisiana	033	East Baton Rouge Parish	2000	412.850
+22	Louisiana	033	East Baton Rouge Parish	2005	411.417
+22	Louisiana	033	East Baton Rouge Parish	2010	440.171
+22	Louisiana	033	East Baton Rouge Parish	2015	446.753
+22	Louisiana	035	East Carroll Parish	1985	11.200
+22	Louisiana	035	East Carroll Parish	1990	9.710
+22	Louisiana	035	East Carroll Parish	1995	9.510
+22	Louisiana	035	East Carroll Parish	2000	9.420
+22	Louisiana	035	East Carroll Parish	2005	8.756
+22	Louisiana	035	East Carroll Parish	2010	7.759
+22	Louisiana	035	East Carroll Parish	2015	7.307
+22	Louisiana	037	East Feliciana Parish	1985	20.600
+22	Louisiana	037	East Feliciana Parish	1990	19.210
+22	Louisiana	037	East Feliciana Parish	1995	20.550
+22	Louisiana	037	East Feliciana Parish	2000	21.360
+22	Louisiana	037	East Feliciana Parish	2005	20.823
+22	Louisiana	037	East Feliciana Parish	2010	20.267
+22	Louisiana	037	East Feliciana Parish	2015	19.696
+22	Louisiana	039	Evangeline Parish	1985	35.200
+22	Louisiana	039	Evangeline Parish	1990	33.270
+22	Louisiana	039	Evangeline Parish	1995	33.840
+22	Louisiana	039	Evangeline Parish	2000	35.430
+22	Louisiana	039	Evangeline Parish	2005	35.540
+22	Louisiana	039	Evangeline Parish	2010	33.984
+22	Louisiana	039	Evangeline Parish	2015	33.743
+22	Louisiana	041	Franklin Parish	1985	24.100
+22	Louisiana	041	Franklin Parish	1990	22.390
+22	Louisiana	041	Franklin Parish	1995	22.270
+22	Louisiana	041	Franklin Parish	2000	21.260
+22	Louisiana	041	Franklin Parish	2005	20.380
+22	Louisiana	041	Franklin Parish	2010	20.767
+22	Louisiana	041	Franklin Parish	2015	20.410
+22	Louisiana	043	Grant Parish	1985	18.200
+22	Louisiana	043	Grant Parish	1990	17.530
+22	Louisiana	043	Grant Parish	1995	18.270
+22	Louisiana	043	Grant Parish	2000	18.700
+22	Louisiana	043	Grant Parish	2005	19.503
+22	Louisiana	043	Grant Parish	2010	22.309
+22	Louisiana	043	Grant Parish	2015	22.343
+22	Louisiana	045	Iberia Parish	1985	68.900
+22	Louisiana	045	Iberia Parish	1990	68.300
+22	Louisiana	045	Iberia Parish	1995	71.290
+22	Louisiana	045	Iberia Parish	2000	73.270
+22	Louisiana	045	Iberia Parish	2005	74.388
+22	Louisiana	045	Iberia Parish	2010	73.240
+22	Louisiana	045	Iberia Parish	2015	74.103
+22	Louisiana	047	Iberville Parish	1985	33.300
+22	Louisiana	047	Iberville Parish	1990	31.050
+22	Louisiana	047	Iberville Parish	1995	31.070
+22	Louisiana	047	Iberville Parish	2000	33.320
+22	Louisiana	047	Iberville Parish	2005	32.386
+22	Louisiana	047	Iberville Parish	2010	33.387
+22	Louisiana	047	Iberville Parish	2015	33.095
+22	Louisiana	049	Jackson Parish	1985	17.400
+22	Louisiana	049	Jackson Parish	1990	15.710
+22	Louisiana	049	Jackson Parish	1995	15.720
+22	Louisiana	049	Jackson Parish	2000	15.400
+22	Louisiana	049	Jackson Parish	2005	15.135
+22	Louisiana	049	Jackson Parish	2010	16.274
+22	Louisiana	049	Jackson Parish	2015	15.858
+22	Louisiana	051	Jefferson Parish	1985	476.700
+22	Louisiana	051	Jefferson Parish	1990	448.310
+22	Louisiana	051	Jefferson Parish	1995	457.330
+22	Louisiana	051	Jefferson Parish	2000	455.470
+22	Louisiana	051	Jefferson Parish	2005	452.824
+22	Louisiana	051	Jefferson Parish	2010	432.552
+22	Louisiana	051	Jefferson Parish	2015	436.275
+22	Louisiana	053	Jefferson Davis Parish	1985	33.000
+22	Louisiana	053	Jefferson Davis Parish	1990	30.720
+22	Louisiana	053	Jefferson Davis Parish	1995	31.720
+22	Louisiana	053	Jefferson Davis Parish	2000	31.440
+22	Louisiana	053	Jefferson Davis Parish	2005	31.272
+22	Louisiana	053	Jefferson Davis Parish	2010	31.594
+22	Louisiana	053	Jefferson Davis Parish	2015	31.439
+22	Louisiana	055	Lafayette Parish	1985	171.500
+22	Louisiana	055	Lafayette Parish	1990	164.760
+22	Louisiana	055	Lafayette Parish	1995	179.690
+22	Louisiana	055	Lafayette Parish	2000	190.500
+22	Louisiana	055	Lafayette Parish	2005	197.390
+22	Louisiana	055	Lafayette Parish	2010	221.578
+22	Louisiana	055	Lafayette Parish	2015	240.098
+22	Louisiana	057	Lafourche Parish	1985	88.100
+22	Louisiana	057	Lafourche Parish	1990	85.860
+22	Louisiana	057	Lafourche Parish	1995	87.580
+22	Louisiana	057	Lafourche Parish	2000	89.970
+22	Louisiana	057	Lafourche Parish	2005	92.179
+22	Louisiana	057	Lafourche Parish	2010	96.318
+22	Louisiana	057	Lafourche Parish	2015	98.325
+22	Louisiana	059	LaSalle Parish	1985	17.200
+22	Louisiana	059	LaSalle Parish	1990	13.660
+22	Louisiana	059	LaSalle Parish	1995	13.890
+22	Louisiana	059	LaSalle Parish	2000	14.280
+22	Louisiana	059	LaSalle Parish	2005	14.040
+22	Louisiana	059	LaSalle Parish	2010	14.890
+22	Louisiana	059	LaSalle Parish	2015	14.974
+22	Louisiana	061	Lincoln Parish	1985	42.900
+22	Louisiana	061	Lincoln Parish	1990	41.740
+22	Louisiana	061	Lincoln Parish	1995	43.140
+22	Louisiana	061	Lincoln Parish	2000	42.510
+22	Louisiana	061	Lincoln Parish	2005	42.108
+22	Louisiana	061	Lincoln Parish	2010	46.735
+22	Louisiana	061	Lincoln Parish	2015	47.774
+22	Louisiana	063	Livingston Parish	1985	71.800
+22	Louisiana	063	Livingston Parish	1990	70.530
+22	Louisiana	063	Livingston Parish	1995	80.570
+22	Louisiana	063	Livingston Parish	2000	91.810
+22	Louisiana	063	Livingston Parish	2005	109.206
+22	Louisiana	063	Livingston Parish	2010	128.026
+22	Louisiana	063	Livingston Parish	2015	137.788
+22	Louisiana	065	Madison Parish	1985	15.600
+22	Louisiana	065	Madison Parish	1990	12.460
+22	Louisiana	065	Madison Parish	1995	12.690
+22	Louisiana	065	Madison Parish	2000	13.730
+22	Louisiana	065	Madison Parish	2005	12.457
+22	Louisiana	065	Madison Parish	2010	12.093
+22	Louisiana	065	Madison Parish	2015	11.514
+22	Louisiana	067	Morehouse Parish	1985	36.600
+22	Louisiana	067	Morehouse Parish	1990	31.940
+22	Louisiana	067	Morehouse Parish	1995	32.050
+22	Louisiana	067	Morehouse Parish	2000	31.020
+22	Louisiana	067	Morehouse Parish	2005	29.989
+22	Louisiana	067	Morehouse Parish	2010	27.979
+22	Louisiana	067	Morehouse Parish	2015	26.395
+22	Louisiana	069	Natchitoches Parish	1985	40.200
+22	Louisiana	069	Natchitoches Parish	1990	36.690
+22	Louisiana	069	Natchitoches Parish	1995	37.860
+22	Louisiana	069	Natchitoches Parish	2000	39.080
+22	Louisiana	069	Natchitoches Parish	2005	38.541
+22	Louisiana	069	Natchitoches Parish	2010	39.566
+22	Louisiana	069	Natchitoches Parish	2015	39.179
+22	Louisiana	071	Orleans Parish	1985	555.000
+22	Louisiana	071	Orleans Parish	1990	496.940
+22	Louisiana	071	Orleans Parish	1995	481.910
+22	Louisiana	071	Orleans Parish	2000	484.670
+22	Louisiana	071	Orleans Parish	2005	454.863
+22	Louisiana	071	Orleans Parish	2010	343.829
+22	Louisiana	071	Orleans Parish	2015	389.617
+22	Louisiana	073	Ouachita Parish	1985	143.900
+22	Louisiana	073	Ouachita Parish	1990	142.190
+22	Louisiana	073	Ouachita Parish	1995	146.830
+22	Louisiana	073	Ouachita Parish	2000	147.250
+22	Louisiana	073	Ouachita Parish	2005	148.237
+22	Louisiana	073	Ouachita Parish	2010	153.720
+22	Louisiana	073	Ouachita Parish	2015	156.761
+22	Louisiana	075	Plaquemines Parish	1985	26.800
+22	Louisiana	075	Plaquemines Parish	1990	25.580
+22	Louisiana	075	Plaquemines Parish	1995	25.690
+22	Louisiana	075	Plaquemines Parish	2000	26.760
+22	Louisiana	075	Plaquemines Parish	2005	28.995
+22	Louisiana	075	Plaquemines Parish	2010	23.042
+22	Louisiana	075	Plaquemines Parish	2015	23.495
+22	Louisiana	077	Pointe Coupee Parish	1985	25.000
+22	Louisiana	077	Pointe Coupee Parish	1990	22.540
+22	Louisiana	077	Pointe Coupee Parish	1995	23.260
+22	Louisiana	077	Pointe Coupee Parish	2000	22.760
+22	Louisiana	077	Pointe Coupee Parish	2005	22.377
+22	Louisiana	077	Pointe Coupee Parish	2010	22.802
+22	Louisiana	077	Pointe Coupee Parish	2015	22.251
+22	Louisiana	079	Rapides Parish	1985	138.900
+22	Louisiana	079	Rapides Parish	1990	131.560
+22	Louisiana	079	Rapides Parish	1995	127.170
+22	Louisiana	079	Rapides Parish	2000	126.340
+22	Louisiana	079	Rapides Parish	2005	128.462
+22	Louisiana	079	Rapides Parish	2010	131.613
+22	Louisiana	079	Rapides Parish	2015	132.141
+22	Louisiana	081	Red River Parish	1985	10.900
+22	Louisiana	081	Red River Parish	1990	9.390
+22	Louisiana	081	Red River Parish	1995	9.430
+22	Louisiana	081	Red River Parish	2000	9.620
+22	Louisiana	081	Red River Parish	2005	9.465
+22	Louisiana	081	Red River Parish	2010	9.091
+22	Louisiana	081	Red River Parish	2015	8.593
+22	Louisiana	083	Richland Parish	1985	23.000
+22	Louisiana	083	Richland Parish	1990	20.630
+22	Louisiana	083	Richland Parish	1995	20.760
+22	Louisiana	083	Richland Parish	2000	20.980
+22	Louisiana	083	Richland Parish	2005	20.526
+22	Louisiana	083	Richland Parish	2010	20.725
+22	Louisiana	083	Richland Parish	2015	20.523
+22	Louisiana	085	Sabine Parish	1985	27.200
+22	Louisiana	085	Sabine Parish	1990	22.650
+22	Louisiana	085	Sabine Parish	1995	23.660
+22	Louisiana	085	Sabine Parish	2000	23.460
+22	Louisiana	085	Sabine Parish	2005	23.786
+22	Louisiana	085	Sabine Parish	2010	24.233
+22	Louisiana	085	Sabine Parish	2015	24.186
+22	Louisiana	087	St. Bernard Parish	1985	67.300
+22	Louisiana	087	St. Bernard Parish	1990	66.630
+22	Louisiana	087	St. Bernard Parish	1995	67.300
+22	Louisiana	087	St. Bernard Parish	2000	67.230
+22	Louisiana	087	St. Bernard Parish	2005	65.364
+22	Louisiana	087	St. Bernard Parish	2010	35.897
+22	Louisiana	087	St. Bernard Parish	2015	45.408
+22	Louisiana	089	St. Charles Parish	1985	42.900
+22	Louisiana	089	St. Charles Parish	1990	42.440
+22	Louisiana	089	St. Charles Parish	1995	46.520
+22	Louisiana	089	St. Charles Parish	2000	48.070
+22	Louisiana	089	St. Charles Parish	2005	50.633
+22	Louisiana	089	St. Charles Parish	2010	52.780
+22	Louisiana	089	St. Charles Parish	2015	52.812
+22	Louisiana	091	St. Helena Parish	1985	10.200
+22	Louisiana	091	St. Helena Parish	1990	9.870
+22	Louisiana	091	St. Helena Parish	1995	9.820
+22	Louisiana	091	St. Helena Parish	2000	10.530
+22	Louisiana	091	St. Helena Parish	2005	10.259
+22	Louisiana	091	St. Helena Parish	2010	11.203
+22	Louisiana	091	St. Helena Parish	2015	10.567
+22	Louisiana	093	St. James Parish	1985	22.200
+22	Louisiana	093	St. James Parish	1990	20.880
+22	Louisiana	093	St. James Parish	1995	21.040
+22	Louisiana	093	St. James Parish	2000	21.220
+22	Louisiana	093	St. James Parish	2005	21.150
+22	Louisiana	093	St. James Parish	2010	22.102
+22	Louisiana	093	St. James Parish	2015	21.567
+22	Louisiana	095	St. John the Baptist Parish	1985	40.900
+22	Louisiana	095	St. John the Baptist Parish	1990	40.000
+22	Louisiana	095	St. John the Baptist Parish	1995	42.090
+22	Louisiana	095	St. John the Baptist Parish	2000	43.040
+22	Louisiana	095	St. John the Baptist Parish	2005	46.393
+22	Louisiana	095	St. John the Baptist Parish	2010	45.924
+22	Louisiana	095	St. John the Baptist Parish	2015	43.626
+22	Louisiana	097	St. Landry Parish	1985	88.500
+22	Louisiana	097	St. Landry Parish	1990	80.330
+22	Louisiana	097	St. Landry Parish	1995	82.790
+22	Louisiana	097	St. Landry Parish	2000	87.700
+22	Louisiana	097	St. Landry Parish	2005	89.937
+22	Louisiana	097	St. Landry Parish	2010	83.384
+22	Louisiana	097	St. Landry Parish	2015	83.848
+22	Louisiana	099	St. Martin Parish	1985	45.800
+22	Louisiana	099	St. Martin Parish	1990	43.980
+22	Louisiana	099	St. Martin Parish	1995	46.000
+22	Louisiana	099	St. Martin Parish	2000	48.580
+22	Louisiana	099	St. Martin Parish	2005	50.434
+22	Louisiana	099	St. Martin Parish	2010	52.160
+22	Louisiana	099	St. Martin Parish	2015	53.835
+22	Louisiana	101	St. Mary Parish	1985	64.600
+22	Louisiana	101	St. Mary Parish	1990	58.090
+22	Louisiana	101	St. Mary Parish	1995	57.440
+22	Louisiana	101	St. Mary Parish	2000	53.500
+22	Louisiana	101	St. Mary Parish	2005	51.416
+22	Louisiana	101	St. Mary Parish	2010	54.650
+22	Louisiana	101	St. Mary Parish	2015	52.810
+22	Louisiana	103	St. Tammany Parish	1985	141.500
+22	Louisiana	103	St. Tammany Parish	1990	144.510
+22	Louisiana	103	St. Tammany Parish	1995	173.410
+22	Louisiana	103	St. Tammany Parish	2000	191.270
+22	Louisiana	103	St. Tammany Parish	2005	220.295
+22	Louisiana	103	St. Tammany Parish	2010	233.740
+22	Louisiana	103	St. Tammany Parish	2015	250.088
+22	Louisiana	105	Tangipahoa Parish	1985	92.200
+22	Louisiana	105	Tangipahoa Parish	1990	85.710
+22	Louisiana	105	Tangipahoa Parish	1995	93.230
+22	Louisiana	105	Tangipahoa Parish	2000	100.590
+22	Louisiana	105	Tangipahoa Parish	2005	106.502
+22	Louisiana	105	Tangipahoa Parish	2010	121.097
+22	Louisiana	105	Tangipahoa Parish	2015	128.755
+22	Louisiana	107	Tensas Parish	1985	8.400
+22	Louisiana	107	Tensas Parish	1990	7.100
+22	Louisiana	107	Tensas Parish	1995	6.900
+22	Louisiana	107	Tensas Parish	2000	6.620
+22	Louisiana	107	Tensas Parish	2005	6.125
+22	Louisiana	107	Tensas Parish	2010	5.252
+22	Louisiana	107	Tensas Parish	2015	4.740
+22	Louisiana	109	Terrebonne Parish	1985	101.900
+22	Louisiana	109	Terrebonne Parish	1990	96.980
+22	Louisiana	109	Terrebonne Parish	1995	101.180
+22	Louisiana	109	Terrebonne Parish	2000	104.500
+22	Louisiana	109	Terrebonne Parish	2005	107.491
+22	Louisiana	109	Terrebonne Parish	2010	111.860
+22	Louisiana	109	Terrebonne Parish	2015	113.972
+22	Louisiana	111	Union Parish	1985	22.500
+22	Louisiana	111	Union Parish	1990	20.690
+22	Louisiana	111	Union Parish	1995	21.540
+22	Louisiana	111	Union Parish	2000	22.800
+22	Louisiana	111	Union Parish	2005	22.901
+22	Louisiana	111	Union Parish	2010	22.721
+22	Louisiana	111	Union Parish	2015	22.477
+22	Louisiana	113	Vermilion Parish	1985	53.200
+22	Louisiana	113	Vermilion Parish	1990	50.050
+22	Louisiana	113	Vermilion Parish	1995	50.750
+22	Louisiana	113	Vermilion Parish	2000	53.810
+22	Louisiana	113	Vermilion Parish	2005	55.195
+22	Louisiana	113	Vermilion Parish	2010	57.999
+22	Louisiana	113	Vermilion Parish	2015	59.875
+22	Louisiana	115	Vernon Parish	1985	59.000
+22	Louisiana	115	Vernon Parish	1990	61.960
+22	Louisiana	115	Vernon Parish	1995	55.260
+22	Louisiana	115	Vernon Parish	2000	52.530
+22	Louisiana	115	Vernon Parish	2005	48.745
+22	Louisiana	115	Vernon Parish	2010	52.334
+22	Louisiana	115	Vernon Parish	2015	50.803
+22	Louisiana	117	Washington Parish	1985	46.700
+22	Louisiana	117	Washington Parish	1990	43.180
+22	Louisiana	117	Washington Parish	1995	43.150
+22	Louisiana	117	Washington Parish	2000	43.930
+22	Louisiana	117	Washington Parish	2005	44.623
+22	Louisiana	117	Washington Parish	2010	47.168
+22	Louisiana	117	Washington Parish	2015	46.371
+22	Louisiana	119	Webster Parish	1985	45.900
+22	Louisiana	119	Webster Parish	1990	41.990
+22	Louisiana	119	Webster Parish	1995	42.200
+22	Louisiana	119	Webster Parish	2000	41.830
+22	Louisiana	119	Webster Parish	2005	41.356
+22	Louisiana	119	Webster Parish	2010	41.207
+22	Louisiana	119	Webster Parish	2015	40.021
+22	Louisiana	121	West Baton Rouge Parish	1985	20.700
+22	Louisiana	121	West Baton Rouge Parish	1990	19.420
+22	Louisiana	121	West Baton Rouge Parish	1995	20.210
+22	Louisiana	121	West Baton Rouge Parish	2000	21.600
+22	Louisiana	121	West Baton Rouge Parish	2005	21.634
+22	Louisiana	121	West Baton Rouge Parish	2010	23.788
+22	Louisiana	121	West Baton Rouge Parish	2015	25.490
+22	Louisiana	123	West Carroll Parish	1985	13.100
+22	Louisiana	123	West Carroll Parish	1990	12.090
+22	Louisiana	123	West Carroll Parish	1995	12.140
+22	Louisiana	123	West Carroll Parish	2000	12.310
+22	Louisiana	123	West Carroll Parish	2005	11.806
+22	Louisiana	123	West Carroll Parish	2010	11.604
+22	Louisiana	123	West Carroll Parish	2015	11.293
+22	Louisiana	125	West Feliciana Parish	1985	13.600
+22	Louisiana	125	West Feliciana Parish	1990	12.910
+22	Louisiana	125	West Feliciana Parish	1995	12.680
+22	Louisiana	125	West Feliciana Parish	2000	15.110
+22	Louisiana	125	West Feliciana Parish	2005	15.199
+22	Louisiana	125	West Feliciana Parish	2010	15.625
+22	Louisiana	125	West Feliciana Parish	2015	15.385
+22	Louisiana	127	Winn Parish	1985	17.300
+22	Louisiana	127	Winn Parish	1990	16.270
+22	Louisiana	127	Winn Parish	1995	17.030
+22	Louisiana	127	Winn Parish	2000	16.890
+22	Louisiana	127	Winn Parish	2005	15.968
+22	Louisiana	127	Winn Parish	2010	15.313
+22	Louisiana	127	Winn Parish	2015	14.568

@@ -1,0 +1,645 @@
+#
+# File created on 2019-05-18 23:23:31 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+27	Minnesota	001	Aitkin County	1985	13.390
+27	Minnesota	001	Aitkin County	1990	12.430
+27	Minnesota	001	Aitkin County	1995	13.440
+27	Minnesota	001	Aitkin County	2000	15.300
+27	Minnesota	001	Aitkin County	2005	16.174
+27	Minnesota	001	Aitkin County	2010	16.202
+27	Minnesota	001	Aitkin County	2015	15.702
+27	Minnesota	003	Anoka County	1985	215.570
+27	Minnesota	003	Anoka County	1990	243.640
+27	Minnesota	003	Anoka County	1995	275.760
+27	Minnesota	003	Anoka County	2000	298.080
+27	Minnesota	003	Anoka County	2005	323.996
+27	Minnesota	003	Anoka County	2010	330.844
+27	Minnesota	003	Anoka County	2015	344.151
+27	Minnesota	005	Becker County	1985	31.130
+27	Minnesota	005	Becker County	1990	27.880
+27	Minnesota	005	Becker County	1995	29.120
+27	Minnesota	005	Becker County	2000	30.000
+27	Minnesota	005	Becker County	2005	31.868
+27	Minnesota	005	Becker County	2010	32.504
+27	Minnesota	005	Becker County	2015	33.386
+27	Minnesota	007	Beltrami County	1985	33.940
+27	Minnesota	007	Beltrami County	1990	34.380
+27	Minnesota	007	Beltrami County	1995	37.930
+27	Minnesota	007	Beltrami County	2000	39.650
+27	Minnesota	007	Beltrami County	2005	42.871
+27	Minnesota	007	Beltrami County	2010	44.442
+27	Minnesota	007	Beltrami County	2015	45.672
+27	Minnesota	009	Benton County	1985	27.030
+27	Minnesota	009	Benton County	1990	30.190
+27	Minnesota	009	Benton County	1995	32.950
+27	Minnesota	009	Benton County	2000	34.230
+27	Minnesota	009	Benton County	2005	38.505
+27	Minnesota	009	Benton County	2010	38.451
+27	Minnesota	009	Benton County	2015	39.710
+27	Minnesota	011	Big Stone County	1985	7.930
+27	Minnesota	011	Big Stone County	1990	6.290
+27	Minnesota	011	Big Stone County	1995	5.900
+27	Minnesota	011	Big Stone County	2000	5.820
+27	Minnesota	011	Big Stone County	2005	5.481
+27	Minnesota	011	Big Stone County	2010	5.269
+27	Minnesota	011	Big Stone County	2015	5.040
+27	Minnesota	013	Blue Earth County	1985	53.280
+27	Minnesota	013	Blue Earth County	1990	54.040
+27	Minnesota	013	Blue Earth County	1995	54.130
+27	Minnesota	013	Blue Earth County	2000	55.940
+27	Minnesota	013	Blue Earth County	2005	58.030
+27	Minnesota	013	Blue Earth County	2010	64.013
+27	Minnesota	013	Blue Earth County	2015	65.787
+27	Minnesota	015	Brown County	1985	28.260
+27	Minnesota	015	Brown County	1990	26.980
+27	Minnesota	015	Brown County	1995	27.130
+27	Minnesota	015	Brown County	2000	26.910
+27	Minnesota	015	Brown County	2005	26.534
+27	Minnesota	015	Brown County	2010	25.893
+27	Minnesota	015	Brown County	2015	25.313
+27	Minnesota	017	Carlton County	1985	28.530
+27	Minnesota	017	Carlton County	1990	29.260
+27	Minnesota	017	Carlton County	1995	30.420
+27	Minnesota	017	Carlton County	2000	31.670
+27	Minnesota	017	Carlton County	2005	34.026
+27	Minnesota	017	Carlton County	2010	35.386
+27	Minnesota	017	Carlton County	2015	35.569
+27	Minnesota	019	Carver County	1985	40.660
+27	Minnesota	019	Carver County	1990	47.920
+27	Minnesota	019	Carver County	1995	59.220
+27	Minnesota	019	Carver County	2000	70.210
+27	Minnesota	019	Carver County	2005	84.864
+27	Minnesota	019	Carver County	2010	91.042
+27	Minnesota	019	Carver County	2015	98.741
+27	Minnesota	021	Cass County	1985	21.350
+27	Minnesota	021	Cass County	1990	21.790
+27	Minnesota	021	Cass County	1995	24.740
+27	Minnesota	021	Cass County	2000	27.150
+27	Minnesota	021	Cass County	2005	28.910
+27	Minnesota	021	Cass County	2010	28.567
+27	Minnesota	021	Cass County	2015	28.706
+27	Minnesota	023	Chippewa County	1985	14.820
+27	Minnesota	023	Chippewa County	1990	13.230
+27	Minnesota	023	Chippewa County	1995	13.110
+27	Minnesota	023	Chippewa County	2000	13.090
+27	Minnesota	023	Chippewa County	2005	12.802
+27	Minnesota	023	Chippewa County	2010	12.441
+27	Minnesota	023	Chippewa County	2015	12.109
+27	Minnesota	025	Chisago County	1985	28.380
+27	Minnesota	025	Chisago County	1990	30.520
+27	Minnesota	025	Chisago County	1995	37.020
+27	Minnesota	025	Chisago County	2000	41.100
+27	Minnesota	025	Chisago County	2005	49.400
+27	Minnesota	025	Chisago County	2010	53.887
+27	Minnesota	025	Chisago County	2015	54.293
+27	Minnesota	027	Clay County	1985	49.770
+27	Minnesota	027	Clay County	1990	50.420
+27	Minnesota	027	Clay County	1995	52.180
+27	Minnesota	027	Clay County	2000	51.230
+27	Minnesota	027	Clay County	2005	53.838
+27	Minnesota	027	Clay County	2010	58.999
+27	Minnesota	027	Clay County	2015	62.324
+27	Minnesota	029	Clearwater County	1985	9.110
+27	Minnesota	029	Clearwater County	1990	8.310
+27	Minnesota	029	Clearwater County	1995	8.370
+27	Minnesota	029	Clearwater County	2000	8.420
+27	Minnesota	029	Clearwater County	2005	8.476
+27	Minnesota	029	Clearwater County	2010	8.695
+27	Minnesota	029	Clearwater County	2015	8.803
+27	Minnesota	031	Cook County	1985	4.340
+27	Minnesota	031	Cook County	1990	3.870
+27	Minnesota	031	Cook County	1995	4.480
+27	Minnesota	031	Cook County	2000	5.170
+27	Minnesota	031	Cook County	2005	5.367
+27	Minnesota	031	Cook County	2010	5.176
+27	Minnesota	031	Cook County	2015	5.194
+27	Minnesota	033	Cottonwood County	1985	13.830
+27	Minnesota	033	Cottonwood County	1990	12.690
+27	Minnesota	033	Cottonwood County	1995	12.370
+27	Minnesota	033	Cottonwood County	2000	12.170
+27	Minnesota	033	Cottonwood County	2005	11.834
+27	Minnesota	033	Cottonwood County	2010	11.687
+27	Minnesota	033	Cottonwood County	2015	11.549
+27	Minnesota	035	Crow Wing County	1985	42.900
+27	Minnesota	035	Crow Wing County	1990	44.250
+27	Minnesota	035	Crow Wing County	1995	49.780
+27	Minnesota	035	Crow Wing County	2000	55.100
+27	Minnesota	035	Crow Wing County	2005	59.917
+27	Minnesota	035	Crow Wing County	2010	62.500
+27	Minnesota	035	Crow Wing County	2015	63.428
+27	Minnesota	037	Dakota County	1985	220.830
+27	Minnesota	037	Dakota County	1990	275.230
+27	Minnesota	037	Dakota County	1995	316.470
+27	Minnesota	037	Dakota County	2000	355.900
+27	Minnesota	037	Dakota County	2005	383.592
+27	Minnesota	037	Dakota County	2010	398.552
+27	Minnesota	037	Dakota County	2015	414.686
+27	Minnesota	039	Dodge County	1985	15.260
+27	Minnesota	039	Dodge County	1990	15.730
+27	Minnesota	039	Dodge County	1995	16.700
+27	Minnesota	039	Dodge County	2000	17.730
+27	Minnesota	039	Dodge County	2005	19.595
+27	Minnesota	039	Dodge County	2010	20.087
+27	Minnesota	039	Dodge County	2015	20.364
+27	Minnesota	041	Douglas County	1985	29.910
+27	Minnesota	041	Douglas County	1990	28.670
+27	Minnesota	041	Douglas County	1995	30.400
+27	Minnesota	041	Douglas County	2000	32.820
+27	Minnesota	041	Douglas County	2005	35.138
+27	Minnesota	041	Douglas County	2010	36.009
+27	Minnesota	041	Douglas County	2015	37.075
+27	Minnesota	043	Faribault County	1985	18.720
+27	Minnesota	043	Faribault County	1990	16.940
+27	Minnesota	043	Faribault County	1995	16.430
+27	Minnesota	043	Faribault County	2000	16.180
+27	Minnesota	043	Faribault County	2005	15.506
+27	Minnesota	043	Faribault County	2010	14.553
+27	Minnesota	043	Faribault County	2015	14.050
+27	Minnesota	045	Fillmore County	1985	21.610
+27	Minnesota	045	Fillmore County	1990	20.780
+27	Minnesota	045	Fillmore County	1995	20.750
+27	Minnesota	045	Fillmore County	2000	21.120
+27	Minnesota	045	Fillmore County	2005	21.368
+27	Minnesota	045	Fillmore County	2010	20.866
+27	Minnesota	045	Fillmore County	2015	20.834
+27	Minnesota	047	Freeborn County	1985	34.960
+27	Minnesota	047	Freeborn County	1990	33.060
+27	Minnesota	047	Freeborn County	1995	31.930
+27	Minnesota	047	Freeborn County	2000	32.580
+27	Minnesota	047	Freeborn County	2005	31.946
+27	Minnesota	047	Freeborn County	2010	31.255
+27	Minnesota	047	Freeborn County	2015	30.613
+27	Minnesota	049	Goodhue County	1985	40.000
+27	Minnesota	049	Goodhue County	1990	40.690
+27	Minnesota	049	Goodhue County	1995	42.300
+27	Minnesota	049	Goodhue County	2000	44.130
+27	Minnesota	049	Goodhue County	2005	45.585
+27	Minnesota	049	Goodhue County	2010	46.183
+27	Minnesota	049	Goodhue County	2015	46.435
+27	Minnesota	051	Grant County	1985	7.180
+27	Minnesota	051	Grant County	1990	6.250
+27	Minnesota	051	Grant County	1995	6.220
+27	Minnesota	051	Grant County	2000	6.290
+27	Minnesota	051	Grant County	2005	6.114
+27	Minnesota	051	Grant County	2010	6.018
+27	Minnesota	051	Grant County	2015	5.903
+27	Minnesota	053	Hennepin County	1985	960.610
+27	Minnesota	053	Hennepin County	1990	1032.430
+27	Minnesota	053	Hennepin County	1995	1053.470
+27	Minnesota	053	Hennepin County	2000	1116.200
+27	Minnesota	053	Hennepin County	2005	1119.364
+27	Minnesota	053	Hennepin County	2010	1152.425
+27	Minnesota	053	Hennepin County	2015	1223.149
+27	Minnesota	055	Houston County	1985	18.980
+27	Minnesota	055	Houston County	1990	18.500
+27	Minnesota	055	Houston County	1995	19.300
+27	Minnesota	055	Houston County	2000	19.720
+27	Minnesota	055	Houston County	2005	19.941
+27	Minnesota	055	Houston County	2010	19.027
+27	Minnesota	055	Houston County	2015	18.773
+27	Minnesota	057	Hubbard County	1985	15.350
+27	Minnesota	057	Hubbard County	1990	14.940
+27	Minnesota	057	Hubbard County	1995	16.120
+27	Minnesota	057	Hubbard County	2000	18.380
+27	Minnesota	057	Hubbard County	2005	18.861
+27	Minnesota	057	Hubbard County	2010	20.428
+27	Minnesota	057	Hubbard County	2015	20.655
+27	Minnesota	059	Isanti County	1985	26.080
+27	Minnesota	059	Isanti County	1990	25.920
+27	Minnesota	059	Isanti County	1995	28.290
+27	Minnesota	059	Isanti County	2000	31.290
+27	Minnesota	059	Isanti County	2005	37.664
+27	Minnesota	059	Isanti County	2010	37.816
+27	Minnesota	059	Isanti County	2015	38.429
+27	Minnesota	061	Itasca County	1985	44.140
+27	Minnesota	061	Itasca County	1990	40.860
+27	Minnesota	061	Itasca County	1995	43.050
+27	Minnesota	061	Itasca County	2000	43.990
+27	Minnesota	061	Itasca County	2005	44.384
+27	Minnesota	061	Itasca County	2010	45.058
+27	Minnesota	061	Itasca County	2015	45.435
+27	Minnesota	063	Jackson County	1985	13.450
+27	Minnesota	063	Jackson County	1990	11.680
+27	Minnesota	063	Jackson County	1995	11.780
+27	Minnesota	063	Jackson County	2000	11.270
+27	Minnesota	063	Jackson County	2005	11.182
+27	Minnesota	063	Jackson County	2010	10.266
+27	Minnesota	063	Jackson County	2015	10.079
+27	Minnesota	065	Kanabec County	1985	12.590
+27	Minnesota	065	Kanabec County	1990	12.800
+27	Minnesota	065	Kanabec County	1995	13.580
+27	Minnesota	065	Kanabec County	2000	15.000
+27	Minnesota	065	Kanabec County	2005	16.215
+27	Minnesota	065	Kanabec County	2010	16.239
+27	Minnesota	065	Kanabec County	2015	15.837
+27	Minnesota	067	Kandiyohi County	1985	39.900
+27	Minnesota	067	Kandiyohi County	1990	38.760
+27	Minnesota	067	Kandiyohi County	1995	40.790
+27	Minnesota	067	Kandiyohi County	2000	41.200
+27	Minnesota	067	Kandiyohi County	2005	41.199
+27	Minnesota	067	Kandiyohi County	2010	42.239
+27	Minnesota	067	Kandiyohi County	2015	42.542
+27	Minnesota	069	Kittson County	1985	6.760
+27	Minnesota	069	Kittson County	1990	5.770
+27	Minnesota	069	Kittson County	1995	5.460
+27	Minnesota	069	Kittson County	2000	5.290
+27	Minnesota	069	Kittson County	2005	4.792
+27	Minnesota	069	Kittson County	2010	4.552
+27	Minnesota	069	Kittson County	2015	4.424
+27	Minnesota	071	Koochiching County	1985	16.600
+27	Minnesota	071	Koochiching County	1990	16.300
+27	Minnesota	071	Koochiching County	1995	15.980
+27	Minnesota	071	Koochiching County	2000	14.360
+27	Minnesota	071	Koochiching County	2005	13.907
+27	Minnesota	071	Koochiching County	2010	13.311
+27	Minnesota	071	Koochiching County	2015	12.841
+27	Minnesota	073	Lac qui Parle County	1985	10.330
+27	Minnesota	073	Lac qui Parle County	1990	8.920
+27	Minnesota	073	Lac qui Parle County	1995	8.400
+27	Minnesota	073	Lac qui Parle County	2000	8.070
+27	Minnesota	073	Lac qui Parle County	2005	7.604
+27	Minnesota	073	Lac qui Parle County	2010	7.259
+27	Minnesota	073	Lac qui Parle County	2015	6.856
+27	Minnesota	075	Lake County	1985	11.590
+27	Minnesota	075	Lake County	1990	10.420
+27	Minnesota	075	Lake County	1995	10.570
+27	Minnesota	075	Lake County	2000	11.060
+27	Minnesota	075	Lake County	2005	11.156
+27	Minnesota	075	Lake County	2010	10.866
+27	Minnesota	075	Lake County	2015	10.631
+27	Minnesota	077	Lake of the Woods County	1985	3.890
+27	Minnesota	077	Lake of the Woods County	1990	4.080
+27	Minnesota	077	Lake of the Woods County	1995	4.490
+27	Minnesota	077	Lake of the Woods County	2000	4.520
+27	Minnesota	077	Lake of the Woods County	2005	4.421
+27	Minnesota	077	Lake of the Woods County	2010	4.045
+27	Minnesota	077	Lake of the Woods County	2015	3.923
+27	Minnesota	079	Le Sueur County	1985	23.770
+27	Minnesota	079	Le Sueur County	1990	23.240
+27	Minnesota	079	Le Sueur County	1995	24.360
+27	Minnesota	079	Le Sueur County	2000	25.430
+27	Minnesota	079	Le Sueur County	2005	27.490
+27	Minnesota	079	Le Sueur County	2010	27.703
+27	Minnesota	079	Le Sueur County	2015	27.663
+27	Minnesota	081	Lincoln County	1985	7.810
+27	Minnesota	081	Lincoln County	1990	6.890
+27	Minnesota	081	Lincoln County	1995	6.700
+27	Minnesota	081	Lincoln County	2000	6.430
+27	Minnesota	081	Lincoln County	2005	6.050
+27	Minnesota	081	Lincoln County	2010	5.896
+27	Minnesota	081	Lincoln County	2015	5.771
+27	Minnesota	083	Lyon County	1985	25.860
+27	Minnesota	083	Lyon County	1990	24.790
+27	Minnesota	083	Lyon County	1995	25.000
+27	Minnesota	083	Lyon County	2000	25.430
+27	Minnesota	083	Lyon County	2005	24.472
+27	Minnesota	083	Lyon County	2010	25.857
+27	Minnesota	083	Lyon County	2015	25.673
+27	Minnesota	085	McLeod County	1985	30.290
+27	Minnesota	085	McLeod County	1990	32.030
+27	Minnesota	085	McLeod County	1995	33.250
+27	Minnesota	085	McLeod County	2000	34.900
+27	Minnesota	085	McLeod County	2005	36.636
+27	Minnesota	085	McLeod County	2010	36.651
+27	Minnesota	085	McLeod County	2015	35.932
+27	Minnesota	087	Mahnomen County	1985	5.620
+27	Minnesota	087	Mahnomen County	1990	5.040
+27	Minnesota	087	Mahnomen County	1995	5.150
+27	Minnesota	087	Mahnomen County	2000	5.190
+27	Minnesota	087	Mahnomen County	2005	5.113
+27	Minnesota	087	Mahnomen County	2010	5.413
+27	Minnesota	087	Mahnomen County	2015	5.457
+27	Minnesota	089	Marshall County	1985	12.800
+27	Minnesota	089	Marshall County	1990	10.990
+27	Minnesota	089	Marshall County	1995	10.600
+27	Minnesota	089	Marshall County	2000	10.160
+27	Minnesota	089	Marshall County	2005	9.965
+27	Minnesota	089	Marshall County	2010	9.439
+27	Minnesota	089	Marshall County	2015	9.423
+27	Minnesota	091	Martin County	1985	24.400
+27	Minnesota	091	Martin County	1990	22.910
+27	Minnesota	091	Martin County	1995	22.490
+27	Minnesota	091	Martin County	2000	21.800
+27	Minnesota	091	Martin County	2005	21.002
+27	Minnesota	091	Martin County	2010	20.840
+27	Minnesota	091	Martin County	2015	20.022
+27	Minnesota	093	Meeker County	1985	21.120
+27	Minnesota	093	Meeker County	1990	20.850
+27	Minnesota	093	Meeker County	1995	21.290
+27	Minnesota	093	Meeker County	2000	22.640
+27	Minnesota	093	Meeker County	2005	23.371
+27	Minnesota	093	Meeker County	2010	23.300
+27	Minnesota	093	Meeker County	2015	23.102
+27	Minnesota	095	Mille Lacs County	1985	18.620
+27	Minnesota	095	Mille Lacs County	1990	18.670
+27	Minnesota	095	Mille Lacs County	1995	20.080
+27	Minnesota	095	Mille Lacs County	2000	22.330
+27	Minnesota	095	Mille Lacs County	2005	25.680
+27	Minnesota	095	Mille Lacs County	2010	26.097
+27	Minnesota	095	Mille Lacs County	2015	25.788
+27	Minnesota	097	Morrison County	1985	30.110
+27	Minnesota	097	Morrison County	1990	29.600
+27	Minnesota	097	Morrison County	1995	30.180
+27	Minnesota	097	Morrison County	2000	31.710
+27	Minnesota	097	Morrison County	2005	32.788
+27	Minnesota	097	Morrison County	2010	33.198
+27	Minnesota	097	Morrison County	2015	32.775
+27	Minnesota	099	Mower County	1985	39.590
+27	Minnesota	099	Mower County	1990	37.390
+27	Minnesota	099	Mower County	1995	37.310
+27	Minnesota	099	Mower County	2000	38.600
+27	Minnesota	099	Mower County	2005	38.799
+27	Minnesota	099	Mower County	2010	39.163
+27	Minnesota	099	Mower County	2015	39.116
+27	Minnesota	101	Murray County	1985	11.230
+27	Minnesota	101	Murray County	1990	9.660
+27	Minnesota	101	Murray County	1995	9.510
+27	Minnesota	101	Murray County	2000	9.170
+27	Minnesota	101	Murray County	2005	8.852
+27	Minnesota	101	Murray County	2010	8.725
+27	Minnesota	101	Murray County	2015	8.413
+27	Minnesota	103	Nicollet County	1985	28.190
+27	Minnesota	103	Nicollet County	1990	28.080
+27	Minnesota	103	Nicollet County	1995	29.720
+27	Minnesota	103	Nicollet County	2000	29.770
+27	Minnesota	103	Nicollet County	2005	30.848
+27	Minnesota	103	Nicollet County	2010	32.727
+27	Minnesota	103	Nicollet County	2015	33.347
+27	Minnesota	105	Nobles County	1985	21.740
+27	Minnesota	105	Nobles County	1990	20.100
+27	Minnesota	105	Nobles County	1995	20.170
+27	Minnesota	105	Nobles County	2000	20.830
+27	Minnesota	105	Nobles County	2005	20.508
+27	Minnesota	105	Nobles County	2010	21.378
+27	Minnesota	105	Nobles County	2015	21.770
+27	Minnesota	107	Norman County	1985	9.200
+27	Minnesota	107	Norman County	1990	7.980
+27	Minnesota	107	Norman County	1995	7.720
+27	Minnesota	107	Norman County	2000	7.440
+27	Minnesota	107	Norman County	2005	7.003
+27	Minnesota	107	Norman County	2010	6.852
+27	Minnesota	107	Norman County	2015	6.678
+27	Minnesota	109	Olmsted County	1985	98.030
+27	Minnesota	109	Olmsted County	1990	106.470
+27	Minnesota	109	Olmsted County	1995	112.620
+27	Minnesota	109	Olmsted County	2000	124.280
+27	Minnesota	109	Olmsted County	2005	135.189
+27	Minnesota	109	Olmsted County	2010	144.248
+27	Minnesota	109	Olmsted County	2015	151.436
+27	Minnesota	111	Otter Tail County	1985	55.070
+27	Minnesota	111	Otter Tail County	1990	50.710
+27	Minnesota	111	Otter Tail County	1995	53.210
+27	Minnesota	111	Otter Tail County	2000	57.160
+27	Minnesota	111	Otter Tail County	2005	57.658
+27	Minnesota	111	Otter Tail County	2010	57.303
+27	Minnesota	111	Otter Tail County	2015	57.716
+27	Minnesota	113	Pennington County	1985	13.880
+27	Minnesota	113	Pennington County	1990	13.310
+27	Minnesota	113	Pennington County	1995	13.370
+27	Minnesota	113	Pennington County	2000	13.580
+27	Minnesota	113	Pennington County	2005	13.608
+27	Minnesota	113	Pennington County	2010	13.930
+27	Minnesota	113	Pennington County	2015	14.219
+27	Minnesota	115	Pine County	1985	20.970
+27	Minnesota	115	Pine County	1990	21.260
+27	Minnesota	115	Pine County	1995	22.880
+27	Minnesota	115	Pine County	2000	26.530
+27	Minnesota	115	Pine County	2005	28.485
+27	Minnesota	115	Pine County	2010	29.750
+27	Minnesota	115	Pine County	2015	29.069
+27	Minnesota	117	Pipestone County	1985	11.300
+27	Minnesota	117	Pipestone County	1990	10.490
+27	Minnesota	117	Pipestone County	1995	10.340
+27	Minnesota	117	Pipestone County	2000	9.900
+27	Minnesota	117	Pipestone County	2005	9.421
+27	Minnesota	117	Pipestone County	2010	9.596
+27	Minnesota	117	Pipestone County	2015	9.271
+27	Minnesota	119	Polk County	1985	34.200
+27	Minnesota	119	Polk County	1990	32.500
+27	Minnesota	119	Polk County	1995	32.690
+27	Minnesota	119	Polk County	2000	31.370
+27	Minnesota	119	Polk County	2005	31.133
+27	Minnesota	119	Polk County	2010	31.600
+27	Minnesota	119	Polk County	2015	31.533
+27	Minnesota	121	Pope County	1985	11.780
+27	Minnesota	121	Pope County	1990	10.750
+27	Minnesota	121	Pope County	1995	10.940
+27	Minnesota	121	Pope County	2000	11.240
+27	Minnesota	121	Pope County	2005	11.252
+27	Minnesota	121	Pope County	2010	10.995
+27	Minnesota	121	Pope County	2015	11.041
+27	Minnesota	123	Ramsey County	1985	460.660
+27	Minnesota	123	Ramsey County	1990	485.770
+27	Minnesota	123	Ramsey County	1995	482.120
+27	Minnesota	123	Ramsey County	2000	511.040
+27	Minnesota	123	Ramsey County	2005	494.920
+27	Minnesota	123	Ramsey County	2010	508.640
+27	Minnesota	123	Ramsey County	2015	538.133
+27	Minnesota	125	Red Lake County	1985	5.150
+27	Minnesota	125	Red Lake County	1990	4.530
+27	Minnesota	125	Red Lake County	1995	4.420
+27	Minnesota	125	Red Lake County	2000	4.300
+27	Minnesota	125	Red Lake County	2005	4.317
+27	Minnesota	125	Red Lake County	2010	4.089
+27	Minnesota	125	Red Lake County	2015	4.055
+27	Minnesota	127	Redwood County	1985	18.720
+27	Minnesota	127	Redwood County	1990	17.250
+27	Minnesota	127	Redwood County	1995	16.950
+27	Minnesota	127	Redwood County	2000	16.820
+27	Minnesota	127	Redwood County	2005	16.022
+27	Minnesota	127	Redwood County	2010	16.059
+27	Minnesota	127	Redwood County	2015	15.471
+27	Minnesota	129	Renville County	1985	19.470
+27	Minnesota	129	Renville County	1990	17.670
+27	Minnesota	129	Renville County	1995	17.280
+27	Minnesota	129	Renville County	2000	17.150
+27	Minnesota	129	Renville County	2005	16.764
+27	Minnesota	129	Renville County	2010	15.730
+27	Minnesota	129	Renville County	2015	14.892
+27	Minnesota	131	Rice County	1985	47.430
+27	Minnesota	131	Rice County	1990	49.180
+27	Minnesota	131	Rice County	1995	51.930
+27	Minnesota	131	Rice County	2000	56.670
+27	Minnesota	131	Rice County	2005	60.949
+27	Minnesota	131	Rice County	2010	64.142
+27	Minnesota	131	Rice County	2015	65.400
+27	Minnesota	133	Rock County	1985	10.600
+27	Minnesota	133	Rock County	1990	9.810
+27	Minnesota	133	Rock County	1995	9.840
+27	Minnesota	133	Rock County	2000	9.720
+27	Minnesota	133	Rock County	2005	9.520
+27	Minnesota	133	Rock County	2010	9.687
+27	Minnesota	133	Rock County	2015	9.600
+27	Minnesota	135	Roseau County	1985	13.640
+27	Minnesota	135	Roseau County	1990	15.030
+27	Minnesota	135	Roseau County	1995	16.000
+27	Minnesota	135	Roseau County	2000	16.340
+27	Minnesota	135	Roseau County	2005	16.495
+27	Minnesota	135	Roseau County	2010	15.629
+27	Minnesota	135	Roseau County	2015	15.770
+27	Minnesota	137	St. Louis County	1985	206.260
+27	Minnesota	137	St. Louis County	1990	198.210
+27	Minnesota	137	St. Louis County	1995	197.140
+27	Minnesota	137	St. Louis County	2000	200.530
+27	Minnesota	137	St. Louis County	2005	197.179
+27	Minnesota	137	St. Louis County	2010	200.226
+27	Minnesota	137	St. Louis County	2015	200.431
+27	Minnesota	139	Scott County	1985	51.200
+27	Minnesota	139	Scott County	1990	57.850
+27	Minnesota	139	Scott County	1995	69.920
+27	Minnesota	139	Scott County	2000	89.500
+27	Minnesota	139	Scott County	2005	119.825
+27	Minnesota	139	Scott County	2010	129.928
+27	Minnesota	139	Scott County	2015	141.660
+27	Minnesota	141	Sherburne County	1985	34.690
+27	Minnesota	141	Sherburne County	1990	41.950
+27	Minnesota	141	Sherburne County	1995	52.860
+27	Minnesota	141	Sherburne County	2000	64.420
+27	Minnesota	141	Sherburne County	2005	81.752
+27	Minnesota	141	Sherburne County	2010	88.499
+27	Minnesota	141	Sherburne County	2015	91.705
+27	Minnesota	143	Sibley County	1985	15.700
+27	Minnesota	143	Sibley County	1990	14.370
+27	Minnesota	143	Sibley County	1995	14.720
+27	Minnesota	143	Sibley County	2000	15.360
+27	Minnesota	143	Sibley County	2005	15.237
+27	Minnesota	143	Sibley County	2010	15.226
+27	Minnesota	143	Sibley County	2015	14.875
+27	Minnesota	145	Stearns County	1985	114.920
+27	Minnesota	145	Stearns County	1990	118.790
+27	Minnesota	145	Stearns County	1995	125.850
+27	Minnesota	145	Stearns County	2000	133.170
+27	Minnesota	145	Stearns County	2005	142.654
+27	Minnesota	145	Stearns County	2010	150.642
+27	Minnesota	145	Stearns County	2015	154.708
+27	Minnesota	147	Steele County	1985	30.640
+27	Minnesota	147	Steele County	1990	30.730
+27	Minnesota	147	Steele County	1995	31.500
+27	Minnesota	147	Steele County	2000	33.680
+27	Minnesota	147	Steele County	2005	35.755
+27	Minnesota	147	Steele County	2010	36.576
+27	Minnesota	147	Steele County	2015	36.755
+27	Minnesota	149	Stevens County	1985	11.260
+27	Minnesota	149	Stevens County	1990	10.630
+27	Minnesota	149	Stevens County	1995	10.420
+27	Minnesota	149	Stevens County	2000	10.050
+27	Minnesota	149	Stevens County	2005	9.826
+27	Minnesota	149	Stevens County	2010	9.726
+27	Minnesota	149	Stevens County	2015	9.796
+27	Minnesota	151	Swift County	1985	12.640
+27	Minnesota	151	Swift County	1990	10.720
+27	Minnesota	151	Swift County	1995	10.780
+27	Minnesota	151	Swift County	2000	11.960
+27	Minnesota	151	Swift County	2005	11.324
+27	Minnesota	151	Swift County	2010	9.783
+27	Minnesota	151	Swift County	2015	9.340
+27	Minnesota	153	Todd County	1985	25.650
+27	Minnesota	153	Todd County	1990	23.360
+27	Minnesota	153	Todd County	1995	23.990
+27	Minnesota	153	Todd County	2000	24.430
+27	Minnesota	153	Todd County	2005	24.603
+27	Minnesota	153	Todd County	2010	24.895
+27	Minnesota	153	Todd County	2015	24.257
+27	Minnesota	155	Traverse County	1985	5.190
+27	Minnesota	155	Traverse County	1990	4.460
+27	Minnesota	155	Traverse County	1995	4.290
+27	Minnesota	155	Traverse County	2000	4.130
+27	Minnesota	155	Traverse County	2005	3.810
+27	Minnesota	155	Traverse County	2010	3.558
+27	Minnesota	155	Traverse County	2015	3.401
+27	Minnesota	157	Wabasha County	1985	19.300
+27	Minnesota	157	Wabasha County	1990	19.740
+27	Minnesota	157	Wabasha County	1995	20.500
+27	Minnesota	157	Wabasha County	2000	21.610
+27	Minnesota	157	Wabasha County	2005	22.200
+27	Minnesota	157	Wabasha County	2010	21.676
+27	Minnesota	157	Wabasha County	2015	21.239
+27	Minnesota	159	Wadena County	1985	13.880
+27	Minnesota	159	Wadena County	1990	13.150
+27	Minnesota	159	Wadena County	1995	13.170
+27	Minnesota	159	Wadena County	2000	13.710
+27	Minnesota	159	Wadena County	2005	13.650
+27	Minnesota	159	Wadena County	2010	13.843
+27	Minnesota	159	Wadena County	2015	13.875
+27	Minnesota	161	Waseca County	1985	18.720
+27	Minnesota	161	Waseca County	1990	18.080
+27	Minnesota	161	Waseca County	1995	18.000
+27	Minnesota	161	Waseca County	2000	19.530
+27	Minnesota	161	Waseca County	2005	19.330
+27	Minnesota	161	Waseca County	2010	19.136
+27	Minnesota	161	Waseca County	2015	18.989
+27	Minnesota	163	Washington County	1985	125.520
+27	Minnesota	163	Washington County	1990	145.900
+27	Minnesota	163	Washington County	1995	179.820
+27	Minnesota	163	Washington County	2000	201.130
+27	Minnesota	163	Washington County	2005	220.426
+27	Minnesota	163	Washington County	2010	238.136
+27	Minnesota	163	Washington County	2015	251.597
+27	Minnesota	165	Watonwan County	1985	11.810
+27	Minnesota	165	Watonwan County	1990	11.680
+27	Minnesota	165	Watonwan County	1995	11.620
+27	Minnesota	165	Watonwan County	2000	11.880
+27	Minnesota	165	Watonwan County	2005	11.234
+27	Minnesota	165	Watonwan County	2010	11.211
+27	Minnesota	165	Watonwan County	2015	10.952
+27	Minnesota	167	Wilkin County	1985	8.350
+27	Minnesota	167	Wilkin County	1990	7.520
+27	Minnesota	167	Wilkin County	1995	7.400
+27	Minnesota	167	Wilkin County	2000	7.140
+27	Minnesota	167	Wilkin County	2005	6.802
+27	Minnesota	167	Wilkin County	2010	6.576
+27	Minnesota	167	Wilkin County	2015	6.396
+27	Minnesota	169	Winona County	1985	46.980
+27	Minnesota	169	Winona County	1990	47.830
+27	Minnesota	169	Winona County	1995	48.560
+27	Minnesota	169	Winona County	2000	49.990
+27	Minnesota	169	Winona County	2005	49.276
+27	Minnesota	169	Winona County	2010	51.461
+27	Minnesota	169	Winona County	2015	50.885
+27	Minnesota	171	Wright County	1985	63.280
+27	Minnesota	171	Wright County	1990	68.710
+27	Minnesota	171	Wright County	1995	78.620
+27	Minnesota	171	Wright County	2000	89.990
+27	Minnesota	171	Wright County	2005	110.730
+27	Minnesota	171	Wright County	2010	124.700
+27	Minnesota	171	Wright County	2015	131.311
+27	Minnesota	173	Yellow Medicine County	1985	12.790
+27	Minnesota	173	Yellow Medicine County	1990	11.680
+27	Minnesota	173	Yellow Medicine County	1995	11.750
+27	Minnesota	173	Yellow Medicine County	2000	11.080
+27	Minnesota	173	Yellow Medicine County	2005	10.449
+27	Minnesota	173	Yellow Medicine County	2010	10.438
+27	Minnesota	173	Yellow Medicine County	2015	9.875

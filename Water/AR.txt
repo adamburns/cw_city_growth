@@ -1,0 +1,561 @@
+#
+# File created on 2019-05-18 23:23:13 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+05	Arkansas	001	Arkansas County	1985	23.600
+05	Arkansas	001	Arkansas County	1990	21.650
+05	Arkansas	001	Arkansas County	1995	21.030
+05	Arkansas	001	Arkansas County	2000	20.750
+05	Arkansas	001	Arkansas County	2005	20.073
+05	Arkansas	001	Arkansas County	2010	19.019
+05	Arkansas	001	Arkansas County	2015	18.433
+05	Arkansas	003	Ashley County	1985	26.700
+05	Arkansas	003	Ashley County	1990	24.320
+05	Arkansas	003	Ashley County	1995	24.650
+05	Arkansas	003	Ashley County	2000	24.210
+05	Arkansas	003	Ashley County	2005	23.178
+05	Arkansas	003	Ashley County	2010	21.853
+05	Arkansas	003	Ashley County	2015	20.838
+05	Arkansas	005	Baxter County	1985	29.900
+05	Arkansas	005	Baxter County	1990	31.190
+05	Arkansas	005	Baxter County	1995	35.670
+05	Arkansas	005	Baxter County	2000	38.390
+05	Arkansas	005	Baxter County	2005	40.330
+05	Arkansas	005	Baxter County	2010	41.513
+05	Arkansas	005	Baxter County	2015	41.053
+05	Arkansas	007	Benton County	1985	86.700
+05	Arkansas	007	Benton County	1990	110.500
+05	Arkansas	007	Benton County	1995	120.930
+05	Arkansas	007	Benton County	2000	153.410
+05	Arkansas	007	Benton County	2005	186.938
+05	Arkansas	007	Benton County	2010	221.339
+05	Arkansas	007	Benton County	2015	249.672
+05	Arkansas	009	Boone County	1985	27.800
+05	Arkansas	009	Boone County	1990	28.300
+05	Arkansas	009	Boone County	1995	31.360
+05	Arkansas	009	Boone County	2000	33.950
+05	Arkansas	009	Boone County	2005	35.793
+05	Arkansas	009	Boone County	2010	36.903
+05	Arkansas	009	Boone County	2015	37.222
+05	Arkansas	011	Bradley County	1985	13.300
+05	Arkansas	011	Bradley County	1990	11.790
+05	Arkansas	011	Bradley County	1995	11.650
+05	Arkansas	011	Bradley County	2000	12.600
+05	Arkansas	011	Bradley County	2005	12.192
+05	Arkansas	011	Bradley County	2010	11.508
+05	Arkansas	011	Bradley County	2015	11.094
+05	Arkansas	013	Calhoun County	1985	6.100
+05	Arkansas	013	Calhoun County	1990	5.870
+05	Arkansas	013	Calhoun County	1995	5.800
+05	Arkansas	013	Calhoun County	2000	5.740
+05	Arkansas	013	Calhoun County	2005	5.589
+05	Arkansas	013	Calhoun County	2010	5.368
+05	Arkansas	013	Calhoun County	2015	5.229
+05	Arkansas	015	Carroll County	1985	17.700
+05	Arkansas	015	Carroll County	1990	18.650
+05	Arkansas	015	Carroll County	1995	21.930
+05	Arkansas	015	Carroll County	2000	25.360
+05	Arkansas	015	Carroll County	2005	26.999
+05	Arkansas	015	Carroll County	2010	27.446
+05	Arkansas	015	Carroll County	2015	27.704
+05	Arkansas	017	Chicot County	1985	17.600
+05	Arkansas	017	Chicot County	1990	15.710
+05	Arkansas	017	Chicot County	1995	15.290
+05	Arkansas	017	Chicot County	2000	14.120
+05	Arkansas	017	Chicot County	2005	13.027
+05	Arkansas	017	Chicot County	2010	11.800
+05	Arkansas	017	Chicot County	2015	11.027
+05	Arkansas	019	Clark County	1985	22.900
+05	Arkansas	019	Clark County	1990	21.440
+05	Arkansas	019	Clark County	1995	22.100
+05	Arkansas	019	Clark County	2000	23.550
+05	Arkansas	019	Clark County	2005	22.916
+05	Arkansas	019	Clark County	2010	22.995
+05	Arkansas	019	Clark County	2015	22.633
+05	Arkansas	021	Clay County	1985	19.700
+05	Arkansas	021	Clay County	1990	18.110
+05	Arkansas	021	Clay County	1995	17.600
+05	Arkansas	021	Clay County	2000	17.610
+05	Arkansas	021	Clay County	2005	16.578
+05	Arkansas	021	Clay County	2010	16.083
+05	Arkansas	021	Clay County	2015	15.109
+05	Arkansas	023	Cleburne County	1985	19.200
+05	Arkansas	023	Cleburne County	1990	19.410
+05	Arkansas	023	Cleburne County	1995	21.860
+05	Arkansas	023	Cleburne County	2000	24.050
+05	Arkansas	023	Cleburne County	2005	25.391
+05	Arkansas	023	Cleburne County	2010	25.970
+05	Arkansas	023	Cleburne County	2015	25.467
+05	Arkansas	025	Cleveland County	1985	8.100
+05	Arkansas	025	Cleveland County	1990	7.780
+05	Arkansas	025	Cleveland County	1995	8.080
+05	Arkansas	025	Cleveland County	2000	8.570
+05	Arkansas	025	Cleveland County	2005	8.903
+05	Arkansas	025	Cleveland County	2010	8.689
+05	Arkansas	025	Cleveland County	2015	8.311
+05	Arkansas	027	Columbia County	1985	27.400
+05	Arkansas	027	Columbia County	1990	25.690
+05	Arkansas	027	Columbia County	1995	25.670
+05	Arkansas	027	Columbia County	2000	25.600
+05	Arkansas	027	Columbia County	2005	24.695
+05	Arkansas	027	Columbia County	2010	24.552
+05	Arkansas	027	Columbia County	2015	24.114
+05	Arkansas	029	Conway County	1985	19.300
+05	Arkansas	029	Conway County	1990	19.150
+05	Arkansas	029	Conway County	1995	19.670
+05	Arkansas	029	Conway County	2000	20.340
+05	Arkansas	029	Conway County	2005	20.739
+05	Arkansas	029	Conway County	2010	21.273
+05	Arkansas	029	Conway County	2015	21.019
+05	Arkansas	031	Craighead County	1985	62.900
+05	Arkansas	031	Craighead County	1990	68.960
+05	Arkansas	031	Craighead County	1995	74.790
+05	Arkansas	031	Craighead County	2000	82.150
+05	Arkansas	031	Craighead County	2005	86.735
+05	Arkansas	031	Craighead County	2010	96.443
+05	Arkansas	031	Craighead County	2015	104.354
+05	Arkansas	033	Crawford County	1985	40.500
+05	Arkansas	033	Crawford County	1990	42.490
+05	Arkansas	033	Crawford County	1995	48.100
+05	Arkansas	033	Crawford County	2000	53.250
+05	Arkansas	033	Crawford County	2005	57.630
+05	Arkansas	033	Crawford County	2010	61.948
+05	Arkansas	033	Crawford County	2015	61.703
+05	Arkansas	035	Crittenden County	1985	50.200
+05	Arkansas	035	Crittenden County	1990	49.940
+05	Arkansas	035	Crittenden County	1995	49.890
+05	Arkansas	035	Crittenden County	2000	50.870
+05	Arkansas	035	Crittenden County	2005	51.882
+05	Arkansas	035	Crittenden County	2010	50.902
+05	Arkansas	035	Crittenden County	2015	48.963
+05	Arkansas	037	Cross County	1985	20.600
+05	Arkansas	037	Cross County	1990	19.220
+05	Arkansas	037	Cross County	1995	19.370
+05	Arkansas	037	Cross County	2000	19.530
+05	Arkansas	037	Cross County	2005	19.237
+05	Arkansas	037	Cross County	2010	17.870
+05	Arkansas	037	Cross County	2015	17.284
+05	Arkansas	039	Dallas County	1985	10.500
+05	Arkansas	039	Dallas County	1990	9.610
+05	Arkansas	039	Dallas County	1995	9.490
+05	Arkansas	039	Dallas County	2000	9.210
+05	Arkansas	039	Dallas County	2005	8.524
+05	Arkansas	039	Dallas County	2010	8.116
+05	Arkansas	039	Dallas County	2015	7.604
+05	Arkansas	041	Desha County	1985	19.500
+05	Arkansas	041	Desha County	1990	16.800
+05	Arkansas	041	Desha County	1995	15.490
+05	Arkansas	041	Desha County	2000	15.340
+05	Arkansas	041	Desha County	2005	14.358
+05	Arkansas	041	Desha County	2010	13.008
+05	Arkansas	041	Desha County	2015	11.965
+05	Arkansas	043	Drew County	1985	18.100
+05	Arkansas	043	Drew County	1990	17.370
+05	Arkansas	043	Drew County	1995	17.850
+05	Arkansas	043	Drew County	2000	18.720
+05	Arkansas	043	Drew County	2005	18.693
+05	Arkansas	043	Drew County	2010	18.509
+05	Arkansas	043	Drew County	2015	18.778
+05	Arkansas	045	Faulkner County	1985	51.200
+05	Arkansas	045	Faulkner County	1990	60.010
+05	Arkansas	045	Faulkner County	1995	71.760
+05	Arkansas	045	Faulkner County	2000	86.010
+05	Arkansas	045	Faulkner County	2005	97.147
+05	Arkansas	045	Faulkner County	2010	113.237
+05	Arkansas	045	Faulkner County	2015	121.552
+05	Arkansas	047	Franklin County	1985	15.400
+05	Arkansas	047	Franklin County	1990	14.900
+05	Arkansas	047	Franklin County	1995	16.120
+05	Arkansas	047	Franklin County	2000	17.770
+05	Arkansas	047	Franklin County	2005	18.218
+05	Arkansas	047	Franklin County	2010	18.125
+05	Arkansas	047	Franklin County	2015	17.702
+05	Arkansas	049	Fulton County	1985	10.300
+05	Arkansas	049	Fulton County	1990	10.040
+05	Arkansas	049	Fulton County	1995	10.730
+05	Arkansas	049	Fulton County	2000	11.640
+05	Arkansas	049	Fulton County	2005	11.934
+05	Arkansas	049	Fulton County	2010	12.245
+05	Arkansas	049	Fulton County	2015	12.204
+05	Arkansas	051	Garland County	1985	74.500
+05	Arkansas	051	Garland County	1990	73.400
+05	Arkansas	051	Garland County	1995	81.050
+05	Arkansas	051	Garland County	2000	88.070
+05	Arkansas	051	Garland County	2005	93.551
+05	Arkansas	051	Garland County	2010	96.024
+05	Arkansas	051	Garland County	2015	97.177
+05	Arkansas	053	Grant County	1985	13.300
+05	Arkansas	053	Grant County	1990	13.950
+05	Arkansas	053	Grant County	1995	15.020
+05	Arkansas	053	Grant County	2000	16.460
+05	Arkansas	053	Grant County	2005	17.348
+05	Arkansas	053	Grant County	2010	17.853
+05	Arkansas	053	Grant County	2015	18.102
+05	Arkansas	055	Greene County	1985	31.500
+05	Arkansas	055	Greene County	1990	31.800
+05	Arkansas	055	Greene County	1995	34.620
+05	Arkansas	055	Greene County	2000	37.330
+05	Arkansas	055	Greene County	2005	39.401
+05	Arkansas	055	Greene County	2010	42.090
+05	Arkansas	055	Greene County	2015	44.196
+05	Arkansas	057	Hempstead County	1985	23.300
+05	Arkansas	057	Hempstead County	1990	21.620
+05	Arkansas	057	Hempstead County	1995	22.190
+05	Arkansas	057	Hempstead County	2000	23.590
+05	Arkansas	057	Hempstead County	2005	23.383
+05	Arkansas	057	Hempstead County	2010	22.609
+05	Arkansas	057	Hempstead County	2015	22.084
+05	Arkansas	059	Hot Spring County	1985	27.200
+05	Arkansas	059	Hot Spring County	1990	26.120
+05	Arkansas	059	Hot Spring County	1995	27.880
+05	Arkansas	059	Hot Spring County	2000	30.350
+05	Arkansas	059	Hot Spring County	2005	31.264
+05	Arkansas	059	Hot Spring County	2010	32.923
+05	Arkansas	059	Hot Spring County	2015	33.426
+05	Arkansas	061	Howard County	1985	13.500
+05	Arkansas	061	Howard County	1990	13.570
+05	Arkansas	061	Howard County	1995	13.660
+05	Arkansas	061	Howard County	2000	14.300
+05	Arkansas	061	Howard County	2005	14.552
+05	Arkansas	061	Howard County	2010	13.789
+05	Arkansas	061	Howard County	2015	13.300
+05	Arkansas	063	Independence County	1985	32.100
+05	Arkansas	063	Independence County	1990	33.190
+05	Arkansas	063	Independence County	1995	32.750
+05	Arkansas	063	Independence County	2000	34.230
+05	Arkansas	063	Independence County	2005	34.737
+05	Arkansas	063	Independence County	2010	36.647
+05	Arkansas	063	Independence County	2015	37.052
+05	Arkansas	065	Izard County	1985	10.900
+05	Arkansas	065	Izard County	1990	11.360
+05	Arkansas	065	Izard County	1995	12.620
+05	Arkansas	065	Izard County	2000	13.250
+05	Arkansas	065	Izard County	2005	13.430
+05	Arkansas	065	Izard County	2010	13.696
+05	Arkansas	065	Izard County	2015	13.445
+05	Arkansas	067	Jackson County	1985	21.100
+05	Arkansas	067	Jackson County	1990	18.940
+05	Arkansas	067	Jackson County	1995	18.620
+05	Arkansas	067	Jackson County	2000	18.420
+05	Arkansas	067	Jackson County	2005	17.601
+05	Arkansas	067	Jackson County	2010	17.997
+05	Arkansas	067	Jackson County	2015	17.338
+05	Arkansas	069	Jefferson County	1985	90.000
+05	Arkansas	069	Jefferson County	1990	85.490
+05	Arkansas	069	Jefferson County	1995	84.040
+05	Arkansas	069	Jefferson County	2000	84.280
+05	Arkansas	069	Jefferson County	2005	81.700
+05	Arkansas	069	Jefferson County	2010	77.435
+05	Arkansas	069	Jefferson County	2015	71.565
+05	Arkansas	071	Johnson County	1985	18.500
+05	Arkansas	071	Johnson County	1990	18.220
+05	Arkansas	071	Johnson County	1995	20.510
+05	Arkansas	071	Johnson County	2000	22.780
+05	Arkansas	071	Johnson County	2005	24.042
+05	Arkansas	071	Johnson County	2010	25.540
+05	Arkansas	071	Johnson County	2015	26.141
+05	Arkansas	073	Lafayette County	1985	9.900
+05	Arkansas	073	Lafayette County	1990	9.640
+05	Arkansas	073	Lafayette County	1995	9.210
+05	Arkansas	073	Lafayette County	2000	8.560
+05	Arkansas	073	Lafayette County	2005	8.027
+05	Arkansas	073	Lafayette County	2010	7.645
+05	Arkansas	073	Lafayette County	2015	6.996
+05	Arkansas	075	Lawrence County	1985	18.300
+05	Arkansas	075	Lawrence County	1990	17.460
+05	Arkansas	075	Lawrence County	1995	17.470
+05	Arkansas	075	Lawrence County	2000	17.770
+05	Arkansas	075	Lawrence County	2005	17.153
+05	Arkansas	075	Lawrence County	2010	17.415
+05	Arkansas	075	Lawrence County	2015	16.779
+05	Arkansas	077	Lee County	1985	15.300
+05	Arkansas	077	Lee County	1990	13.050
+05	Arkansas	077	Lee County	1995	12.960
+05	Arkansas	077	Lee County	2000	12.580
+05	Arkansas	077	Lee County	2005	11.545
+05	Arkansas	077	Lee County	2010	10.424
+05	Arkansas	077	Lee County	2015	9.650
+05	Arkansas	079	Lincoln County	1985	13.200
+05	Arkansas	079	Lincoln County	1990	13.690
+05	Arkansas	079	Lincoln County	1995	14.120
+05	Arkansas	079	Lincoln County	2000	14.490
+05	Arkansas	079	Lincoln County	2005	14.262
+05	Arkansas	079	Lincoln County	2010	14.134
+05	Arkansas	079	Lincoln County	2015	13.820
+05	Arkansas	081	Little River County	1985	14.200
+05	Arkansas	081	Little River County	1990	13.970
+05	Arkansas	081	Little River County	1995	13.410
+05	Arkansas	081	Little River County	2000	13.630
+05	Arkansas	081	Little River County	2005	13.227
+05	Arkansas	081	Little River County	2010	13.171
+05	Arkansas	081	Little River County	2015	12.472
+05	Arkansas	083	Logan County	1985	20.700
+05	Arkansas	083	Logan County	1990	20.560
+05	Arkansas	083	Logan County	1995	21.050
+05	Arkansas	083	Logan County	2000	22.490
+05	Arkansas	083	Logan County	2005	22.944
+05	Arkansas	083	Logan County	2010	22.353
+05	Arkansas	083	Logan County	2015	21.714
+05	Arkansas	085	Lonoke County	1985	37.300
+05	Arkansas	085	Lonoke County	1990	39.270
+05	Arkansas	085	Lonoke County	1995	45.970
+05	Arkansas	085	Lonoke County	2000	52.830
+05	Arkansas	085	Lonoke County	2005	60.658
+05	Arkansas	085	Lonoke County	2010	68.356
+05	Arkansas	085	Lonoke County	2015	71.645
+05	Arkansas	087	Madison County	1985	11.900
+05	Arkansas	087	Madison County	1990	11.620
+05	Arkansas	087	Madison County	1995	12.940
+05	Arkansas	087	Madison County	2000	14.240
+05	Arkansas	087	Madison County	2005	14.962
+05	Arkansas	087	Madison County	2010	15.717
+05	Arkansas	087	Madison County	2015	15.767
+05	Arkansas	089	Marion County	1985	12.400
+05	Arkansas	089	Marion County	1990	12.000
+05	Arkansas	089	Marion County	1995	13.860
+05	Arkansas	089	Marion County	2000	16.140
+05	Arkansas	089	Marion County	2005	16.735
+05	Arkansas	089	Marion County	2010	16.653
+05	Arkansas	089	Marion County	2015	16.185
+05	Arkansas	091	Miller County	1985	38.700
+05	Arkansas	091	Miller County	1990	38.470
+05	Arkansas	091	Miller County	1995	39.080
+05	Arkansas	091	Miller County	2000	40.440
+05	Arkansas	091	Miller County	2005	43.162
+05	Arkansas	091	Miller County	2010	43.462
+05	Arkansas	091	Miller County	2015	43.908
+05	Arkansas	093	Mississippi County	1985	58.800
+05	Arkansas	093	Mississippi County	1990	57.520
+05	Arkansas	093	Mississippi County	1995	50.810
+05	Arkansas	093	Mississippi County	2000	51.980
+05	Arkansas	093	Mississippi County	2005	47.911
+05	Arkansas	093	Mississippi County	2010	46.480
+05	Arkansas	093	Mississippi County	2015	43.738
+05	Arkansas	095	Monroe County	1985	13.200
+05	Arkansas	095	Monroe County	1990	11.330
+05	Arkansas	095	Monroe County	1995	10.370
+05	Arkansas	095	Monroe County	2000	10.250
+05	Arkansas	095	Monroe County	2005	9.302
+05	Arkansas	095	Monroe County	2010	8.149
+05	Arkansas	095	Monroe County	2015	7.399
+05	Arkansas	097	Montgomery County	1985	7.900
+05	Arkansas	097	Montgomery County	1990	7.840
+05	Arkansas	097	Montgomery County	1995	8.360
+05	Arkansas	097	Montgomery County	2000	9.250
+05	Arkansas	097	Montgomery County	2005	9.274
+05	Arkansas	097	Montgomery County	2010	9.487
+05	Arkansas	097	Montgomery County	2015	8.970
+05	Arkansas	099	Nevada County	1985	10.900
+05	Arkansas	099	Nevada County	1990	10.100
+05	Arkansas	099	Nevada County	1995	10.000
+05	Arkansas	099	Nevada County	2000	9.960
+05	Arkansas	099	Nevada County	2005	9.550
+05	Arkansas	099	Nevada County	2010	8.997
+05	Arkansas	099	Nevada County	2015	8.558
+05	Arkansas	101	Newton County	1985	8.100
+05	Arkansas	101	Newton County	1990	7.670
+05	Arkansas	101	Newton County	1995	7.990
+05	Arkansas	101	Newton County	2000	8.610
+05	Arkansas	101	Newton County	2005	8.452
+05	Arkansas	101	Newton County	2010	8.330
+05	Arkansas	101	Newton County	2015	7.913
+05	Arkansas	103	Ouachita County	1985	33.500
+05	Arkansas	103	Ouachita County	1990	30.570
+05	Arkansas	103	Ouachita County	1995	28.580
+05	Arkansas	103	Ouachita County	2000	28.790
+05	Arkansas	103	Ouachita County	2005	27.102
+05	Arkansas	103	Ouachita County	2010	26.120
+05	Arkansas	103	Ouachita County	2015	24.358
+05	Arkansas	105	Perry County	1985	7.800
+05	Arkansas	105	Perry County	1990	7.970
+05	Arkansas	105	Perry County	1995	8.820
+05	Arkansas	105	Perry County	2000	10.210
+05	Arkansas	105	Perry County	2005	10.468
+05	Arkansas	105	Perry County	2010	10.445
+05	Arkansas	105	Perry County	2015	10.189
+05	Arkansas	107	Phillips County	1985	33.600
+05	Arkansas	107	Phillips County	1990	28.840
+05	Arkansas	107	Phillips County	1995	27.390
+05	Arkansas	107	Phillips County	2000	26.450
+05	Arkansas	107	Phillips County	2005	24.107
+05	Arkansas	107	Phillips County	2010	21.757
+05	Arkansas	107	Phillips County	2015	19.513
+05	Arkansas	109	Pike County	1985	10.100
+05	Arkansas	109	Pike County	1990	10.090
+05	Arkansas	109	Pike County	1995	10.330
+05	Arkansas	109	Pike County	2000	11.300
+05	Arkansas	109	Pike County	2005	11.038
+05	Arkansas	109	Pike County	2010	11.291
+05	Arkansas	109	Pike County	2015	10.824
+05	Arkansas	111	Poinsett County	1985	25.900
+05	Arkansas	111	Poinsett County	1990	24.660
+05	Arkansas	111	Poinsett County	1995	24.640
+05	Arkansas	111	Poinsett County	2000	25.610
+05	Arkansas	111	Poinsett County	2005	25.349
+05	Arkansas	111	Poinsett County	2010	24.583
+05	Arkansas	111	Poinsett County	2015	24.040
+05	Arkansas	113	Polk County	1985	17.300
+05	Arkansas	113	Polk County	1990	17.350
+05	Arkansas	113	Polk County	1995	18.830
+05	Arkansas	113	Polk County	2000	20.230
+05	Arkansas	113	Polk County	2005	20.176
+05	Arkansas	113	Polk County	2010	20.662
+05	Arkansas	113	Polk County	2015	20.216
+05	Arkansas	115	Pope County	1985	42.700
+05	Arkansas	115	Pope County	1990	45.880
+05	Arkansas	115	Pope County	1995	51.180
+05	Arkansas	115	Pope County	2000	54.470
+05	Arkansas	115	Pope County	2005	56.580
+05	Arkansas	115	Pope County	2010	61.754
+05	Arkansas	115	Pope County	2015	63.390
+05	Arkansas	117	Prairie County	1985	10.000
+05	Arkansas	117	Prairie County	1990	9.520
+05	Arkansas	117	Prairie County	1995	9.310
+05	Arkansas	117	Prairie County	2000	9.540
+05	Arkansas	117	Prairie County	2005	9.113
+05	Arkansas	117	Prairie County	2010	8.715
+05	Arkansas	117	Prairie County	2015	8.291
+05	Arkansas	119	Pulaski County	1985	353.400
+05	Arkansas	119	Pulaski County	1990	349.660
+05	Arkansas	119	Pulaski County	1995	352.240
+05	Arkansas	119	Pulaski County	2000	361.470
+05	Arkansas	119	Pulaski County	2005	366.463
+05	Arkansas	119	Pulaski County	2010	382.748
+05	Arkansas	119	Pulaski County	2015	392.664
+05	Arkansas	121	Randolph County	1985	16.600
+05	Arkansas	121	Randolph County	1990	16.560
+05	Arkansas	121	Randolph County	1995	17.430
+05	Arkansas	121	Randolph County	2000	18.200
+05	Arkansas	121	Randolph County	2005	18.465
+05	Arkansas	121	Randolph County	2010	17.969
+05	Arkansas	121	Randolph County	2015	17.469
+05	Arkansas	123	St. Francis County	1985	31.400
+05	Arkansas	123	St. Francis County	1990	28.500
+05	Arkansas	123	St. Francis County	1995	27.860
+05	Arkansas	123	St. Francis County	2000	29.330
+05	Arkansas	123	St. Francis County	2005	27.902
+05	Arkansas	123	St. Francis County	2010	28.258
+05	Arkansas	123	St. Francis County	2015	26.589
+05	Arkansas	125	Saline County	1985	56.700
+05	Arkansas	125	Saline County	1990	64.260
+05	Arkansas	125	Saline County	1995	73.600
+05	Arkansas	125	Saline County	2000	83.530
+05	Arkansas	125	Saline County	2005	91.188
+05	Arkansas	125	Saline County	2010	107.118
+05	Arkansas	125	Saline County	2015	117.460
+05	Arkansas	127	Scott County	1985	10.200
+05	Arkansas	127	Scott County	1990	10.200
+05	Arkansas	127	Scott County	1995	10.630
+05	Arkansas	127	Scott County	2000	11.000
+05	Arkansas	127	Scott County	2005	11.150
+05	Arkansas	127	Scott County	2010	11.233
+05	Arkansas	127	Scott County	2015	10.513
+05	Arkansas	129	Searcy County	1985	8.800
+05	Arkansas	129	Searcy County	1990	7.840
+05	Arkansas	129	Searcy County	1995	7.630
+05	Arkansas	129	Searcy County	2000	8.260
+05	Arkansas	129	Searcy County	2005	7.969
+05	Arkansas	129	Searcy County	2010	8.195
+05	Arkansas	129	Searcy County	2015	7.869
+05	Arkansas	131	Sebastian County	1985	98.600
+05	Arkansas	131	Sebastian County	1990	99.590
+05	Arkansas	131	Sebastian County	1995	104.400
+05	Arkansas	131	Sebastian County	2000	115.070
+05	Arkansas	131	Sebastian County	2005	118.750
+05	Arkansas	131	Sebastian County	2010	125.744
+05	Arkansas	131	Sebastian County	2015	127.780
+05	Arkansas	133	Sevier County	1985	14.300
+05	Arkansas	133	Sevier County	1990	13.640
+05	Arkansas	133	Sevier County	1995	14.500
+05	Arkansas	133	Sevier County	2000	15.760
+05	Arkansas	133	Sevier County	2005	16.456
+05	Arkansas	133	Sevier County	2010	17.058
+05	Arkansas	133	Sevier County	2015	17.290
+05	Arkansas	135	Sharp County	1985	15.400
+05	Arkansas	135	Sharp County	1990	14.110
+05	Arkansas	135	Sharp County	1995	16.170
+05	Arkansas	135	Sharp County	2000	17.120
+05	Arkansas	135	Sharp County	2005	17.397
+05	Arkansas	135	Sharp County	2010	17.264
+05	Arkansas	135	Sharp County	2015	16.912
+05	Arkansas	137	Stone County	1985	9.800
+05	Arkansas	137	Stone County	1990	9.780
+05	Arkansas	137	Stone County	1995	10.780
+05	Arkansas	137	Stone County	2000	11.500
+05	Arkansas	137	Stone County	2005	11.716
+05	Arkansas	137	Stone County	2010	12.394
+05	Arkansas	137	Stone County	2015	12.456
+05	Arkansas	139	Union County	1985	49.300
+05	Arkansas	139	Union County	1990	46.720
+05	Arkansas	139	Union County	1995	46.190
+05	Arkansas	139	Union County	2000	45.630
+05	Arkansas	139	Union County	2005	44.186
+05	Arkansas	139	Union County	2010	41.639
+05	Arkansas	139	Union County	2015	40.144
+05	Arkansas	141	Van Buren County	1985	14.900
+05	Arkansas	141	Van Buren County	1990	14.010
+05	Arkansas	141	Van Buren County	1995	15.200
+05	Arkansas	141	Van Buren County	2000	16.190
+05	Arkansas	141	Van Buren County	2005	16.529
+05	Arkansas	141	Van Buren County	2010	17.295
+05	Arkansas	141	Van Buren County	2015	16.771
+05	Arkansas	143	Washington County	1985	106.000
+05	Arkansas	143	Washington County	1990	100.410
+05	Arkansas	143	Washington County	1995	131.710
+05	Arkansas	143	Washington County	2000	157.720
+05	Arkansas	143	Washington County	2005	180.357
+05	Arkansas	143	Washington County	2010	203.065
+05	Arkansas	143	Washington County	2015	225.477
+05	Arkansas	145	White County	1985	52.500
+05	Arkansas	145	White County	1990	54.680
+05	Arkansas	145	White County	1995	61.020
+05	Arkansas	145	White County	2000	67.170
+05	Arkansas	145	White County	2005	71.332
+05	Arkansas	145	White County	2010	77.076
+05	Arkansas	145	White County	2015	79.161
+05	Arkansas	147	Woodruff County	1985	10.700
+05	Arkansas	147	Woodruff County	1990	9.520
+05	Arkansas	147	Woodruff County	1995	9.120
+05	Arkansas	147	Woodruff County	2000	8.740
+05	Arkansas	147	Woodruff County	2005	8.098
+05	Arkansas	147	Woodruff County	2010	7.260
+05	Arkansas	147	Woodruff County	2015	6.741
+05	Arkansas	149	Yell County	1985	17.600
+05	Arkansas	149	Yell County	1990	17.760
+05	Arkansas	149	Yell County	1995	18.740
+05	Arkansas	149	Yell County	2000	21.140
+05	Arkansas	149	Yell County	2005	21.391
+05	Arkansas	149	Yell County	2010	22.185
+05	Arkansas	149	Yell County	2015	21.713

@@ -1,0 +1,141 @@
+#
+# File created on 2019-05-18 23:23:13 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+04	Arizona	001	Apache County	1985	59.940
+04	Arizona	001	Apache County	1990	61.590
+04	Arizona	001	Apache County	1995	67.800
+04	Arizona	001	Apache County	2000	69.420
+04	Arizona	001	Apache County	2005	69.343
+04	Arizona	001	Apache County	2010	71.518
+04	Arizona	001	Apache County	2015	71.474
+04	Arizona	003	Cochise County	1985	96.300
+04	Arizona	003	Cochise County	1990	97.620
+04	Arizona	003	Cochise County	1995	110.060
+04	Arizona	003	Cochise County	2000	117.760
+04	Arizona	003	Cochise County	2005	126.106
+04	Arizona	003	Cochise County	2010	131.346
+04	Arizona	003	Cochise County	2015	126.427
+04	Arizona	005	Coconino County	1985	85.960
+04	Arizona	005	Coconino County	1990	96.590
+04	Arizona	005	Coconino County	1995	110.500
+04	Arizona	005	Coconino County	2000	116.320
+04	Arizona	005	Coconino County	2005	123.866
+04	Arizona	005	Coconino County	2010	134.421
+04	Arizona	005	Coconino County	2015	139.097
+04	Arizona	007	Gila County	1985	45.440
+04	Arizona	007	Gila County	1990	40.220
+04	Arizona	007	Gila County	1995	46.040
+04	Arizona	007	Gila County	2000	51.340
+04	Arizona	007	Gila County	2005	51.663
+04	Arizona	007	Gila County	2010	53.597
+04	Arizona	007	Gila County	2015	53.159
+04	Arizona	009	Graham County	1985	23.300
+04	Arizona	009	Graham County	1990	26.550
+04	Arizona	009	Graham County	1995	29.590
+04	Arizona	009	Graham County	2000	33.490
+04	Arizona	009	Graham County	2005	33.073
+04	Arizona	009	Graham County	2010	37.220
+04	Arizona	009	Graham County	2015	37.666
+04	Arizona	011	Greenlee County	1985	8.700
+04	Arizona	011	Greenlee County	1990	8.010
+04	Arizona	011	Greenlee County	1995	9.230
+04	Arizona	011	Greenlee County	2000	8.550
+04	Arizona	011	Greenlee County	2005	7.521
+04	Arizona	011	Greenlee County	2010	8.437
+04	Arizona	011	Greenlee County	2015	9.529
+04	Arizona	012	La Paz County	1985	16.970
+04	Arizona	012	La Paz County	1990	13.840
+04	Arizona	012	La Paz County	1995	14.310
+04	Arizona	012	La Paz County	2000	19.720
+04	Arizona	012	La Paz County	2005	20.238
+04	Arizona	012	La Paz County	2010	20.489
+04	Arizona	012	La Paz County	2015	20.152
+04	Arizona	013	Maricopa County	1985	1843.280
+04	Arizona	013	Maricopa County	1990	2122.100
+04	Arizona	013	Maricopa County	1995	2432.370
+04	Arizona	013	Maricopa County	2000	3072.150
+04	Arizona	013	Maricopa County	2005	3635.528
+04	Arizona	013	Maricopa County	2010	3817.354
+04	Arizona	013	Maricopa County	2015	4167.947
+04	Arizona	015	Mohave County	1985	68.020
+04	Arizona	015	Mohave County	1990	93.500
+04	Arizona	015	Mohave County	1995	121.600
+04	Arizona	015	Mohave County	2000	155.030
+04	Arizona	015	Mohave County	2005	187.200
+04	Arizona	015	Mohave County	2010	200.209
+04	Arizona	015	Mohave County	2015	204.737
+04	Arizona	017	Navajo County	1985	72.260
+04	Arizona	017	Navajo County	1990	77.660
+04	Arizona	017	Navajo County	1995	89.250
+04	Arizona	017	Navajo County	2000	97.470
+04	Arizona	017	Navajo County	2005	108.432
+04	Arizona	017	Navajo County	2010	107.449
+04	Arizona	017	Navajo County	2015	108.277
+04	Arizona	019	Pima County	1985	626.330
+04	Arizona	019	Pima County	1990	666.880
+04	Arizona	019	Pima County	1995	752.430
+04	Arizona	019	Pima County	2000	843.750
+04	Arizona	019	Pima County	2005	924.786
+04	Arizona	019	Pima County	2010	980.263
+04	Arizona	019	Pima County	2015	1010.025
+04	Arizona	021	Pinal County	1985	102.050
+04	Arizona	021	Pinal County	1990	116.380
+04	Arizona	021	Pinal County	1995	131.210
+04	Arizona	021	Pinal County	2000	179.730
+04	Arizona	021	Pinal County	2005	229.549
+04	Arizona	021	Pinal County	2010	375.826
+04	Arizona	021	Pinal County	2015	406.584
+04	Arizona	023	Santa Cruz County	1985	27.100
+04	Arizona	023	Santa Cruz County	1990	29.680
+04	Arizona	023	Santa Cruz County	1995	36.080
+04	Arizona	023	Santa Cruz County	2000	38.380
+04	Arizona	023	Santa Cruz County	2005	42.009
+04	Arizona	023	Santa Cruz County	2010	47.420
+04	Arizona	023	Santa Cruz County	2015	46.461
+04	Arizona	025	Yavapai County	1985	84.660
+04	Arizona	025	Yavapai County	1990	107.710
+04	Arizona	025	Yavapai County	1995	134.600
+04	Arizona	025	Yavapai County	2000	167.520
+04	Arizona	025	Yavapai County	2005	198.701
+04	Arizona	025	Yavapai County	2010	211.033
+04	Arizona	025	Yavapai County	2015	222.255
+04	Arizona	027	Yuma County	1985	118.910
+04	Arizona	027	Yuma County	1990	106.900
+04	Arizona	027	Yuma County	1995	132.870
+04	Arizona	027	Yuma County	2000	160.030
+04	Arizona	027	Yuma County	2005	181.277
+04	Arizona	027	Yuma County	2010	195.751
+04	Arizona	027	Yuma County	2015	204.275

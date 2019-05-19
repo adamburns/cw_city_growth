@@ -1,0 +1,183 @@
+#
+# File created on 2019-05-18 23:23:37 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+34	New Jersey	001	Atlantic County	1985	203.180
+34	New Jersey	001	Atlantic County	1990	224.330
+34	New Jersey	001	Atlantic County	1995	234.000
+34	New Jersey	001	Atlantic County	2000	252.550
+34	New Jersey	001	Atlantic County	2005	271.015
+34	New Jersey	001	Atlantic County	2010	274.549
+34	New Jersey	001	Atlantic County	2015	274.219
+34	New Jersey	003	Bergen County	1985	841.820
+34	New Jersey	003	Bergen County	1990	825.380
+34	New Jersey	003	Bergen County	1995	845.190
+34	New Jersey	003	Bergen County	2000	884.120
+34	New Jersey	003	Bergen County	2005	902.561
+34	New Jersey	003	Bergen County	2010	905.116
+34	New Jersey	003	Bergen County	2015	938.506
+34	New Jersey	005	Burlington County	1985	382.340
+34	New Jersey	005	Burlington County	1990	395.070
+34	New Jersey	005	Burlington County	1995	403.340
+34	New Jersey	005	Burlington County	2000	423.390
+34	New Jersey	005	Burlington County	2005	450.743
+34	New Jersey	005	Burlington County	2010	448.734
+34	New Jersey	005	Burlington County	2015	450.226
+34	New Jersey	007	Camden County	1985	487.480
+34	New Jersey	007	Camden County	1990	502.820
+34	New Jersey	007	Camden County	1995	507.160
+34	New Jersey	007	Camden County	2000	508.930
+34	New Jersey	007	Camden County	2005	518.249
+34	New Jersey	007	Camden County	2010	513.657
+34	New Jersey	007	Camden County	2015	510.923
+34	New Jersey	009	Cape May County	1985	89.240
+34	New Jersey	009	Cape May County	1990	95.090
+34	New Jersey	009	Cape May County	1995	98.340
+34	New Jersey	009	Cape May County	2000	102.330
+34	New Jersey	009	Cape May County	2005	99.286
+34	New Jersey	009	Cape May County	2010	97.265
+34	New Jersey	009	Cape May County	2015	94.727
+34	New Jersey	011	Cumberland County	1985	133.340
+34	New Jersey	011	Cumberland County	1990	138.050
+34	New Jersey	011	Cumberland County	1995	138.060
+34	New Jersey	011	Cumberland County	2000	146.440
+34	New Jersey	011	Cumberland County	2005	153.252
+34	New Jersey	011	Cumberland County	2010	156.898
+34	New Jersey	011	Cumberland County	2015	155.854
+34	New Jersey	013	Essex County	1985	834.920
+34	New Jersey	013	Essex County	1990	778.210
+34	New Jersey	013	Essex County	1995	758.630
+34	New Jersey	013	Essex County	2000	793.630
+34	New Jersey	013	Essex County	2005	791.057
+34	New Jersey	013	Essex County	2010	783.969
+34	New Jersey	013	Essex County	2015	797.434
+34	New Jersey	015	Gloucester County	1985	209.120
+34	New Jersey	015	Gloucester County	1990	230.080
+34	New Jersey	015	Gloucester County	1995	243.750
+34	New Jersey	015	Gloucester County	2000	254.670
+34	New Jersey	015	Gloucester County	2005	276.910
+34	New Jersey	015	Gloucester County	2010	288.288
+34	New Jersey	015	Gloucester County	2015	291.479
+34	New Jersey	017	Hudson County	1985	558.340
+34	New Jersey	017	Hudson County	1990	553.100
+34	New Jersey	017	Hudson County	1995	550.180
+34	New Jersey	017	Hudson County	2000	608.980
+34	New Jersey	017	Hudson County	2005	603.521
+34	New Jersey	017	Hudson County	2010	634.266
+34	New Jersey	017	Hudson County	2015	674.836
+34	New Jersey	019	Hunterdon County	1985	93.350
+34	New Jersey	019	Hunterdon County	1990	107.780
+34	New Jersey	019	Hunterdon County	1995	116.520
+34	New Jersey	019	Hunterdon County	2000	121.990
+34	New Jersey	019	Hunterdon County	2005	130.404
+34	New Jersey	019	Hunterdon County	2010	128.349
+34	New Jersey	019	Hunterdon County	2015	125.488
+34	New Jersey	021	Mercer County	1985	314.760
+34	New Jersey	021	Mercer County	1990	325.820
+34	New Jersey	021	Mercer County	1995	330.300
+34	New Jersey	021	Mercer County	2000	350.760
+34	New Jersey	021	Mercer County	2005	366.256
+34	New Jersey	021	Mercer County	2010	366.513
+34	New Jersey	021	Mercer County	2015	371.398
+34	New Jersey	023	Middlesex County	1985	625.230
+34	New Jersey	023	Middlesex County	1990	671.780
+34	New Jersey	023	Middlesex County	1995	698.490
+34	New Jersey	023	Middlesex County	2000	750.160
+34	New Jersey	023	Middlesex County	2005	789.516
+34	New Jersey	023	Middlesex County	2010	809.858
+34	New Jersey	023	Middlesex County	2015	840.900
+34	New Jersey	025	Monmouth County	1985	534.060
+34	New Jersey	025	Monmouth County	1990	553.120
+34	New Jersey	025	Monmouth County	1995	585.230
+34	New Jersey	025	Monmouth County	2000	615.300
+34	New Jersey	025	Monmouth County	2005	635.952
+34	New Jersey	025	Monmouth County	2010	630.380
+34	New Jersey	025	Monmouth County	2015	628.715
+34	New Jersey	027	Morris County	1985	418.020
+34	New Jersey	027	Morris County	1990	421.350
+34	New Jersey	027	Morris County	1995	444.350
+34	New Jersey	027	Morris County	2000	470.210
+34	New Jersey	027	Morris County	2005	490.593
+34	New Jersey	027	Morris County	2010	492.276
+34	New Jersey	027	Morris County	2015	499.509
+34	New Jersey	029	Ocean County	1985	383.550
+34	New Jersey	029	Ocean County	1990	433.200
+34	New Jersey	029	Ocean County	1995	464.820
+34	New Jersey	029	Ocean County	2000	510.920
+34	New Jersey	029	Ocean County	2005	558.341
+34	New Jersey	029	Ocean County	2010	576.567
+34	New Jersey	029	Ocean County	2015	588.721
+34	New Jersey	031	Passaic County	1985	458.700
+34	New Jersey	031	Passaic County	1990	453.060
+34	New Jersey	031	Passaic County	1995	463.470
+34	New Jersey	031	Passaic County	2000	489.050
+34	New Jersey	031	Passaic County	2005	499.060
+34	New Jersey	031	Passaic County	2010	501.226
+34	New Jersey	031	Passaic County	2015	510.916
+34	New Jersey	033	Salem County	1985	65.250
+34	New Jersey	033	Salem County	1990	65.290
+34	New Jersey	033	Salem County	1995	64.920
+34	New Jersey	033	Salem County	2000	64.290
+34	New Jersey	033	Salem County	2005	66.346
+34	New Jersey	033	Salem County	2010	66.083
+34	New Jersey	033	Salem County	2015	64.180
+34	New Jersey	035	Somerset County	1985	211.420
+34	New Jersey	035	Somerset County	1990	240.280
+34	New Jersey	035	Somerset County	1995	265.440
+34	New Jersey	035	Somerset County	2000	297.490
+34	New Jersey	035	Somerset County	2005	319.900
+34	New Jersey	035	Somerset County	2010	323.444
+34	New Jersey	035	Somerset County	2015	333.654
+34	New Jersey	037	Sussex County	1985	121.640
+34	New Jersey	037	Sussex County	1990	130.940
+34	New Jersey	037	Sussex County	1995	140.200
+34	New Jersey	037	Sussex County	2000	144.170
+34	New Jersey	037	Sussex County	2005	153.130
+34	New Jersey	037	Sussex County	2010	149.265
+34	New Jersey	037	Sussex County	2015	143.673
+34	New Jersey	039	Union County	1985	506.760
+34	New Jersey	039	Union County	1990	493.820
+34	New Jersey	039	Union County	1995	496.310
+34	New Jersey	039	Union County	2000	522.540
+34	New Jersey	039	Union County	2005	531.457
+34	New Jersey	039	Union County	2010	536.499
+34	New Jersey	039	Union County	2015	555.786
+34	New Jersey	041	Warren County	1985	86.750
+34	New Jersey	041	Warren County	1990	91.610
+34	New Jersey	041	Warren County	1995	96.610
+34	New Jersey	041	Warren County	2000	102.440
+34	New Jersey	041	Warren County	2005	110.376
+34	New Jersey	041	Warren County	2010	108.692
+34	New Jersey	041	Warren County	2015	106.869

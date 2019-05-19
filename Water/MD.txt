@@ -1,0 +1,204 @@
+#
+# File created on 2019-05-18 23:23:28 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+24	Maryland	001	Allegany County	1985	76.200
+24	Maryland	001	Allegany County	1990	74.950
+24	Maryland	001	Allegany County	1995	73.950
+24	Maryland	001	Allegany County	2000	74.930
+24	Maryland	001	Allegany County	2005	73.639
+24	Maryland	001	Allegany County	2010	75.087
+24	Maryland	001	Allegany County	2015	72.528
+24	Maryland	003	Anne Arundel County	1985	396.900
+24	Maryland	003	Anne Arundel County	1990	427.240
+24	Maryland	003	Anne Arundel County	1995	461.810
+24	Maryland	003	Anne Arundel County	2000	489.660
+24	Maryland	003	Anne Arundel County	2005	510.878
+24	Maryland	003	Anne Arundel County	2010	537.656
+24	Maryland	003	Anne Arundel County	2015	564.195
+24	Maryland	005	Baltimore County	1985	672.900
+24	Maryland	005	Baltimore County	1990	692.130
+24	Maryland	005	Baltimore County	1995	715.360
+24	Maryland	005	Baltimore County	2000	754.290
+24	Maryland	005	Baltimore County	2005	786.113
+24	Maryland	005	Baltimore County	2010	805.029
+24	Maryland	005	Baltimore County	2015	831.128
+24	Maryland	009	Calvert County	1985	40.900
+24	Maryland	009	Calvert County	1990	51.370
+24	Maryland	009	Calvert County	1995	64.600
+24	Maryland	009	Calvert County	2000	74.560
+24	Maryland	009	Calvert County	2005	87.925
+24	Maryland	009	Calvert County	2010	88.737
+24	Maryland	009	Calvert County	2015	90.595
+24	Maryland	011	Caroline County	1985	23.800
+24	Maryland	011	Caroline County	1990	27.030
+24	Maryland	011	Caroline County	1995	29.070
+24	Maryland	011	Caroline County	2000	29.770
+24	Maryland	011	Caroline County	2005	31.822
+24	Maryland	011	Caroline County	2010	33.066
+24	Maryland	011	Caroline County	2015	32.579
+24	Maryland	013	Carroll County	1985	107.600
+24	Maryland	013	Carroll County	1990	123.370
+24	Maryland	013	Carroll County	1995	140.200
+24	Maryland	013	Carroll County	2000	150.900
+24	Maryland	013	Carroll County	2005	168.541
+24	Maryland	013	Carroll County	2010	167.134
+24	Maryland	013	Carroll County	2015	167.627
+24	Maryland	015	Cecil County	1985	66.100
+24	Maryland	015	Cecil County	1990	71.350
+24	Maryland	015	Cecil County	1995	78.170
+24	Maryland	015	Cecil County	2000	85.950
+24	Maryland	015	Cecil County	2005	97.796
+24	Maryland	015	Cecil County	2010	101.108
+24	Maryland	015	Cecil County	2015	102.382
+24	Maryland	017	Charles County	1985	84.400
+24	Maryland	017	Charles County	1990	101.150
+24	Maryland	017	Charles County	1995	111.630
+24	Maryland	017	Charles County	2000	120.550
+24	Maryland	017	Charles County	2005	138.822
+24	Maryland	017	Charles County	2010	146.551
+24	Maryland	017	Charles County	2015	156.118
+24	Maryland	019	Dorchester County	1985	30.100
+24	Maryland	019	Dorchester County	1990	30.240
+24	Maryland	019	Dorchester County	1995	30.170
+24	Maryland	019	Dorchester County	2000	30.670
+24	Maryland	019	Dorchester County	2005	31.401
+24	Maryland	019	Dorchester County	2010	32.618
+24	Maryland	019	Dorchester County	2015	32.384
+24	Maryland	021	Frederick County	1985	126.800
+24	Maryland	021	Frederick County	1990	150.210
+24	Maryland	021	Frederick County	1995	175.400
+24	Maryland	021	Frederick County	2000	195.280
+24	Maryland	021	Frederick County	2005	220.701
+24	Maryland	021	Frederick County	2010	233.385
+24	Maryland	021	Frederick County	2015	245.322
+24	Maryland	023	Garrett County	1985	26.700
+24	Maryland	023	Garrett County	1990	28.140
+24	Maryland	023	Garrett County	1995	29.460
+24	Maryland	023	Garrett County	2000	29.850
+24	Maryland	023	Garrett County	2005	29.909
+24	Maryland	023	Garrett County	2010	30.097
+24	Maryland	023	Garrett County	2015	29.460
+24	Maryland	025	Harford County	1985	151.900
+24	Maryland	025	Harford County	1990	182.130
+24	Maryland	025	Harford County	1995	205.370
+24	Maryland	025	Harford County	2000	218.590
+24	Maryland	025	Harford County	2005	239.259
+24	Maryland	025	Harford County	2010	244.826
+24	Maryland	025	Harford County	2015	250.290
+24	Maryland	027	Howard County	1985	141.200
+24	Maryland	027	Howard County	1990	187.330
+24	Maryland	027	Howard County	1995	219.120
+24	Maryland	027	Howard County	2000	247.840
+24	Maryland	027	Howard County	2005	269.457
+24	Maryland	027	Howard County	2010	287.085
+24	Maryland	027	Howard County	2015	313.414
+24	Maryland	029	Kent County	1985	16.800
+24	Maryland	029	Kent County	1990	17.840
+24	Maryland	029	Kent County	1995	18.740
+24	Maryland	029	Kent County	2000	19.200
+24	Maryland	029	Kent County	2005	19.899
+24	Maryland	029	Kent County	2010	20.197
+24	Maryland	029	Kent County	2015	19.787
+24	Maryland	031	Montgomery County	1985	643.400
+24	Maryland	031	Montgomery County	1990	757.030
+24	Maryland	031	Montgomery County	1995	809.570
+24	Maryland	031	Montgomery County	2000	873.340
+24	Maryland	031	Montgomery County	2005	927.583
+24	Maryland	031	Montgomery County	2010	971.777
+24	Maryland	031	Montgomery County	2015	1040.116
+24	Maryland	033	Prince George's County	1985	678.100
+24	Maryland	033	Prince George's County	1990	729.270
+24	Maryland	033	Prince George's County	1995	767.410
+24	Maryland	033	Prince George's County	2000	801.520
+24	Maryland	033	Prince George's County	2005	846.123
+24	Maryland	033	Prince George's County	2010	863.420
+24	Maryland	033	Prince George's County	2015	909.535
+24	Maryland	035	Queen Anne's County	1985	28.600
+24	Maryland	035	Queen Anne's County	1990	33.950
+24	Maryland	035	Queen Anne's County	1995	36.990
+24	Maryland	035	Queen Anne's County	2000	40.560
+24	Maryland	035	Queen Anne's County	2005	45.612
+24	Maryland	035	Queen Anne's County	2010	47.798
+24	Maryland	035	Queen Anne's County	2015	48.904
+24	Maryland	037	St. Mary's County	1985	64.900
+24	Maryland	037	St. Mary's County	1990	75.970
+24	Maryland	037	St. Mary's County	1995	81.040
+24	Maryland	037	St. Mary's County	2000	86.210
+24	Maryland	037	St. Mary's County	2005	96.518
+24	Maryland	037	St. Mary's County	2010	105.151
+24	Maryland	037	St. Mary's County	2015	111.413
+24	Maryland	039	Somerset County	1985	19.000
+24	Maryland	039	Somerset County	1990	23.440
+24	Maryland	039	Somerset County	1995	24.430
+24	Maryland	039	Somerset County	2000	24.750
+24	Maryland	039	Somerset County	2005	25.845
+24	Maryland	039	Somerset County	2010	26.470
+24	Maryland	039	Somerset County	2015	25.768
+24	Maryland	041	Talbot County	1985	27.000
+24	Maryland	041	Talbot County	1990	30.550
+24	Maryland	041	Talbot County	1995	32.400
+24	Maryland	041	Talbot County	2000	33.810
+24	Maryland	041	Talbot County	2005	35.683
+24	Maryland	041	Talbot County	2010	37.782
+24	Maryland	041	Talbot County	2015	37.512
+24	Maryland	043	Washington County	1985	112.800
+24	Maryland	043	Washington County	1990	121.390
+24	Maryland	043	Washington County	1995	127.200
+24	Maryland	043	Washington County	2000	131.920
+24	Maryland	043	Washington County	2005	141.895
+24	Maryland	043	Washington County	2010	147.430
+24	Maryland	043	Washington County	2015	149.585
+24	Maryland	045	Wicomico County	1985	67.900
+24	Maryland	045	Wicomico County	1990	74.340
+24	Maryland	045	Wicomico County	1995	79.260
+24	Maryland	045	Wicomico County	2000	84.640
+24	Maryland	045	Wicomico County	2005	90.402
+24	Maryland	045	Wicomico County	2010	98.733
+24	Maryland	045	Wicomico County	2015	102.370
+24	Maryland	047	Worcester County	1985	34.500
+24	Maryland	047	Worcester County	1990	35.030
+24	Maryland	047	Worcester County	1995	39.950
+24	Maryland	047	Worcester County	2000	46.540
+24	Maryland	047	Worcester County	2005	48.750
+24	Maryland	047	Worcester County	2010	51.454
+24	Maryland	047	Worcester County	2015	51.540
+24	Maryland	510	Baltimore City	1985	753.700
+24	Maryland	510	Baltimore City	1990	736.010
+24	Maryland	510	Baltimore City	1995	691.130
+24	Maryland	510	Baltimore City	2000	651.150
+24	Maryland	510	Baltimore City	2005	635.815
+24	Maryland	510	Baltimore City	2010	620.961
+24	Maryland	510	Baltimore City	2015	621.849

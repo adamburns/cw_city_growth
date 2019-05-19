@@ -1,0 +1,407 @@
+#
+# File created on 2019-05-18 23:23:41 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+38	North Dakota	001	Adams County	1985	3.510
+38	North Dakota	001	Adams County	1990	3.170
+38	North Dakota	001	Adams County	1995	2.590
+38	North Dakota	001	Adams County	2000	2.590
+38	North Dakota	001	Adams County	2005	2.433
+38	North Dakota	001	Adams County	2010	2.343
+38	North Dakota	001	Adams County	2015	2.359
+38	North Dakota	003	Barnes County	1985	13.710
+38	North Dakota	003	Barnes County	1990	12.540
+38	North Dakota	003	Barnes County	1995	12.040
+38	North Dakota	003	Barnes County	2000	11.780
+38	North Dakota	003	Barnes County	2005	11.075
+38	North Dakota	003	Barnes County	2010	11.066
+38	North Dakota	003	Barnes County	2015	11.099
+38	North Dakota	005	Benson County	1985	8.050
+38	North Dakota	005	Benson County	1990	7.200
+38	North Dakota	005	Benson County	1995	6.990
+38	North Dakota	005	Benson County	2000	6.960
+38	North Dakota	005	Benson County	2005	6.999
+38	North Dakota	005	Benson County	2010	6.660
+38	North Dakota	005	Benson County	2015	6.753
+38	North Dakota	007	Billings County	1985	1.290
+38	North Dakota	007	Billings County	1990	1.110
+38	North Dakota	007	Billings County	1995	1.160
+38	North Dakota	007	Billings County	2000	0.890
+38	North Dakota	007	Billings County	2005	0.813
+38	North Dakota	007	Billings County	2010	0.783
+38	North Dakota	007	Billings County	2015	0.936
+38	North Dakota	009	Bottineau County	1985	9.140
+38	North Dakota	009	Bottineau County	1990	8.010
+38	North Dakota	009	Bottineau County	1995	7.710
+38	North Dakota	009	Bottineau County	2000	7.150
+38	North Dakota	009	Bottineau County	2005	6.741
+38	North Dakota	009	Bottineau County	2010	6.429
+38	North Dakota	009	Bottineau County	2015	6.716
+38	North Dakota	011	Bowman County	1985	4.310
+38	North Dakota	011	Bowman County	1990	3.600
+38	North Dakota	011	Bowman County	1995	3.230
+38	North Dakota	011	Bowman County	2000	3.240
+38	North Dakota	011	Bowman County	2005	3.048
+38	North Dakota	011	Bowman County	2010	3.151
+38	North Dakota	011	Bowman County	2015	3.294
+38	North Dakota	013	Burke County	1985	3.690
+38	North Dakota	013	Burke County	1990	3.000
+38	North Dakota	013	Burke County	1995	2.500
+38	North Dakota	013	Burke County	2000	2.240
+38	North Dakota	013	Burke County	2005	2.032
+38	North Dakota	013	Burke County	2010	1.968
+38	North Dakota	013	Burke County	2015	2.308
+38	North Dakota	015	Burleigh County	1985	59.000
+38	North Dakota	015	Burleigh County	1990	60.130
+38	North Dakota	015	Burleigh County	1995	64.810
+38	North Dakota	015	Burleigh County	2000	69.420
+38	North Dakota	015	Burleigh County	2005	73.818
+38	North Dakota	015	Burleigh County	2010	81.308
+38	North Dakota	015	Burleigh County	2015	92.991
+38	North Dakota	017	Cass County	1985	95.280
+38	North Dakota	017	Cass County	1990	102.870
+38	North Dakota	017	Cass County	1995	111.440
+38	North Dakota	017	Cass County	2000	123.140
+38	North Dakota	017	Cass County	2005	131.019
+38	North Dakota	017	Cass County	2010	149.778
+38	North Dakota	017	Cass County	2015	171.512
+38	North Dakota	019	Cavalier County	1985	7.140
+38	North Dakota	019	Cavalier County	1990	6.060
+38	North Dakota	019	Cavalier County	1995	5.470
+38	North Dakota	019	Cavalier County	2000	4.830
+38	North Dakota	019	Cavalier County	2005	4.330
+38	North Dakota	019	Cavalier County	2010	3.993
+38	North Dakota	019	Cavalier County	2015	3.828
+38	North Dakota	021	Dickey County	1985	6.940
+38	North Dakota	021	Dickey County	1990	6.110
+38	North Dakota	021	Dickey County	1995	5.780
+38	North Dakota	021	Dickey County	2000	5.760
+38	North Dakota	021	Dickey County	2005	5.487
+38	North Dakota	021	Dickey County	2010	5.289
+38	North Dakota	021	Dickey County	2015	5.104
+38	North Dakota	023	Divide County	1985	3.250
+38	North Dakota	023	Divide County	1990	2.900
+38	North Dakota	023	Divide County	1995	2.560
+38	North Dakota	023	Divide County	2000	2.280
+38	North Dakota	023	Divide County	2005	2.149
+38	North Dakota	023	Divide County	2010	2.071
+38	North Dakota	023	Divide County	2015	2.450
+38	North Dakota	025	Dunn County	1985	5.230
+38	North Dakota	025	Dunn County	1990	4.000
+38	North Dakota	025	Dunn County	1995	3.790
+38	North Dakota	025	Dunn County	2000	3.600
+38	North Dakota	025	Dunn County	2005	3.442
+38	North Dakota	025	Dunn County	2010	3.536
+38	North Dakota	025	Dunn County	2015	4.646
+38	North Dakota	027	Eddy County	1985	3.290
+38	North Dakota	027	Eddy County	1990	2.950
+38	North Dakota	027	Eddy County	1995	2.850
+38	North Dakota	027	Eddy County	2000	2.760
+38	North Dakota	027	Eddy County	2005	2.626
+38	North Dakota	027	Eddy County	2010	2.385
+38	North Dakota	027	Eddy County	2015	2.365
+38	North Dakota	029	Emmons County	1985	5.730
+38	North Dakota	029	Emmons County	1990	4.830
+38	North Dakota	029	Emmons County	1995	4.560
+38	North Dakota	029	Emmons County	2000	4.330
+38	North Dakota	029	Emmons County	2005	3.845
+38	North Dakota	029	Emmons County	2010	3.550
+38	North Dakota	029	Emmons County	2015	3.402
+38	North Dakota	031	Foster County	1985	4.570
+38	North Dakota	031	Foster County	1990	3.980
+38	North Dakota	031	Foster County	1995	3.890
+38	North Dakota	031	Foster County	2000	3.760
+38	North Dakota	031	Foster County	2005	3.580
+38	North Dakota	031	Foster County	2010	3.343
+38	North Dakota	031	Foster County	2015	3.356
+38	North Dakota	033	Golden Valley County	1985	2.610
+38	North Dakota	033	Golden Valley County	1990	2.110
+38	North Dakota	033	Golden Valley County	1995	1.960
+38	North Dakota	033	Golden Valley County	2000	1.920
+38	North Dakota	033	Golden Valley County	2005	1.739
+38	North Dakota	033	Golden Valley County	2010	1.680
+38	North Dakota	033	Golden Valley County	2015	1.845
+38	North Dakota	035	Grand Forks County	1985	68.650
+38	North Dakota	035	Grand Forks County	1990	70.680
+38	North Dakota	035	Grand Forks County	1995	71.880
+38	North Dakota	035	Grand Forks County	2000	66.110
+38	North Dakota	035	Grand Forks County	2005	65.940
+38	North Dakota	035	Grand Forks County	2010	66.861
+38	North Dakota	035	Grand Forks County	2015	70.916
+38	North Dakota	037	Grant County	1985	4.170
+38	North Dakota	037	Grant County	1990	3.550
+38	North Dakota	037	Grant County	1995	3.240
+38	North Dakota	037	Grant County	2000	2.840
+38	North Dakota	037	Grant County	2005	2.615
+38	North Dakota	037	Grant County	2010	2.394
+38	North Dakota	037	Grant County	2015	2.388
+38	North Dakota	039	Griggs County	1985	3.640
+38	North Dakota	039	Griggs County	1990	3.300
+38	North Dakota	039	Griggs County	1995	3.040
+38	North Dakota	039	Griggs County	2000	2.750
+38	North Dakota	039	Griggs County	2005	2.497
+38	North Dakota	039	Griggs County	2010	2.420
+38	North Dakota	039	Griggs County	2015	2.314
+38	North Dakota	041	Hettinger County	1985	4.020
+38	North Dakota	041	Hettinger County	1990	3.440
+38	North Dakota	041	Hettinger County	1995	3.020
+38	North Dakota	041	Hettinger County	2000	2.720
+38	North Dakota	041	Hettinger County	2005	2.486
+38	North Dakota	041	Hettinger County	2010	2.477
+38	North Dakota	041	Hettinger County	2015	2.704
+38	North Dakota	043	Kidder County	1985	3.780
+38	North Dakota	043	Kidder County	1990	3.330
+38	North Dakota	043	Kidder County	1995	3.040
+38	North Dakota	043	Kidder County	2000	2.750
+38	North Dakota	043	Kidder County	2005	2.481
+38	North Dakota	043	Kidder County	2010	2.435
+38	North Dakota	043	Kidder County	2015	2.417
+38	North Dakota	045	LaMoure County	1985	6.120
+38	North Dakota	045	LaMoure County	1990	5.380
+38	North Dakota	045	LaMoure County	1995	5.030
+38	North Dakota	045	LaMoure County	2000	4.700
+38	North Dakota	045	LaMoure County	2005	4.384
+38	North Dakota	045	LaMoure County	2010	4.139
+38	North Dakota	045	LaMoure County	2015	4.125
+38	North Dakota	047	Logan County	1985	3.260
+38	North Dakota	047	Logan County	1990	2.850
+38	North Dakota	047	Logan County	1995	2.480
+38	North Dakota	047	Logan County	2000	2.310
+38	North Dakota	047	Logan County	2005	2.059
+38	North Dakota	047	Logan County	2010	1.990
+38	North Dakota	047	Logan County	2015	1.935
+38	North Dakota	049	McHenry County	1985	7.500
+38	North Dakota	049	McHenry County	1990	6.530
+38	North Dakota	049	McHenry County	1995	6.320
+38	North Dakota	049	McHenry County	2000	5.990
+38	North Dakota	049	McHenry County	2005	5.511
+38	North Dakota	049	McHenry County	2010	5.395
+38	North Dakota	049	McHenry County	2015	5.968
+38	North Dakota	051	McIntosh County	1985	4.480
+38	North Dakota	051	McIntosh County	1990	4.020
+38	North Dakota	051	McIntosh County	1995	3.650
+38	North Dakota	051	McIntosh County	2000	3.390
+38	North Dakota	051	McIntosh County	2005	3.013
+38	North Dakota	051	McIntosh County	2010	2.809
+38	North Dakota	051	McIntosh County	2015	2.759
+38	North Dakota	053	McKenzie County	1985	8.530
+38	North Dakota	053	McKenzie County	1990	6.380
+38	North Dakota	053	McKenzie County	1995	5.780
+38	North Dakota	053	McKenzie County	2000	5.740
+38	North Dakota	053	McKenzie County	2005	5.594
+38	North Dakota	053	McKenzie County	2010	6.360
+38	North Dakota	053	McKenzie County	2015	12.826
+38	North Dakota	055	McLean County	1985	12.900
+38	North Dakota	055	McLean County	1990	10.460
+38	North Dakota	055	McLean County	1995	9.850
+38	North Dakota	055	McLean County	2000	9.310
+38	North Dakota	055	McLean County	2005	8.604
+38	North Dakota	055	McLean County	2010	8.962
+38	North Dakota	055	McLean County	2015	9.744
+38	North Dakota	057	Mercer County	1985	14.900
+38	North Dakota	057	Mercer County	1990	9.810
+38	North Dakota	057	Mercer County	1995	9.470
+38	North Dakota	057	Mercer County	2000	8.640
+38	North Dakota	057	Mercer County	2005	8.364
+38	North Dakota	057	Mercer County	2010	8.424
+38	North Dakota	057	Mercer County	2015	8.853
+38	North Dakota	059	Morton County	1985	26.660
+38	North Dakota	059	Morton County	1990	23.700
+38	North Dakota	059	Morton County	1995	24.630
+38	North Dakota	059	Morton County	2000	25.300
+38	North Dakota	059	Morton County	2005	25.528
+38	North Dakota	059	Morton County	2010	27.471
+38	North Dakota	059	Morton County	2015	30.310
+38	North Dakota	061	Mountrail County	1985	8.080
+38	North Dakota	061	Mountrail County	1990	7.020
+38	North Dakota	061	Mountrail County	1995	6.800
+38	North Dakota	061	Mountrail County	2000	6.630
+38	North Dakota	061	Mountrail County	2005	6.513
+38	North Dakota	061	Mountrail County	2010	7.673
+38	North Dakota	061	Mountrail County	2015	10.331
+38	North Dakota	063	Nelson County	1985	5.000
+38	North Dakota	063	Nelson County	1990	4.410
+38	North Dakota	063	Nelson County	1995	4.060
+38	North Dakota	063	Nelson County	2000	3.720
+38	North Dakota	063	Nelson County	2005	3.424
+38	North Dakota	063	Nelson County	2010	3.126
+38	North Dakota	063	Nelson County	2015	2.968
+38	North Dakota	065	Oliver County	1985	2.680
+38	North Dakota	065	Oliver County	1990	2.380
+38	North Dakota	065	Oliver County	1995	2.190
+38	North Dakota	065	Oliver County	2000	2.070
+38	North Dakota	065	Oliver County	2005	1.813
+38	North Dakota	065	Oliver County	2010	1.846
+38	North Dakota	065	Oliver County	2015	1.846
+38	North Dakota	067	Pembina County	1985	10.180
+38	North Dakota	067	Pembina County	1990	9.240
+38	North Dakota	067	Pembina County	1995	8.790
+38	North Dakota	067	Pembina County	2000	8.590
+38	North Dakota	067	Pembina County	2005	8.038
+38	North Dakota	067	Pembina County	2010	7.413
+38	North Dakota	067	Pembina County	2015	7.091
+38	North Dakota	069	Pierce County	1985	6.020
+38	North Dakota	069	Pierce County	1990	5.050
+38	North Dakota	069	Pierce County	1995	4.680
+38	North Dakota	069	Pierce County	2000	4.680
+38	North Dakota	069	Pierce County	2005	4.291
+38	North Dakota	069	Pierce County	2010	4.357
+38	North Dakota	069	Pierce County	2015	4.312
+38	North Dakota	071	Ramsey County	1985	13.050
+38	North Dakota	071	Ramsey County	1990	12.680
+38	North Dakota	071	Ramsey County	1995	12.680
+38	North Dakota	071	Ramsey County	2000	12.070
+38	North Dakota	071	Ramsey County	2005	11.429
+38	North Dakota	071	Ramsey County	2010	11.451
+38	North Dakota	071	Ramsey County	2015	11.630
+38	North Dakota	073	Ransom County	1985	6.500
+38	North Dakota	073	Ransom County	1990	5.920
+38	North Dakota	073	Ransom County	1995	5.890
+38	North Dakota	073	Ransom County	2000	5.890
+38	North Dakota	073	Ransom County	2005	5.810
+38	North Dakota	073	Ransom County	2010	5.457
+38	North Dakota	073	Ransom County	2015	5.448
+38	North Dakota	075	Renville County	1985	3.560
+38	North Dakota	075	Renville County	1990	3.160
+38	North Dakota	075	Renville County	1995	2.840
+38	North Dakota	075	Renville County	2000	2.610
+38	North Dakota	075	Renville County	2005	2.422
+38	North Dakota	075	Renville County	2010	2.470
+38	North Dakota	075	Renville County	2015	2.571
+38	North Dakota	077	Richland County	1985	20.020
+38	North Dakota	077	Richland County	1990	18.150
+38	North Dakota	077	Richland County	1995	18.180
+38	North Dakota	077	Richland County	2000	18.000
+38	North Dakota	077	Richland County	2005	17.340
+38	North Dakota	077	Richland County	2010	16.321
+38	North Dakota	077	Richland County	2015	16.402
+38	North Dakota	079	Rolette County	1985	13.070
+38	North Dakota	079	Rolette County	1990	12.770
+38	North Dakota	079	Rolette County	1995	13.780
+38	North Dakota	079	Rolette County	2000	13.670
+38	North Dakota	079	Rolette County	2005	13.864
+38	North Dakota	079	Rolette County	2010	13.937
+38	North Dakota	079	Rolette County	2015	14.649
+38	North Dakota	081	Sargent County	1985	5.250
+38	North Dakota	081	Sargent County	1990	4.550
+38	North Dakota	081	Sargent County	1995	4.560
+38	North Dakota	081	Sargent County	2000	4.370
+38	North Dakota	081	Sargent County	2005	4.150
+38	North Dakota	081	Sargent County	2010	3.829
+38	North Dakota	081	Sargent County	2015	3.876
+38	North Dakota	083	Sheridan County	1985	2.650
+38	North Dakota	083	Sheridan County	1990	2.150
+38	North Dakota	083	Sheridan County	1995	1.900
+38	North Dakota	083	Sheridan County	2000	1.710
+38	North Dakota	083	Sheridan County	2005	1.430
+38	North Dakota	083	Sheridan County	2010	1.321
+38	North Dakota	083	Sheridan County	2015	1.310
+38	North Dakota	085	Sioux County	1985	3.720
+38	North Dakota	085	Sioux County	1990	3.760
+38	North Dakota	085	Sioux County	1995	3.990
+38	North Dakota	085	Sioux County	2000	4.040
+38	North Dakota	085	Sioux County	2005	4.182
+38	North Dakota	085	Sioux County	2010	4.153
+38	North Dakota	085	Sioux County	2015	4.370
+38	North Dakota	087	Slope County	1985	1.160
+38	North Dakota	087	Slope County	1990	0.910
+38	North Dakota	087	Slope County	1995	0.820
+38	North Dakota	087	Slope County	2000	0.770
+38	North Dakota	087	Slope County	2005	0.709
+38	North Dakota	087	Slope County	2010	0.727
+38	North Dakota	087	Slope County	2015	0.767
+38	North Dakota	089	Stark County	1985	27.860
+38	North Dakota	089	Stark County	1990	22.830
+38	North Dakota	089	Stark County	1995	22.430
+38	North Dakota	089	Stark County	2000	22.640
+38	North Dakota	089	Stark County	2005	22.073
+38	North Dakota	089	Stark County	2010	24.199
+38	North Dakota	089	Stark County	2015	32.154
+38	North Dakota	091	Steele County	1985	2.940
+38	North Dakota	091	Steele County	1990	2.420
+38	North Dakota	091	Steele County	1995	2.310
+38	North Dakota	091	Steele County	2000	2.260
+38	North Dakota	091	Steele County	2005	2.007
+38	North Dakota	091	Steele County	2010	1.975
+38	North Dakota	091	Steele County	2015	1.956
+38	North Dakota	093	Stutsman County	1985	23.650
+38	North Dakota	093	Stutsman County	1990	22.240
+38	North Dakota	093	Stutsman County	1995	21.460
+38	North Dakota	093	Stutsman County	2000	21.910
+38	North Dakota	093	Stutsman County	2005	20.835
+38	North Dakota	093	Stutsman County	2010	21.100
+38	North Dakota	093	Stutsman County	2015	21.103
+38	North Dakota	095	Towner County	1985	4.610
+38	North Dakota	095	Towner County	1990	3.630
+38	North Dakota	095	Towner County	1995	3.210
+38	North Dakota	095	Towner County	2000	2.880
+38	North Dakota	095	Towner County	2005	2.544
+38	North Dakota	095	Towner County	2010	2.246
+38	North Dakota	095	Towner County	2015	2.272
+38	North Dakota	097	Traill County	1985	9.350
+38	North Dakota	097	Traill County	1990	8.750
+38	North Dakota	097	Traill County	1995	8.700
+38	North Dakota	097	Traill County	2000	8.480
+38	North Dakota	097	Traill County	2005	8.321
+38	North Dakota	097	Traill County	2010	8.121
+38	North Dakota	097	Traill County	2015	8.014
+38	North Dakota	099	Walsh County	1985	15.530
+38	North Dakota	099	Walsh County	1990	13.840
+38	North Dakota	099	Walsh County	1995	12.790
+38	North Dakota	099	Walsh County	2000	12.390
+38	North Dakota	099	Walsh County	2005	11.607
+38	North Dakota	099	Walsh County	2010	11.119
+38	North Dakota	099	Walsh County	2015	10.897
+38	North Dakota	101	Ward County	1985	64.030
+38	North Dakota	101	Ward County	1990	57.920
+38	North Dakota	101	Ward County	1995	58.780
+38	North Dakota	101	Ward County	2000	58.800
+38	North Dakota	101	Ward County	2005	55.767
+38	North Dakota	101	Ward County	2010	61.675
+38	North Dakota	101	Ward County	2015	71.275
+38	North Dakota	103	Wells County	1985	6.830
+38	North Dakota	103	Wells County	1990	5.860
+38	North Dakota	103	Wells County	1995	5.250
+38	North Dakota	103	Wells County	2000	5.100
+38	North Dakota	103	Wells County	2005	4.574
+38	North Dakota	103	Wells County	2010	4.207
+38	North Dakota	103	Wells County	2015	4.168
+38	North Dakota	105	Williams County	1985	27.040
+38	North Dakota	105	Williams County	1990	21.130
+38	North Dakota	105	Williams County	1995	20.550
+38	North Dakota	105	Williams County	2000	19.760
+38	North Dakota	105	Williams County	2005	19.282
+38	North Dakota	105	Williams County	2010	22.398
+38	North Dakota	105	Williams County	2015	35.294

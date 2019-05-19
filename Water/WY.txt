@@ -1,0 +1,197 @@
+#
+# File created on 2019-05-18 23:23:56 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+56	Wyoming	001	Albany County	1985	29.900
+56	Wyoming	001	Albany County	1990	30.800
+56	Wyoming	001	Albany County	1995	30.980
+56	Wyoming	001	Albany County	2000	32.010
+56	Wyoming	001	Albany County	2005	30.890
+56	Wyoming	001	Albany County	2010	36.299
+56	Wyoming	001	Albany County	2015	37.956
+56	Wyoming	003	Big Horn County	1985	12.300
+56	Wyoming	003	Big Horn County	1990	10.530
+56	Wyoming	003	Big Horn County	1995	11.110
+56	Wyoming	003	Big Horn County	2000	11.460
+56	Wyoming	003	Big Horn County	2005	11.333
+56	Wyoming	003	Big Horn County	2010	11.668
+56	Wyoming	003	Big Horn County	2015	12.022
+56	Wyoming	005	Campbell County	1985	36.900
+56	Wyoming	005	Campbell County	1990	29.370
+56	Wyoming	005	Campbell County	1995	31.670
+56	Wyoming	005	Campbell County	2000	33.700
+56	Wyoming	005	Campbell County	2005	37.405
+56	Wyoming	005	Campbell County	2010	46.133
+56	Wyoming	005	Campbell County	2015	49.220
+56	Wyoming	007	Carbon County	1985	19.900
+56	Wyoming	007	Carbon County	1990	16.660
+56	Wyoming	007	Carbon County	1995	16.110
+56	Wyoming	007	Carbon County	2000	15.640
+56	Wyoming	007	Carbon County	2005	15.331
+56	Wyoming	007	Carbon County	2010	15.885
+56	Wyoming	007	Carbon County	2015	15.559
+56	Wyoming	009	Converse County	1985	14.200
+56	Wyoming	009	Converse County	1990	11.130
+56	Wyoming	009	Converse County	1995	11.960
+56	Wyoming	009	Converse County	2000	12.050
+56	Wyoming	009	Converse County	2005	12.766
+56	Wyoming	009	Converse County	2010	13.833
+56	Wyoming	009	Converse County	2015	14.236
+56	Wyoming	011	Crook County	1985	5.900
+56	Wyoming	011	Crook County	1990	5.290
+56	Wyoming	011	Crook County	1995	5.660
+56	Wyoming	011	Crook County	2000	5.890
+56	Wyoming	011	Crook County	2005	6.182
+56	Wyoming	011	Crook County	2010	7.083
+56	Wyoming	011	Crook County	2015	7.444
+56	Wyoming	013	Fremont County	1985	36.600
+56	Wyoming	013	Fremont County	1990	33.660
+56	Wyoming	013	Fremont County	1995	35.710
+56	Wyoming	013	Fremont County	2000	35.800
+56	Wyoming	013	Fremont County	2005	36.491
+56	Wyoming	013	Fremont County	2010	40.123
+56	Wyoming	013	Fremont County	2015	40.315
+56	Wyoming	015	Goshen County	1985	12.600
+56	Wyoming	015	Goshen County	1990	12.370
+56	Wyoming	015	Goshen County	1995	12.630
+56	Wyoming	015	Goshen County	2000	12.540
+56	Wyoming	015	Goshen County	2005	12.243
+56	Wyoming	015	Goshen County	2010	13.249
+56	Wyoming	015	Goshen County	2015	13.383
+56	Wyoming	017	Hot Springs County	1985	6.000
+56	Wyoming	017	Hot Springs County	1990	4.810
+56	Wyoming	017	Hot Springs County	1995	4.570
+56	Wyoming	017	Hot Springs County	2000	4.880
+56	Wyoming	017	Hot Springs County	2005	4.537
+56	Wyoming	017	Hot Springs County	2010	4.812
+56	Wyoming	017	Hot Springs County	2015	4.741
+56	Wyoming	019	Johnson County	1985	7.000
+56	Wyoming	019	Johnson County	1990	6.150
+56	Wyoming	019	Johnson County	1995	6.640
+56	Wyoming	019	Johnson County	2000	7.080
+56	Wyoming	019	Johnson County	2005	7.721
+56	Wyoming	019	Johnson County	2010	8.569
+56	Wyoming	019	Johnson County	2015	8.585
+56	Wyoming	021	Laramie County	1985	72.900
+56	Wyoming	021	Laramie County	1990	73.140
+56	Wyoming	021	Laramie County	1995	78.440
+56	Wyoming	021	Laramie County	2000	81.610
+56	Wyoming	021	Laramie County	2005	85.163
+56	Wyoming	021	Laramie County	2010	91.738
+56	Wyoming	021	Laramie County	2015	97.121
+56	Wyoming	023	Lincoln County	1985	15.200
+56	Wyoming	023	Lincoln County	1990	12.630
+56	Wyoming	023	Lincoln County	1995	13.920
+56	Wyoming	023	Lincoln County	2000	14.570
+56	Wyoming	023	Lincoln County	2005	15.999
+56	Wyoming	023	Lincoln County	2010	18.106
+56	Wyoming	023	Lincoln County	2015	18.722
+56	Wyoming	025	Natrona County	1985	72.900
+56	Wyoming	025	Natrona County	1990	61.230
+56	Wyoming	025	Natrona County	1995	64.020
+56	Wyoming	025	Natrona County	2000	66.530
+56	Wyoming	025	Natrona County	2005	69.799
+56	Wyoming	025	Natrona County	2010	75.450
+56	Wyoming	025	Natrona County	2015	82.178
+56	Wyoming	027	Niobrara County	1985	3.200
+56	Wyoming	027	Niobrara County	1990	2.500
+56	Wyoming	027	Niobrara County	1995	2.620
+56	Wyoming	027	Niobrara County	2000	2.410
+56	Wyoming	027	Niobrara County	2005	2.286
+56	Wyoming	027	Niobrara County	2010	2.484
+56	Wyoming	027	Niobrara County	2015	2.542
+56	Wyoming	029	Park County	1985	24.700
+56	Wyoming	029	Park County	1990	23.180
+56	Wyoming	029	Park County	1995	25.530
+56	Wyoming	029	Park County	2000	25.790
+56	Wyoming	029	Park County	2005	26.664
+56	Wyoming	029	Park County	2010	28.205
+56	Wyoming	029	Park County	2015	29.228
+56	Wyoming	031	Platte County	1985	9.800
+56	Wyoming	031	Platte County	1990	8.150
+56	Wyoming	031	Platte County	1995	8.340
+56	Wyoming	031	Platte County	2000	8.810
+56	Wyoming	031	Platte County	2005	8.619
+56	Wyoming	031	Platte County	2010	8.667
+56	Wyoming	031	Platte County	2015	8.812
+56	Wyoming	033	Sheridan County	1985	26.700
+56	Wyoming	033	Sheridan County	1990	23.560
+56	Wyoming	033	Sheridan County	1995	25.090
+56	Wyoming	033	Sheridan County	2000	26.560
+56	Wyoming	033	Sheridan County	2005	27.389
+56	Wyoming	033	Sheridan County	2010	29.116
+56	Wyoming	033	Sheridan County	2015	30.009
+56	Wyoming	035	Sublette County	1985	5.700
+56	Wyoming	035	Sublette County	1990	4.840
+56	Wyoming	035	Sublette County	1995	5.510
+56	Wyoming	035	Sublette County	2000	5.920
+56	Wyoming	035	Sublette County	2005	6.926
+56	Wyoming	035	Sublette County	2010	10.247
+56	Wyoming	035	Sublette County	2015	9.899
+56	Wyoming	037	Sweetwater County	1985	44.700
+56	Wyoming	037	Sweetwater County	1990	38.820
+56	Wyoming	037	Sweetwater County	1995	40.980
+56	Wyoming	037	Sweetwater County	2000	37.610
+56	Wyoming	037	Sweetwater County	2005	37.975
+56	Wyoming	037	Sweetwater County	2010	43.806
+56	Wyoming	037	Sweetwater County	2015	44.626
+56	Wyoming	039	Teton County	1985	10.800
+56	Wyoming	039	Teton County	1990	11.170
+56	Wyoming	039	Teton County	1995	13.440
+56	Wyoming	039	Teton County	2000	18.250
+56	Wyoming	039	Teton County	2005	19.032
+56	Wyoming	039	Teton County	2010	21.294
+56	Wyoming	039	Teton County	2015	23.125
+56	Wyoming	041	Uinta County	1985	23.500
+56	Wyoming	041	Uinta County	1990	18.710
+56	Wyoming	041	Uinta County	1995	20.090
+56	Wyoming	041	Uinta County	2000	19.740
+56	Wyoming	041	Uinta County	2005	19.939
+56	Wyoming	041	Uinta County	2010	21.118
+56	Wyoming	041	Uinta County	2015	20.822
+56	Wyoming	043	Washakie County	1985	10.000
+56	Wyoming	043	Washakie County	1990	8.390
+56	Wyoming	043	Washakie County	1995	8.660
+56	Wyoming	043	Washakie County	2000	8.290
+56	Wyoming	043	Washakie County	2005	7.933
+56	Wyoming	043	Washakie County	2010	8.533
+56	Wyoming	043	Washakie County	2015	8.328
+56	Wyoming	045	Weston County	1985	7.900
+56	Wyoming	045	Weston County	1990	6.520
+56	Wyoming	045	Weston County	1995	6.510
+56	Wyoming	045	Weston County	2000	6.640
+56	Wyoming	045	Weston County	2005	6.671
+56	Wyoming	045	Weston County	2010	7.208
+56	Wyoming	045	Weston County	2015	7.234

@@ -1,0 +1,222 @@
+#
+# File created on 2019-05-18 23:23:11 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+02	Alaska	013	Aleutians East Borough	1990	2.258
+02	Alaska	013	Aleutians East Borough	1995	2.250
+02	Alaska	013	Aleutians East Borough	2000	2.700
+02	Alaska	013	Aleutians East Borough	2005	2.659
+02	Alaska	013	Aleutians East Borough	2010	3.141
+02	Alaska	013	Aleutians East Borough	2015	3.341
+02	Alaska	016	Aleutians West Census Area	1990	8.492
+02	Alaska	016	Aleutians West Census Area	1995	5.260
+02	Alaska	016	Aleutians West Census Area	2000	5.470
+02	Alaska	016	Aleutians West Census Area	2005	5.249
+02	Alaska	016	Aleutians West Census Area	2010	5.561
+02	Alaska	016	Aleutians West Census Area	2015	5.702
+02	Alaska	020	Municipality of Anchorage	1985	244.000
+02	Alaska	020	Municipality of Anchorage	1990	226.340
+02	Alaska	020	Municipality of Anchorage	1995	251.360
+02	Alaska	020	Municipality of Anchorage	2000	260.280
+02	Alaska	020	Municipality of Anchorage	2005	278.241
+02	Alaska	020	Municipality of Anchorage	2010	291.826
+02	Alaska	020	Municipality of Anchorage	2015	298.695
+02	Alaska	050	Bethel Census Area	1985	11.825
+02	Alaska	050	Bethel Census Area	1990	13.485
+02	Alaska	050	Bethel Census Area	1995	15.530
+02	Alaska	050	Bethel Census Area	2000	16.010
+02	Alaska	050	Bethel Census Area	2005	17.085
+02	Alaska	050	Bethel Census Area	2010	17.013
+02	Alaska	050	Bethel Census Area	2015	17.946
+02	Alaska	060	Bristol Bay Borough	1985	0.830
+02	Alaska	060	Bristol Bay Borough	1990	1.410
+02	Alaska	060	Bristol Bay Borough	1995	1.020
+02	Alaska	060	Bristol Bay Borough	2000	1.260
+02	Alaska	060	Bristol Bay Borough	2005	1.073
+02	Alaska	060	Bristol Bay Borough	2010	0.997
+02	Alaska	060	Bristol Bay Borough	2015	0.892
+02	Alaska	068	Denali Borough	1995	1.880
+02	Alaska	068	Denali Borough	2000	1.890
+02	Alaska	068	Denali Borough	2005	1.823
+02	Alaska	068	Denali Borough	2010	1.826
+02	Alaska	068	Denali Borough	2015	1.919
+02	Alaska	070	Dillingham Census Area	1985	5.010
+02	Alaska	070	Dillingham Census Area	1990	4.022
+02	Alaska	070	Dillingham Census Area	1995	4.360
+02	Alaska	070	Dillingham Census Area	2000	4.920
+02	Alaska	070	Dillingham Census Area	2005	4.792
+02	Alaska	070	Dillingham Census Area	2010	4.847
+02	Alaska	070	Dillingham Census Area	2015	4.997
+02	Alaska	090	Fairbanks North Star Borough	1985	74.000
+02	Alaska	090	Fairbanks North Star Borough	1990	76.310
+02	Alaska	090	Fairbanks North Star Borough	1995	83.370
+02	Alaska	090	Fairbanks North Star Borough	2000	82.840
+02	Alaska	090	Fairbanks North Star Borough	2005	87.650
+02	Alaska	090	Fairbanks North Star Borough	2010	97.581
+02	Alaska	090	Fairbanks North Star Borough	2015	99.631
+02	Alaska	100	Haines Borough	1985	1.930
+02	Alaska	100	Haines Borough	1990	2.180
+02	Alaska	100	Haines Borough	1995	2.010
+02	Alaska	100	Haines Borough	2000	2.390
+02	Alaska	100	Haines Borough	2005	2.207
+02	Alaska	100	Haines Borough	2010	2.508
+02	Alaska	100	Haines Borough	2015	2.534
+02	Alaska	105	Hoonah-Angoon Census Area	2010	2.150
+02	Alaska	105	Hoonah-Angoon Census Area	2015	2.133
+02	Alaska	110	City & Borough of Juneau	1985	29.000
+02	Alaska	110	City & Borough of Juneau	1990	28.890
+02	Alaska	110	City & Borough of Juneau	1995	29.380
+02	Alaska	110	City & Borough of Juneau	2000	30.710
+02	Alaska	110	City & Borough of Juneau	2005	31.193
+02	Alaska	110	City & Borough of Juneau	2010	31.275
+02	Alaska	110	City & Borough of Juneau	2015	32.756
+02	Alaska	122	Kenai Peninsula Borough	1985	39.220
+02	Alaska	122	Kenai Peninsula Borough	1990	40.590
+02	Alaska	122	Kenai Peninsula Borough	1995	46.250
+02	Alaska	122	Kenai Peninsula Borough	2000	49.690
+02	Alaska	122	Kenai Peninsula Borough	2005	51.224
+02	Alaska	122	Kenai Peninsula Borough	2010	55.400
+02	Alaska	122	Kenai Peninsula Borough	2015	58.059
+02	Alaska	130	Ketchikan Gateway Borough	1985	14.640
+02	Alaska	130	Ketchikan Gateway Borough	1990	13.580
+02	Alaska	130	Ketchikan Gateway Borough	1995	14.420
+02	Alaska	130	Ketchikan Gateway Borough	2000	14.070
+02	Alaska	130	Ketchikan Gateway Borough	2005	13.125
+02	Alaska	130	Ketchikan Gateway Borough	2010	13.477
+02	Alaska	130	Ketchikan Gateway Borough	2015	13.709
+02	Alaska	140	Kobuk Census Area	1985	6.020
+02	Alaska	150	Kodiak Island Borough	1985	14.480
+02	Alaska	150	Kodiak Island Borough	1990	15.750
+02	Alaska	150	Kodiak Island Borough	1995	14.990
+02	Alaska	150	Kodiak Island Borough	2000	13.910
+02	Alaska	150	Kodiak Island Borough	2005	13.638
+02	Alaska	150	Kodiak Island Borough	2010	13.592
+02	Alaska	150	Kodiak Island Borough	2015	13.889
+02	Alaska	158	Kusilvak Census Area	2015	8.119
+02	Alaska	164	Lake and Peninsula Borough	1990	1.488
+02	Alaska	164	Lake and Peninsula Borough	1995	1.790
+02	Alaska	164	Lake and Peninsula Borough	2000	1.820
+02	Alaska	164	Lake and Peninsula Borough	2005	1.620
+02	Alaska	164	Lake and Peninsula Borough	2010	1.631
+02	Alaska	164	Lake and Peninsula Borough	2015	1.563
+02	Alaska	170	Matanuska-Susitna Borough	1985	41.320
+02	Alaska	170	Matanuska-Susitna Borough	1990	38.950
+02	Alaska	170	Matanuska-Susitna Borough	1995	50.690
+02	Alaska	170	Matanuska-Susitna Borough	2000	59.320
+02	Alaska	170	Matanuska-Susitna Borough	2005	74.041
+02	Alaska	170	Matanuska-Susitna Borough	2010	88.995
+02	Alaska	170	Matanuska-Susitna Borough	2015	101.095
+02	Alaska	180	Nome Census Area	1985	8.090
+02	Alaska	180	Nome Census Area	1990	8.070
+02	Alaska	180	Nome Census Area	1995	8.750
+02	Alaska	180	Nome Census Area	2000	9.200
+02	Alaska	180	Nome Census Area	2005	9.452
+02	Alaska	180	Nome Census Area	2010	9.492
+02	Alaska	180	Nome Census Area	2015	9.846
+02	Alaska	185	North Slope Borough	1985	5.200
+02	Alaska	185	North Slope Borough	1990	5.680
+02	Alaska	185	North Slope Borough	1995	7.020
+02	Alaska	185	North Slope Borough	2000	7.390
+02	Alaska	185	North Slope Borough	2005	6.894
+02	Alaska	185	North Slope Borough	2010	9.430
+02	Alaska	185	North Slope Borough	2015	9.687
+02	Alaska	188	Northwest Arctic Borough	1990	6.370
+02	Alaska	188	Northwest Arctic Borough	1995	6.500
+02	Alaska	188	Northwest Arctic Borough	2000	7.210
+02	Alaska	188	Northwest Arctic Borough	2005	7.323
+02	Alaska	188	Northwest Arctic Borough	2010	7.523
+02	Alaska	188	Northwest Arctic Borough	2015	7.752
+02	Alaska	195	Petersburg Census Area	2010	3.815
+02	Alaska	195	Petersburg Borough	2015	3.177
+02	Alaska	198	Prince of Wales-Hyder Census Area	2010	5.559
+02	Alaska	198	Prince of Wales-Hyder Census Area	2015	6.341
+02	Alaska	201	Prince of Wales-Outer Ketchikan Census A	1985	3.970
+02	Alaska	201	Prince of Wales-Outer Ketchikan Census A	1990	5.310
+02	Alaska	201	Prince of Wales-Outer Ketchikan Census A	1995	7.110
+02	Alaska	201	Prince of Wales-Outer Ketchikan Census A	2000	6.150
+02	Alaska	201	Prince of Wales-Outer Ketchikan Census A	2005	5.497
+02	Alaska	220	City & Borough of Sitka	1985	8.600
+02	Alaska	220	City & Borough of Sitka	1990	8.910
+02	Alaska	220	City & Borough of Sitka	1995	8.710
+02	Alaska	220	City & Borough of Sitka	2000	8.840
+02	Alaska	220	City & Borough of Sitka	2005	8.947
+02	Alaska	220	City & Borough of Sitka	2010	8.881
+02	Alaska	220	City & Borough of Sitka	2015	8.863
+02	Alaska	230	Skagway Municipality	2010	0.968
+02	Alaska	230	Skagway Municipality	2015	1.057
+02	Alaska	231	Skagway-Yakutat-Angoon Census Area	1985	3.190
+02	Alaska	231	Skagway-Yakutat-Angoon Census Area	1990	3.530
+02	Alaska	232	Skagway-Hoonah-Angoon Census Area	1995	3.870
+02	Alaska	232	Skagway-Hoonah-Angoon Census Area	2000	3.440
+02	Alaska	232	Skagway-Hoonah-Angoon Census Area	2005	3.062
+02	Alaska	240	Southeast Fairbanks Census Area	1985	5.510
+02	Alaska	240	Southeast Fairbanks Census Area	1990	4.030
+02	Alaska	240	Southeast Fairbanks Census Area	1995	6.090
+02	Alaska	240	Southeast Fairbanks Census Area	2000	6.170
+02	Alaska	240	Southeast Fairbanks Census Area	2005	6.471
+02	Alaska	240	Southeast Fairbanks Census Area	2010	7.029
+02	Alaska	240	Southeast Fairbanks Census Area	2015	6.839
+02	Alaska	261	Valdez-Cordova Census Area	1985	10.570
+02	Alaska	261	Valdez-Cordova Census Area	1990	12.530
+02	Alaska	261	Valdez-Cordova Census Area	1995	10.470
+02	Alaska	261	Valdez-Cordova Census Area	2000	10.200
+02	Alaska	261	Valdez-Cordova Census Area	2005	10.042
+02	Alaska	261	Valdez-Cordova Census Area	2010	9.636
+02	Alaska	261	Valdez-Cordova Census Area	2015	9.362
+02	Alaska	270	Wade Hampton Census Area	1985	5.510
+02	Alaska	270	Wade Hampton Census Area	1990	5.980
+02	Alaska	270	Wade Hampton Census Area	1995	6.570
+02	Alaska	270	Wade Hampton Census Area	2000	7.030
+02	Alaska	270	Wade Hampton Census Area	2005	7.496
+02	Alaska	270	Wade Hampton Census Area	2010	7.459
+02	Alaska	275	City & Borough of Wrangell	2010	2.369
+02	Alaska	275	City & Borough of Wrangell	2015	2.382
+02	Alaska	280	Wrangell-Petersburg Census Area	1985	6.190
+02	Alaska	280	Wrangell-Petersburg Census Area	1990	6.940
+02	Alaska	280	Wrangell-Petersburg Census Area	1995	7.090
+02	Alaska	280	Wrangell-Petersburg Census Area	2000	6.680
+02	Alaska	280	Wrangell-Petersburg Census Area	2005	6.172
+02	Alaska	282	City & Borough of Yakutat	1995	0.790
+02	Alaska	282	City & Borough of Yakutat	2000	0.810
+02	Alaska	282	City & Borough of Yakutat	2005	0.619
+02	Alaska	282	City & Borough of Yakutat	2010	0.662
+02	Alaska	282	City & Borough of Yakutat	2015	0.613
+02	Alaska	290	Yukon-Koyukuk Census Area	1985	9.005
+02	Alaska	290	Yukon-Koyukuk Census Area	1990	8.895
+02	Alaska	290	Yukon-Koyukuk Census Area	1995	6.150
+02	Alaska	290	Yukon-Koyukuk Census Area	2000	6.550
+02	Alaska	290	Yukon-Koyukuk Census Area	2005	6.061
+02	Alaska	290	Yukon-Koyukuk Census Area	2010	5.588
+02	Alaska	290	Yukon-Koyukuk Census Area	2015	5.533

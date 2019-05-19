@@ -1,0 +1,980 @@
+#
+# File created on 2019-05-18 23:23:52 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+51	Virginia	001	Accomack County	1985	31.200
+51	Virginia	001	Accomack County	1990	31.700
+51	Virginia	001	Accomack County	1995	32.270
+51	Virginia	001	Accomack County	2000	38.305
+51	Virginia	001	Accomack County	2005	39.424
+51	Virginia	001	Accomack County	2010	33.164
+51	Virginia	001	Accomack County	2015	32.973
+51	Virginia	003	Albemarle County	1985	60.200
+51	Virginia	003	Albemarle County	1990	68.040
+51	Virginia	003	Albemarle County	1995	73.200
+51	Virginia	003	Albemarle County	2000	79.236
+51	Virginia	003	Albemarle County	2005	90.717
+51	Virginia	003	Albemarle County	2010	98.970
+51	Virginia	003	Albemarle County	2015	105.703
+51	Virginia	005	Alleghany County	1985	13.900
+51	Virginia	005	Alleghany County	1990	13.180
+51	Virginia	005	Alleghany County	1995	12.600
+51	Virginia	005	Alleghany County	2000	12.926
+51	Virginia	005	Alleghany County	2005	16.715
+51	Virginia	005	Alleghany County	2010	16.250
+51	Virginia	005	Alleghany County	2015	15.677
+51	Virginia	007	Amelia County	1985	8.400
+51	Virginia	007	Amelia County	1990	8.790
+51	Virginia	007	Amelia County	1995	9.670
+51	Virginia	007	Amelia County	2000	11.400
+51	Virginia	007	Amelia County	2005	12.273
+51	Virginia	007	Amelia County	2010	12.690
+51	Virginia	007	Amelia County	2015	12.903
+51	Virginia	009	Amherst County	1985	28.900
+51	Virginia	009	Amherst County	1990	28.580
+51	Virginia	009	Amherst County	1995	29.770
+51	Virginia	009	Amherst County	2000	31.894
+51	Virginia	009	Amherst County	2005	32.134
+51	Virginia	009	Amherst County	2010	32.353
+51	Virginia	009	Amherst County	2015	31.914
+51	Virginia	011	Appomattox County	1985	12.300
+51	Virginia	011	Appomattox County	1990	12.300
+51	Virginia	011	Appomattox County	1995	12.780
+51	Virginia	011	Appomattox County	2000	13.705
+51	Virginia	011	Appomattox County	2005	13.967
+51	Virginia	011	Appomattox County	2010	14.973
+51	Virginia	011	Appomattox County	2015	15.414
+51	Virginia	013	Arlington County	1985	157.600
+51	Virginia	013	Arlington County	1990	170.940
+51	Virginia	013	Arlington County	1995	172.660
+51	Virginia	013	Arlington County	2000	189.453
+51	Virginia	013	Arlington County	2005	195.965
+51	Virginia	013	Arlington County	2010	207.627
+51	Virginia	013	Arlington County	2015	229.164
+51	Virginia	015	Augusta County	1985	54.200
+51	Virginia	015	Augusta County	1990	54.680
+51	Virginia	015	Augusta County	1995	59.510
+51	Virginia	015	Augusta County	2000	65.615
+51	Virginia	015	Augusta County	2005	69.725
+51	Virginia	015	Augusta County	2010	73.750
+51	Virginia	015	Augusta County	2015	74.314
+51	Virginia	017	Bath County	1985	5.300
+51	Virginia	017	Bath County	1990	4.800
+51	Virginia	017	Bath County	1995	4.870
+51	Virginia	017	Bath County	2000	5.048
+51	Virginia	017	Bath County	2005	4.937
+51	Virginia	017	Bath County	2010	4.731
+51	Virginia	017	Bath County	2015	4.470
+51	Virginia	019	Bedford County	1985	38.300
+51	Virginia	019	Bedford County	1990	45.660
+51	Virginia	019	Bedford County	1995	52.340
+51	Virginia	019	Bedford County	2000	60.371
+51	Virginia	019	Bedford County	2005	65.286
+51	Virginia	019	Bedford County	2010	68.676
+51	Virginia	019	Bedford County	2015	77.724
+51	Virginia	021	Bland County	1985	6.400
+51	Virginia	021	Bland County	1990	6.510
+51	Virginia	021	Bland County	1995	6.780
+51	Virginia	021	Bland County	2000	6.871
+51	Virginia	021	Bland County	2005	6.943
+51	Virginia	021	Bland County	2010	6.824
+51	Virginia	021	Bland County	2015	6.561
+51	Virginia	023	Botetourt County	1985	24.400
+51	Virginia	023	Botetourt County	1990	24.990
+51	Virginia	023	Botetourt County	1995	27.280
+51	Virginia	023	Botetourt County	2000	30.496
+51	Virginia	023	Botetourt County	2005	32.027
+51	Virginia	023	Botetourt County	2010	33.148
+51	Virginia	023	Botetourt County	2015	33.347
+51	Virginia	025	Brunswick County	1985	16.000
+51	Virginia	025	Brunswick County	1990	15.990
+51	Virginia	025	Brunswick County	1995	16.460
+51	Virginia	025	Brunswick County	2000	18.419
+51	Virginia	025	Brunswick County	2005	17.920
+51	Virginia	025	Brunswick County	2010	17.434
+51	Virginia	025	Brunswick County	2015	16.698
+51	Virginia	027	Buchanan County	1985	36.500
+51	Virginia	027	Buchanan County	1990	31.330
+51	Virginia	027	Buchanan County	1995	30.430
+51	Virginia	027	Buchanan County	2000	26.978
+51	Virginia	027	Buchanan County	2005	24.755
+51	Virginia	027	Buchanan County	2010	24.098
+51	Virginia	027	Buchanan County	2015	22.776
+51	Virginia	029	Buckingham County	1985	12.200
+51	Virginia	029	Buckingham County	1990	12.870
+51	Virginia	029	Buckingham County	1995	13.320
+51	Virginia	029	Buckingham County	2000	15.623
+51	Virginia	029	Buckingham County	2005	16.058
+51	Virginia	029	Buckingham County	2010	17.146
+51	Virginia	029	Buckingham County	2015	17.032
+51	Virginia	031	Campbell County	1985	46.900
+51	Virginia	031	Campbell County	1990	47.570
+51	Virginia	031	Campbell County	1995	48.920
+51	Virginia	031	Campbell County	2000	51.078
+51	Virginia	031	Campbell County	2005	52.339
+51	Virginia	031	Campbell County	2010	54.842
+51	Virginia	031	Campbell County	2015	55.086
+51	Virginia	033	Caroline County	1985	18.800
+51	Virginia	033	Caroline County	1990	19.220
+51	Virginia	033	Caroline County	1995	21.080
+51	Virginia	033	Caroline County	2000	22.121
+51	Virginia	033	Caroline County	2005	25.563
+51	Virginia	033	Caroline County	2010	28.545
+51	Virginia	033	Caroline County	2015	29.984
+51	Virginia	035	Carroll County	1985	27.600
+51	Virginia	035	Carroll County	1990	26.590
+51	Virginia	035	Carroll County	1995	27.630
+51	Virginia	035	Carroll County	2000	29.245
+51	Virginia	035	Carroll County	2005	29.438
+51	Virginia	035	Carroll County	2010	30.042
+51	Virginia	035	Carroll County	2015	29.724
+51	Virginia	036	Charles City County	1985	6.600
+51	Virginia	036	Charles City County	1990	6.280
+51	Virginia	036	Charles City County	1995	6.730
+51	Virginia	036	Charles City County	2000	6.926
+51	Virginia	036	Charles City County	2005	7.119
+51	Virginia	036	Charles City County	2010	7.256
+51	Virginia	036	Charles City County	2015	7.040
+51	Virginia	037	Charlotte County	1985	11.700
+51	Virginia	037	Charlotte County	1990	11.690
+51	Virginia	037	Charlotte County	1995	12.190
+51	Virginia	037	Charlotte County	2000	12.472
+51	Virginia	037	Charlotte County	2005	12.404
+51	Virginia	037	Charlotte County	2010	12.586
+51	Virginia	037	Charlotte County	2015	12.201
+51	Virginia	041	Chesterfield County	1985	165.900
+51	Virginia	041	Chesterfield County	1990	209.270
+51	Virginia	041	Chesterfield County	1995	239.660
+51	Virginia	041	Chesterfield County	2000	259.903
+51	Virginia	041	Chesterfield County	2005	288.876
+51	Virginia	041	Chesterfield County	2010	316.236
+51	Virginia	041	Chesterfield County	2015	335.687
+51	Virginia	043	Clarke County	1985	10.000
+51	Virginia	043	Clarke County	1990	12.100
+51	Virginia	043	Clarke County	1995	12.390
+51	Virginia	043	Clarke County	2000	12.652
+51	Virginia	043	Clarke County	2005	14.205
+51	Virginia	043	Clarke County	2010	14.034
+51	Virginia	043	Clarke County	2015	14.363
+51	Virginia	045	Craig County	1985	4.200
+51	Virginia	045	Craig County	1990	4.370
+51	Virginia	045	Craig County	1995	4.820
+51	Virginia	045	Craig County	2000	5.091
+51	Virginia	045	Craig County	2005	5.154
+51	Virginia	045	Craig County	2010	5.190
+51	Virginia	045	Craig County	2015	5.211
+51	Virginia	047	Culpeper County	1985	23.700
+51	Virginia	047	Culpeper County	1990	27.790
+51	Virginia	047	Culpeper County	1995	30.530
+51	Virginia	047	Culpeper County	2000	34.262
+51	Virginia	047	Culpeper County	2005	42.530
+51	Virginia	047	Culpeper County	2010	46.689
+51	Virginia	047	Culpeper County	2015	49.432
+51	Virginia	049	Cumberland County	1985	7.900
+51	Virginia	049	Cumberland County	1990	7.830
+51	Virginia	049	Cumberland County	1995	7.740
+51	Virginia	049	Cumberland County	2000	9.017
+51	Virginia	049	Cumberland County	2005	9.378
+51	Virginia	049	Cumberland County	2010	10.052
+51	Virginia	049	Cumberland County	2015	9.719
+51	Virginia	051	Dickenson County	1985	20.000
+51	Virginia	051	Dickenson County	1990	17.620
+51	Virginia	051	Dickenson County	1995	17.590
+51	Virginia	051	Dickenson County	2000	16.395
+51	Virginia	051	Dickenson County	2005	16.243
+51	Virginia	051	Dickenson County	2010	15.903
+51	Virginia	051	Dickenson County	2015	15.115
+51	Virginia	053	Dinwiddie County	1985	21.000
+51	Virginia	053	Dinwiddie County	1990	20.960
+51	Virginia	053	Dinwiddie County	1995	22.940
+51	Virginia	053	Dinwiddie County	2000	24.533
+51	Virginia	053	Dinwiddie County	2005	25.391
+51	Virginia	053	Dinwiddie County	2010	28.001
+51	Virginia	053	Dinwiddie County	2015	27.852
+51	Virginia	057	Essex County	1985	8.900
+51	Virginia	057	Essex County	1990	8.690
+51	Virginia	057	Essex County	1995	9.250
+51	Virginia	057	Essex County	2000	9.989
+51	Virginia	057	Essex County	2005	10.492
+51	Virginia	057	Essex County	2010	11.151
+51	Virginia	057	Essex County	2015	11.130
+51	Virginia	059	Fairfax County	1985	687.800
+51	Virginia	059	Fairfax County	1990	818.580
+51	Virginia	059	Fairfax County	1995	887.210
+51	Virginia	059	Fairfax County	2000	969.750
+51	Virginia	059	Fairfax County	2005	1006.529
+51	Virginia	059	Fairfax County	2010	1081.726
+51	Virginia	059	Fairfax County	2015	1142.234
+51	Virginia	061	Fauquier County	1985	40.100
+51	Virginia	061	Fauquier County	1990	48.740
+51	Virginia	061	Fauquier County	1995	51.470
+51	Virginia	061	Fauquier County	2000	55.139
+51	Virginia	061	Fauquier County	2005	64.997
+51	Virginia	061	Fauquier County	2010	65.203
+51	Virginia	061	Fauquier County	2015	68.782
+51	Virginia	063	Floyd County	1985	11.800
+51	Virginia	063	Floyd County	1990	12.010
+51	Virginia	063	Floyd County	1995	12.640
+51	Virginia	063	Floyd County	2000	13.870
+51	Virginia	063	Floyd County	2005	14.649
+51	Virginia	063	Floyd County	2010	15.279
+51	Virginia	063	Floyd County	2015	15.651
+51	Virginia	065	Fluvanna County	1985	10.500
+51	Virginia	065	Fluvanna County	1990	12.430
+51	Virginia	065	Fluvanna County	1995	16.060
+51	Virginia	065	Fluvanna County	2000	20.047
+51	Virginia	065	Fluvanna County	2005	24.751
+51	Virginia	065	Fluvanna County	2010	25.691
+51	Virginia	065	Fluvanna County	2015	26.235
+51	Virginia	067	Franklin County	1985	37.300
+51	Virginia	067	Franklin County	1990	39.550
+51	Virginia	067	Franklin County	1995	42.860
+51	Virginia	067	Franklin County	2000	47.286
+51	Virginia	067	Franklin County	2005	50.345
+51	Virginia	067	Franklin County	2010	56.159
+51	Virginia	067	Franklin County	2015	56.264
+51	Virginia	069	Frederick County	1985	36.000
+51	Virginia	069	Frederick County	1990	45.720
+51	Virginia	069	Frederick County	1995	51.550
+51	Virginia	069	Frederick County	2000	59.209
+51	Virginia	069	Frederick County	2005	69.123
+51	Virginia	069	Frederick County	2010	78.305
+51	Virginia	069	Frederick County	2015	83.199
+51	Virginia	071	Giles County	1985	17.600
+51	Virginia	071	Giles County	1990	16.370
+51	Virginia	071	Giles County	1995	16.370
+51	Virginia	071	Giles County	2000	16.657
+51	Virginia	071	Giles County	2005	17.098
+51	Virginia	071	Giles County	2010	17.286
+51	Virginia	071	Giles County	2015	16.708
+51	Virginia	073	Gloucester County	1985	26.300
+51	Virginia	073	Gloucester County	1990	30.130
+51	Virginia	073	Gloucester County	1995	33.420
+51	Virginia	073	Gloucester County	2000	34.780
+51	Virginia	073	Gloucester County	2005	37.787
+51	Virginia	073	Gloucester County	2010	36.858
+51	Virginia	073	Gloucester County	2015	37.143
+51	Virginia	075	Goochland County	1985	12.500
+51	Virginia	075	Goochland County	1990	14.160
+51	Virginia	075	Goochland County	1995	16.140
+51	Virginia	075	Goochland County	2000	16.863
+51	Virginia	075	Goochland County	2005	19.360
+51	Virginia	075	Goochland County	2010	21.717
+51	Virginia	075	Goochland County	2015	22.253
+51	Virginia	077	Grayson County	1985	16.500
+51	Virginia	077	Grayson County	1990	16.280
+51	Virginia	077	Grayson County	1995	16.380
+51	Virginia	077	Grayson County	2000	17.917
+51	Virginia	077	Grayson County	2005	16.366
+51	Virginia	077	Grayson County	2010	15.533
+51	Virginia	077	Grayson County	2015	16.012
+51	Virginia	079	Greene County	1985	8.500
+51	Virginia	079	Greene County	1990	10.300
+51	Virginia	079	Greene County	1995	12.660
+51	Virginia	079	Greene County	2000	15.244
+51	Virginia	079	Greene County	2005	17.418
+51	Virginia	079	Greene County	2010	18.403
+51	Virginia	079	Greene County	2015	19.162
+51	Virginia	081	Greensville County	1985	10.500
+51	Virginia	081	Greensville County	1990	8.850
+51	Virginia	081	Greensville County	1995	10.970
+51	Virginia	081	Greensville County	2000	11.560
+51	Virginia	081	Greensville County	2005	11.088
+51	Virginia	081	Greensville County	2010	12.243
+51	Virginia	081	Greensville County	2015	11.885
+51	Virginia	083	Halifax County	1985	30.200
+51	Virginia	083	Halifax County	1990	29.030
+51	Virginia	083	Halifax County	1995	30.320
+51	Virginia	083	Halifax County	2000	37.360
+51	Virginia	083	Halifax County	2005	36.284
+51	Virginia	083	Halifax County	2010	36.241
+51	Virginia	083	Halifax County	2015	35.125
+51	Virginia	085	Hanover County	1985	52.800
+51	Virginia	085	Hanover County	1990	63.310
+51	Virginia	085	Hanover County	1995	74.640
+51	Virginia	085	Hanover County	2000	86.320
+51	Virginia	085	Hanover County	2005	97.426
+51	Virginia	085	Hanover County	2010	99.863
+51	Virginia	085	Hanover County	2015	103.227
+51	Virginia	087	Henrico County	1985	193.900
+51	Virginia	087	Henrico County	1990	217.880
+51	Virginia	087	Henrico County	1995	232.800
+51	Virginia	087	Henrico County	2000	262.300
+51	Virginia	087	Henrico County	2005	280.581
+51	Virginia	087	Henrico County	2010	306.935
+51	Virginia	087	Henrico County	2015	325.155
+51	Virginia	089	Henry County	1985	56.100
+51	Virginia	089	Henry County	1990	56.940
+51	Virginia	089	Henry County	1995	56.580
+51	Virginia	089	Henry County	2000	57.930
+51	Virginia	089	Henry County	2005	56.501
+51	Virginia	089	Henry County	2010	54.151
+51	Virginia	089	Henry County	2015	51.881
+51	Virginia	091	Highland County	1985	3.400
+51	Virginia	091	Highland County	1990	2.640
+51	Virginia	091	Highland County	1995	2.580
+51	Virginia	091	Highland County	2000	2.536
+51	Virginia	091	Highland County	2005	2.475
+51	Virginia	091	Highland County	2010	2.321
+51	Virginia	091	Highland County	2015	2.214
+51	Virginia	093	Isle of Wight County	1985	23.400
+51	Virginia	093	Isle of Wight County	1990	25.050
+51	Virginia	093	Isle of Wight County	1995	27.770
+51	Virginia	093	Isle of Wight County	2000	29.728
+51	Virginia	093	Isle of Wight County	2005	33.417
+51	Virginia	093	Isle of Wight County	2010	35.270
+51	Virginia	093	Isle of Wight County	2015	36.314
+51	Virginia	095	James City County	1985	26.100
+51	Virginia	095	James City County	1990	34.860
+51	Virginia	095	James City County	1995	40.490
+51	Virginia	095	James City County	2000	48.102
+51	Virginia	095	James City County	2005	57.525
+51	Virginia	095	James City County	2010	67.009
+51	Virginia	095	James City County	2015	73.147
+51	Virginia	097	King and Queen County	1985	6.300
+51	Virginia	097	King and Queen County	1990	6.290
+51	Virginia	097	King and Queen County	1995	6.440
+51	Virginia	097	King and Queen County	2000	6.630
+51	Virginia	097	King and Queen County	2005	6.796
+51	Virginia	097	King and Queen County	2010	6.945
+51	Virginia	097	King and Queen County	2015	7.158
+51	Virginia	099	King George County	1985	11.700
+51	Virginia	099	King George County	1990	13.530
+51	Virginia	099	King George County	1995	16.460
+51	Virginia	099	King George County	2000	16.803
+51	Virginia	099	King George County	2005	20.637
+51	Virginia	099	King George County	2010	23.584
+51	Virginia	099	King George County	2015	25.515
+51	Virginia	101	King William County	1985	10.100
+51	Virginia	101	King William County	1990	10.910
+51	Virginia	101	King William County	1995	12.240
+51	Virginia	101	King William County	2000	13.146
+51	Virginia	101	King William County	2005	14.732
+51	Virginia	101	King William County	2010	15.935
+51	Virginia	101	King William County	2015	16.269
+51	Virginia	103	Lancaster County	1985	11.100
+51	Virginia	103	Lancaster County	1990	10.900
+51	Virginia	103	Lancaster County	1995	11.160
+51	Virginia	103	Lancaster County	2000	11.567
+51	Virginia	103	Lancaster County	2005	11.593
+51	Virginia	103	Lancaster County	2010	11.391
+51	Virginia	103	Lancaster County	2015	10.965
+51	Virginia	105	Lee County	1985	26.800
+51	Virginia	105	Lee County	1990	24.500
+51	Virginia	105	Lee County	1995	24.410
+51	Virginia	105	Lee County	2000	23.589
+51	Virginia	105	Lee County	2005	23.686
+51	Virginia	105	Lee County	2010	25.587
+51	Virginia	105	Lee County	2015	24.742
+51	Virginia	107	Loudoun County	1985	63.600
+51	Virginia	107	Loudoun County	1990	86.130
+51	Virginia	107	Loudoun County	1995	115.870
+51	Virginia	107	Loudoun County	2000	169.599
+51	Virginia	107	Loudoun County	2005	255.518
+51	Virginia	107	Loudoun County	2010	312.311
+51	Virginia	107	Loudoun County	2015	375.629
+51	Virginia	109	Louisa County	1985	19.000
+51	Virginia	109	Louisa County	1990	20.330
+51	Virginia	109	Louisa County	1995	22.890
+51	Virginia	109	Louisa County	2000	25.627
+51	Virginia	109	Louisa County	2005	30.020
+51	Virginia	109	Louisa County	2010	33.153
+51	Virginia	109	Louisa County	2015	34.602
+51	Virginia	111	Lunenburg County	1985	12.100
+51	Virginia	111	Lunenburg County	1990	11.420
+51	Virginia	111	Lunenburg County	1995	11.160
+51	Virginia	111	Lunenburg County	2000	13.146
+51	Virginia	111	Lunenburg County	2005	13.194
+51	Virginia	111	Lunenburg County	2010	12.914
+51	Virginia	111	Lunenburg County	2015	12.299
+51	Virginia	113	Madison County	1985	10.600
+51	Virginia	113	Madison County	1990	11.950
+51	Virginia	113	Madison County	1995	12.250
+51	Virginia	113	Madison County	2000	12.520
+51	Virginia	113	Madison County	2005	13.398
+51	Virginia	113	Madison County	2010	13.308
+51	Virginia	113	Madison County	2015	13.134
+51	Virginia	115	Mathews County	1985	8.700
+51	Virginia	115	Mathews County	1990	8.350
+51	Virginia	115	Mathews County	1995	8.950
+51	Virginia	115	Mathews County	2000	9.207
+51	Virginia	115	Mathews County	2005	9.194
+51	Virginia	115	Mathews County	2010	8.978
+51	Virginia	115	Mathews County	2015	8.862
+51	Virginia	117	Mecklenburg County	1985	29.700
+51	Virginia	117	Mecklenburg County	1990	29.240
+51	Virginia	117	Mecklenburg County	1995	30.760
+51	Virginia	117	Mecklenburg County	2000	32.380
+51	Virginia	117	Mecklenburg County	2005	32.529
+51	Virginia	117	Mecklenburg County	2010	32.727
+51	Virginia	117	Mecklenburg County	2015	31.081
+51	Virginia	119	Middlesex County	1985	8.500
+51	Virginia	119	Middlesex County	1990	8.650
+51	Virginia	119	Middlesex County	1995	9.330
+51	Virginia	119	Middlesex County	2000	9.932
+51	Virginia	119	Middlesex County	2005	10.493
+51	Virginia	119	Middlesex County	2010	10.959
+51	Virginia	119	Middlesex County	2015	10.606
+51	Virginia	121	Montgomery County	1985	65.500
+51	Virginia	121	Montgomery County	1990	73.910
+51	Virginia	121	Montgomery County	1995	75.760
+51	Virginia	121	Montgomery County	2000	83.629
+51	Virginia	121	Montgomery County	2005	84.303
+51	Virginia	121	Montgomery County	2010	94.392
+51	Virginia	121	Montgomery County	2015	97.653
+51	Virginia	125	Nelson County	1985	12.400
+51	Virginia	125	Nelson County	1990	12.780
+51	Virginia	125	Nelson County	1995	13.360
+51	Virginia	125	Nelson County	2000	14.445
+51	Virginia	125	Nelson County	2005	15.101
+51	Virginia	125	Nelson County	2010	15.020
+51	Virginia	125	Nelson County	2015	14.785
+51	Virginia	127	New Kent County	1985	10.100
+51	Virginia	127	New Kent County	1990	10.450
+51	Virginia	127	New Kent County	1995	11.680
+51	Virginia	127	New Kent County	2000	13.462
+51	Virginia	127	New Kent County	2005	16.107
+51	Virginia	127	New Kent County	2010	18.429
+51	Virginia	127	New Kent County	2015	20.392
+51	Virginia	131	Northampton County	1985	14.300
+51	Virginia	131	Northampton County	1990	13.060
+51	Virginia	131	Northampton County	1995	13.010
+51	Virginia	131	Northampton County	2000	13.093
+51	Virginia	131	Northampton County	2005	13.548
+51	Virginia	131	Northampton County	2010	12.389
+51	Virginia	131	Northampton County	2015	12.155
+51	Virginia	133	Northumberland County	1985	10.000
+51	Virginia	133	Northumberland County	1990	10.520
+51	Virginia	133	Northumberland County	1995	11.120
+51	Virginia	133	Northumberland County	2000	12.259
+51	Virginia	133	Northumberland County	2005	12.874
+51	Virginia	133	Northumberland County	2010	12.330
+51	Virginia	133	Northumberland County	2015	12.232
+51	Virginia	135	Nottoway County	1985	14.500
+51	Virginia	135	Nottoway County	1990	14.990
+51	Virginia	135	Nottoway County	1995	15.160
+51	Virginia	135	Nottoway County	2000	15.725
+51	Virginia	135	Nottoway County	2005	15.560
+51	Virginia	135	Nottoway County	2010	15.853
+51	Virginia	135	Nottoway County	2015	15.673
+51	Virginia	137	Orange County	1985	19.200
+51	Virginia	137	Orange County	1990	21.420
+51	Virginia	137	Orange County	1995	23.760
+51	Virginia	137	Orange County	2000	25.881
+51	Virginia	137	Orange County	2005	30.246
+51	Virginia	137	Orange County	2010	33.481
+51	Virginia	137	Orange County	2015	35.385
+51	Virginia	139	Page County	1985	19.900
+51	Virginia	139	Page County	1990	21.690
+51	Virginia	139	Page County	1995	22.720
+51	Virginia	139	Page County	2000	23.177
+51	Virginia	139	Page County	2005	23.831
+51	Virginia	139	Page County	2010	24.042
+51	Virginia	139	Page County	2015	23.726
+51	Virginia	141	Patrick County	1985	17.700
+51	Virginia	141	Patrick County	1990	17.470
+51	Virginia	141	Patrick County	1995	17.760
+51	Virginia	141	Patrick County	2000	19.407
+51	Virginia	141	Patrick County	2005	19.209
+51	Virginia	141	Patrick County	2010	18.490
+51	Virginia	141	Patrick County	2015	18.045
+51	Virginia	143	Pittsylvania County	1985	66.400
+51	Virginia	143	Pittsylvania County	1990	55.660
+51	Virginia	143	Pittsylvania County	1995	56.100
+51	Virginia	143	Pittsylvania County	2000	61.745
+51	Virginia	143	Pittsylvania County	2005	61.854
+51	Virginia	143	Pittsylvania County	2010	63.506
+51	Virginia	143	Pittsylvania County	2015	62.194
+51	Virginia	145	Powhatan County	1985	13.400
+51	Virginia	145	Powhatan County	1990	15.330
+51	Virginia	145	Powhatan County	1995	18.900
+51	Virginia	145	Powhatan County	2000	22.377
+51	Virginia	145	Powhatan County	2005	26.598
+51	Virginia	145	Powhatan County	2010	28.046
+51	Virginia	145	Powhatan County	2015	28.031
+51	Virginia	147	Prince Edward County	1985	17.200
+51	Virginia	147	Prince Edward County	1990	17.320
+51	Virginia	147	Prince Edward County	1995	18.750
+51	Virginia	147	Prince Edward County	2000	19.720
+51	Virginia	147	Prince Edward County	2005	20.455
+51	Virginia	147	Prince Edward County	2010	23.368
+51	Virginia	147	Prince Edward County	2015	22.952
+51	Virginia	149	Prince George County	1985	26.800
+51	Virginia	149	Prince George County	1990	27.390
+51	Virginia	149	Prince George County	1995	28.380
+51	Virginia	149	Prince George County	2000	33.047
+51	Virginia	149	Prince George County	2005	36.725
+51	Virginia	149	Prince George County	2010	35.725
+51	Virginia	149	Prince George County	2015	37.862
+51	Virginia	153	Prince William County	1985	169.000
+51	Virginia	153	Prince William County	1990	215.690
+51	Virginia	153	Prince William County	1995	245.180
+51	Virginia	153	Prince William County	2000	280.813
+51	Virginia	153	Prince William County	2005	348.588
+51	Virginia	153	Prince William County	2010	402.002
+51	Virginia	153	Prince William County	2015	451.721
+51	Virginia	155	Pulaski County	1985	34.500
+51	Virginia	155	Pulaski County	1990	34.500
+51	Virginia	155	Pulaski County	1995	34.430
+51	Virginia	155	Pulaski County	2000	35.127
+51	Virginia	155	Pulaski County	2005	35.081
+51	Virginia	155	Pulaski County	2010	34.872
+51	Virginia	155	Pulaski County	2015	34.332
+51	Virginia	157	Rappahannock County	1985	6.100
+51	Virginia	157	Rappahannock County	1990	6.620
+51	Virginia	157	Rappahannock County	1995	7.120
+51	Virginia	157	Rappahannock County	2000	6.983
+51	Virginia	157	Rappahannock County	2005	7.271
+51	Virginia	157	Rappahannock County	2010	7.373
+51	Virginia	157	Rappahannock County	2015	7.378
+51	Virginia	159	Richmond County	1985	7.000
+51	Virginia	159	Richmond County	1990	7.270
+51	Virginia	159	Richmond County	1995	8.250
+51	Virginia	159	Richmond County	2000	8.809
+51	Virginia	159	Richmond County	2005	9.114
+51	Virginia	159	Richmond County	2010	9.254
+51	Virginia	159	Richmond County	2015	8.908
+51	Virginia	161	Roanoke County	1985	73.700
+51	Virginia	161	Roanoke County	1990	79.330
+51	Virginia	161	Roanoke County	1995	81.720
+51	Virginia	161	Roanoke County	2000	85.778
+51	Virginia	161	Roanoke County	2005	88.172
+51	Virginia	161	Roanoke County	2010	92.376
+51	Virginia	161	Roanoke County	2015	94.409
+51	Virginia	163	Rockbridge County	1985	17.800
+51	Virginia	163	Rockbridge County	1990	18.350
+51	Virginia	163	Rockbridge County	1995	19.120
+51	Virginia	163	Rockbridge County	2000	20.808
+51	Virginia	163	Rockbridge County	2005	21.242
+51	Virginia	163	Rockbridge County	2010	22.307
+51	Virginia	163	Rockbridge County	2015	22.354
+51	Virginia	165	Rockingham County	1985	53.600
+51	Virginia	165	Rockingham County	1990	57.480
+51	Virginia	165	Rockingham County	1995	61.890
+51	Virginia	165	Rockingham County	2000	67.725
+51	Virginia	165	Rockingham County	2005	71.251
+51	Virginia	165	Rockingham County	2010	76.314
+51	Virginia	165	Rockingham County	2015	78.593
+51	Virginia	167	Russell County	1985	32.300
+51	Virginia	167	Russell County	1990	28.670
+51	Virginia	167	Russell County	1995	29.260
+51	Virginia	167	Russell County	2000	30.308
+51	Virginia	167	Russell County	2005	28.949
+51	Virginia	167	Russell County	2010	28.897
+51	Virginia	167	Russell County	2015	27.891
+51	Virginia	169	Scott County	1985	25.600
+51	Virginia	169	Scott County	1990	23.200
+51	Virginia	169	Scott County	1995	23.200
+51	Virginia	169	Scott County	2000	23.403
+51	Virginia	169	Scott County	2005	22.962
+51	Virginia	169	Scott County	2010	23.177
+51	Virginia	169	Scott County	2015	22.126
+51	Virginia	171	Shenandoah County	1985	27.800
+51	Virginia	171	Shenandoah County	1990	31.640
+51	Virginia	171	Shenandoah County	1995	33.420
+51	Virginia	171	Shenandoah County	2000	35.075
+51	Virginia	171	Shenandoah County	2005	39.184
+51	Virginia	171	Shenandoah County	2010	41.993
+51	Virginia	171	Shenandoah County	2015	43.190
+51	Virginia	173	Smyth County	1985	33.200
+51	Virginia	173	Smyth County	1990	32.370
+51	Virginia	173	Smyth County	1995	33.230
+51	Virginia	173	Smyth County	2000	33.081
+51	Virginia	173	Smyth County	2005	32.640
+51	Virginia	173	Smyth County	2010	32.208
+51	Virginia	173	Smyth County	2015	31.470
+51	Virginia	175	Southampton County	1985	18.300
+51	Virginia	175	Southampton County	1990	17.550
+51	Virginia	175	Southampton County	1995	17.310
+51	Virginia	175	Southampton County	2000	17.482
+51	Virginia	175	Southampton County	2005	17.585
+51	Virginia	175	Southampton County	2010	18.570
+51	Virginia	175	Southampton County	2015	18.109
+51	Virginia	177	Spotsylvania County	1985	37.500
+51	Virginia	177	Spotsylvania County	1990	57.400
+51	Virginia	177	Spotsylvania County	1995	71.980
+51	Virginia	177	Spotsylvania County	2000	90.395
+51	Virginia	177	Spotsylvania County	2005	116.549
+51	Virginia	177	Spotsylvania County	2010	122.397
+51	Virginia	177	Spotsylvania County	2015	130.475
+51	Virginia	179	Stafford County	1985	48.300
+51	Virginia	179	Stafford County	1990	61.240
+51	Virginia	179	Stafford County	1995	80.110
+51	Virginia	179	Stafford County	2000	92.446
+51	Virginia	179	Stafford County	2005	117.874
+51	Virginia	179	Stafford County	2010	128.961
+51	Virginia	179	Stafford County	2015	142.003
+51	Virginia	181	Surry County	1985	6.200
+51	Virginia	181	Surry County	1990	6.150
+51	Virginia	181	Surry County	1995	6.390
+51	Virginia	181	Surry County	2000	6.829
+51	Virginia	181	Surry County	2005	7.013
+51	Virginia	181	Surry County	2010	7.058
+51	Virginia	181	Surry County	2015	6.709
+51	Virginia	183	Sussex County	1985	10.200
+51	Virginia	183	Sussex County	1990	10.250
+51	Virginia	183	Sussex County	1995	10.080
+51	Virginia	183	Sussex County	2000	12.504
+51	Virginia	183	Sussex County	2005	12.071
+51	Virginia	183	Sussex County	2010	12.087
+51	Virginia	183	Sussex County	2015	11.715
+51	Virginia	185	Tazewell County	1985	50.900
+51	Virginia	185	Tazewell County	1990	45.960
+51	Virginia	185	Tazewell County	1995	47.150
+51	Virginia	185	Tazewell County	2000	44.598
+51	Virginia	185	Tazewell County	2005	44.795
+51	Virginia	185	Tazewell County	2010	45.078
+51	Virginia	185	Tazewell County	2015	42.899
+51	Virginia	187	Warren County	1985	22.600
+51	Virginia	187	Warren County	1990	26.140
+51	Virginia	187	Warren County	1995	29.260
+51	Virginia	187	Warren County	2000	31.584
+51	Virginia	187	Warren County	2005	35.556
+51	Virginia	187	Warren County	2010	37.575
+51	Virginia	187	Warren County	2015	39.083
+51	Virginia	191	Washington County	1985	47.000
+51	Virginia	191	Washington County	1990	45.890
+51	Virginia	191	Washington County	1995	48.350
+51	Virginia	191	Washington County	2000	51.103
+51	Virginia	191	Washington County	2005	52.085
+51	Virginia	191	Washington County	2010	54.876
+51	Virginia	191	Washington County	2015	54.591
+51	Virginia	193	Westmoreland County	1985	14.100
+51	Virginia	193	Westmoreland County	1990	15.480
+51	Virginia	193	Westmoreland County	1995	16.460
+51	Virginia	193	Westmoreland County	2000	16.718
+51	Virginia	193	Westmoreland County	2005	17.227
+51	Virginia	193	Westmoreland County	2010	17.454
+51	Virginia	193	Westmoreland County	2015	17.629
+51	Virginia	195	Wise County	1985	45.200
+51	Virginia	195	Wise County	1990	39.570
+51	Virginia	195	Wise County	1995	39.920
+51	Virginia	195	Wise County	2000	40.123
+51	Virginia	195	Wise County	2005	41.997
+51	Virginia	195	Wise County	2010	41.452
+51	Virginia	195	Wise County	2015	39.718
+51	Virginia	197	Wythe County	1985	25.500
+51	Virginia	197	Wythe County	1990	25.470
+51	Virginia	197	Wythe County	1995	26.350
+51	Virginia	197	Wythe County	2000	27.599
+51	Virginia	197	Wythe County	2005	28.421
+51	Virginia	197	Wythe County	2010	29.235
+51	Virginia	197	Wythe County	2015	29.119
+51	Virginia	199	York County	1985	39.900
+51	Virginia	199	York County	1990	42.420
+51	Virginia	199	York County	1995	54.110
+51	Virginia	199	York County	2000	56.297
+51	Virginia	199	York County	2005	61.758
+51	Virginia	199	York County	2010	65.464
+51	Virginia	199	York County	2015	67.837
+51	Virginia	510	Alexandria City	1985	107.500
+51	Virginia	510	Alexandria City	1990	111.180
+51	Virginia	510	Alexandria City	1995	115.610
+51	Virginia	510	Alexandria City	2000	128.283
+51	Virginia	510	Alexandria City	2005	135.337
+51	Virginia	510	Alexandria City	2010	139.966
+51	Virginia	510	Alexandria City	2015	153.511
+51	Virginia	515	Bedford City	1985	6.200
+51	Virginia	515	Bedford City	1990	6.070
+51	Virginia	515	Bedford City	1995	6.480
+51	Virginia	515	Bedford City	2000	6.299
+51	Virginia	515	Bedford City	2005	6.211
+51	Virginia	515	Bedford City	2010	6.222
+51	Virginia	520	Bristol City	1985	18.000
+51	Virginia	520	Bristol City	1990	18.430
+51	Virginia	520	Bristol City	1995	17.920
+51	Virginia	520	Bristol City	2000	17.367
+51	Virginia	520	Bristol City	2005	17.335
+51	Virginia	520	Bristol City	2010	17.835
+51	Virginia	520	Bristol City	2015	17.141
+51	Virginia	530	Buena Vista City	1985	6.600
+51	Virginia	530	Buena Vista City	1990	6.410
+51	Virginia	530	Buena Vista City	1995	6.400
+51	Virginia	530	Buena Vista City	2000	6.349
+51	Virginia	530	Buena Vista City	2005	6.437
+51	Virginia	530	Buena Vista City	2010	6.650
+51	Virginia	530	Buena Vista City	2015	6.618
+51	Virginia	540	Charlottesville City	1985	40.900
+51	Virginia	540	Charlottesville City	1990	40.340
+51	Virginia	540	Charlottesville City	1995	40.230
+51	Virginia	540	Charlottesville City	2000	45.049
+51	Virginia	540	Charlottesville City	2005	40.437
+51	Virginia	540	Charlottesville City	2010	43.475
+51	Virginia	540	Charlottesville City	2015	46.597
+51	Virginia	550	Chesapeake City	1985	130.300
+51	Virginia	550	Chesapeake City	1990	151.980
+51	Virginia	550	Chesapeake City	1995	188.000
+51	Virginia	550	Chesapeake City	2000	199.184
+51	Virginia	550	Chesapeake City	2005	218.968
+51	Virginia	550	Chesapeake City	2010	222.209
+51	Virginia	550	Chesapeake City	2015	235.429
+51	Virginia	560	Clifton Forge City	1985	5.000
+51	Virginia	560	Clifton Forge City	1990	4.680
+51	Virginia	560	Clifton Forge City	1995	4.460
+51	Virginia	560	Clifton Forge City	2000	4.289
+51	Virginia	570	Colonial Heights City	1985	16.800
+51	Virginia	570	Colonial Heights City	1990	16.060
+51	Virginia	570	Colonial Heights City	1995	16.950
+51	Virginia	570	Colonial Heights City	2000	16.897
+51	Virginia	570	Colonial Heights City	2005	17.567
+51	Virginia	570	Colonial Heights City	2010	17.411
+51	Virginia	570	Colonial Heights City	2015	17.820
+51	Virginia	580	Covington City	1985	7.800
+51	Virginia	580	Covington City	1990	6.990
+51	Virginia	580	Covington City	1995	6.790
+51	Virginia	580	Covington City	2000	6.303
+51	Virginia	580	Covington City	2005	6.205
+51	Virginia	580	Covington City	2010	5.961
+51	Virginia	580	Covington City	2015	5.658
+51	Virginia	590	Danville City	1985	44.900
+51	Virginia	590	Danville City	1990	53.060
+51	Virginia	590	Danville City	1995	53.790
+51	Virginia	590	Danville City	2000	48.411
+51	Virginia	590	Danville City	2005	46.143
+51	Virginia	590	Danville City	2010	43.055
+51	Virginia	590	Danville City	2015	42.082
+51	Virginia	595	Emporia City	1985	4.700
+51	Virginia	595	Emporia City	1990	5.310
+51	Virginia	595	Emporia City	1995	5.840
+51	Virginia	595	Emporia City	2000	5.665
+51	Virginia	595	Emporia City	2005	5.587
+51	Virginia	595	Emporia City	2010	5.927
+51	Virginia	595	Emporia City	2015	5.496
+51	Virginia	600	Fairfax City	1985	20.300
+51	Virginia	600	Fairfax City	1990	19.620
+51	Virginia	600	Fairfax City	1995	20.640
+51	Virginia	600	Fairfax City	2000	21.498
+51	Virginia	600	Fairfax City	2005	21.963
+51	Virginia	600	Fairfax City	2010	22.565
+51	Virginia	600	Fairfax City	2015	24.013
+51	Virginia	610	Falls Church City	1985	9.500
+51	Virginia	610	Falls Church City	1990	9.580
+51	Virginia	610	Falls Church City	1995	9.620
+51	Virginia	610	Falls Church City	2000	10.377
+51	Virginia	610	Falls Church City	2005	10.781
+51	Virginia	610	Falls Church City	2010	12.332
+51	Virginia	610	Falls Church City	2015	13.892
+51	Virginia	620	Franklin City	1985	7.000
+51	Virginia	620	Franklin City	1990	7.860
+51	Virginia	620	Franklin City	1995	8.410
+51	Virginia	620	Franklin City	2000	8.346
+51	Virginia	620	Franklin City	2005	8.594
+51	Virginia	620	Franklin City	2010	8.582
+51	Virginia	620	Franklin City	2015	8.490
+51	Virginia	630	Fredericksburg City	1985	19.200
+51	Virginia	630	Fredericksburg City	1990	19.030
+51	Virginia	630	Fredericksburg City	1995	21.950
+51	Virginia	630	Fredericksburg City	2000	19.279
+51	Virginia	630	Fredericksburg City	2005	20.732
+51	Virginia	630	Fredericksburg City	2010	24.286
+51	Virginia	630	Fredericksburg City	2015	28.118
+51	Virginia	640	Galax City	1985	6.900
+51	Virginia	640	Galax City	1990	6.670
+51	Virginia	640	Galax City	1995	6.630
+51	Virginia	640	Galax City	2000	6.837
+51	Virginia	640	Galax City	2005	6.676
+51	Virginia	640	Galax City	2010	7.042
+51	Virginia	640	Galax City	2015	6.914
+51	Virginia	650	Hampton City	1985	125.300
+51	Virginia	650	Hampton City	1990	133.790
+51	Virginia	650	Hampton City	1995	139.180
+51	Virginia	650	Hampton City	2000	146.437
+51	Virginia	650	Hampton City	2005	145.579
+51	Virginia	650	Hampton City	2010	137.436
+51	Virginia	650	Hampton City	2015	136.454
+51	Virginia	660	Harrisonburg City	1985	26.500
+51	Virginia	660	Harrisonburg City	1990	30.710
+51	Virginia	660	Harrisonburg City	1995	33.160
+51	Virginia	660	Harrisonburg City	2000	40.468
+51	Virginia	660	Harrisonburg City	2005	40.438
+51	Virginia	660	Harrisonburg City	2010	48.914
+51	Virginia	660	Harrisonburg City	2015	52.538
+51	Virginia	670	Hopewell City	1985	24.000
+51	Virginia	670	Hopewell City	1990	23.100
+51	Virginia	670	Hopewell City	1995	22.550
+51	Virginia	670	Hopewell City	2000	22.354
+51	Virginia	670	Hopewell City	2005	22.690
+51	Virginia	670	Hopewell City	2010	22.591
+51	Virginia	670	Hopewell City	2015	22.378
+51	Virginia	678	Lexington City	1985	6.900
+51	Virginia	678	Lexington City	1990	6.960
+51	Virginia	678	Lexington City	1995	7.210
+51	Virginia	678	Lexington City	2000	6.867
+51	Virginia	678	Lexington City	2005	6.776
+51	Virginia	678	Lexington City	2010	7.042
+51	Virginia	678	Lexington City	2015	7.262
+51	Virginia	680	Lynchburg City	1985	68.000
+51	Virginia	680	Lynchburg City	1990	66.050
+51	Virginia	680	Lynchburg City	1995	66.710
+51	Virginia	680	Lynchburg City	2000	65.269
+51	Virginia	680	Lynchburg City	2005	66.973
+51	Virginia	680	Lynchburg City	2010	75.568
+51	Virginia	680	Lynchburg City	2015	79.812
+51	Virginia	683	Manassas City	1985	19.500
+51	Virginia	683	Manassas City	1990	27.960
+51	Virginia	683	Manassas City	1995	32.660
+51	Virginia	683	Manassas City	2000	35.135
+51	Virginia	683	Manassas City	2005	37.569
+51	Virginia	683	Manassas City	2010	37.821
+51	Virginia	683	Manassas City	2015	41.764
+51	Virginia	685	Manassas Park City	1985	6.900
+51	Virginia	685	Manassas Park City	1990	6.730
+51	Virginia	685	Manassas Park City	1995	7.420
+51	Virginia	685	Manassas Park City	2000	10.290
+51	Virginia	685	Manassas Park City	2005	11.622
+51	Virginia	685	Manassas Park City	2010	14.273
+51	Virginia	685	Manassas Park City	2015	15.726
+51	Virginia	690	Martinsville City	1985	18.700
+51	Virginia	690	Martinsville City	1990	16.160
+51	Virginia	690	Martinsville City	1995	15.920
+51	Virginia	690	Martinsville City	2000	15.416
+51	Virginia	690	Martinsville City	2005	14.925
+51	Virginia	690	Martinsville City	2010	13.821
+51	Virginia	690	Martinsville City	2015	13.645
+51	Virginia	700	Newport News City	1985	157.100
+51	Virginia	700	Newport News City	1990	170.050
+51	Virginia	700	Newport News City	1995	179.790
+51	Virginia	700	Newport News City	2000	180.150
+51	Virginia	700	Newport News City	2005	179.899
+51	Virginia	700	Newport News City	2010	180.719
+51	Virginia	700	Newport News City	2015	182.385
+51	Virginia	710	Norfolk City	1985	282.900
+51	Virginia	710	Norfolk City	1990	261.230
+51	Virginia	710	Norfolk City	1995	237.570
+51	Virginia	710	Norfolk City	2000	234.403
+51	Virginia	710	Norfolk City	2005	231.954
+51	Virginia	710	Norfolk City	2010	242.803
+51	Virginia	710	Norfolk City	2015	246.393
+51	Virginia	720	Norton City	1985	4.700
+51	Virginia	720	Norton City	1990	4.250
+51	Virginia	720	Norton City	1995	4.340
+51	Virginia	720	Norton City	2000	3.904
+51	Virginia	720	Norton City	2005	3.677
+51	Virginia	720	Norton City	2010	3.958
+51	Virginia	720	Norton City	2015	3.939
+51	Virginia	730	Petersburg City	1985	39.700
+51	Virginia	730	Petersburg City	1990	38.390
+51	Virginia	730	Petersburg City	1995	37.780
+51	Virginia	730	Petersburg City	2000	33.740
+51	Virginia	730	Petersburg City	2005	32.604
+51	Virginia	730	Petersburg City	2010	32.420
+51	Virginia	730	Petersburg City	2015	32.477
+51	Virginia	735	Poquoson City	1985	9.900
+51	Virginia	735	Poquoson City	1990	11.010
+51	Virginia	735	Poquoson City	1995	11.730
+51	Virginia	735	Poquoson City	2000	11.566
+51	Virginia	735	Poquoson City	2005	11.811
+51	Virginia	735	Poquoson City	2010	12.150
+51	Virginia	735	Poquoson City	2015	12.059
+51	Virginia	740	Portsmouth City	1985	111.000
+51	Virginia	740	Portsmouth City	1990	103.910
+51	Virginia	740	Portsmouth City	1995	102.740
+51	Virginia	740	Portsmouth City	2000	100.565
+51	Virginia	740	Portsmouth City	2005	100.169
+51	Virginia	740	Portsmouth City	2010	95.535
+51	Virginia	740	Portsmouth City	2015	96.201
+51	Virginia	750	Radford City	1985	13.500
+51	Virginia	750	Radford City	1990	15.940
+51	Virginia	750	Radford City	1995	16.210
+51	Virginia	750	Radford City	2000	15.859
+51	Virginia	750	Radford City	2005	14.575
+51	Virginia	750	Radford City	2010	16.408
+51	Virginia	750	Radford City	2015	17.403
+51	Virginia	760	Richmond City	1985	217.200
+51	Virginia	760	Richmond City	1990	203.060
+51	Virginia	760	Richmond City	1995	198.270
+51	Virginia	760	Richmond City	2000	197.790
+51	Virginia	760	Richmond City	2005	193.777
+51	Virginia	760	Richmond City	2010	204.214
+51	Virginia	760	Richmond City	2015	220.289
+51	Virginia	770	Roanoke City	1985	101.200
+51	Virginia	770	Roanoke City	1990	96.400
+51	Virginia	770	Roanoke City	1995	95.700
+51	Virginia	770	Roanoke City	2000	94.911
+51	Virginia	770	Roanoke City	2005	92.631
+51	Virginia	770	Roanoke City	2010	97.032
+51	Virginia	770	Roanoke City	2015	99.897
+51	Virginia	775	Salem City	1985	23.900
+51	Virginia	775	Salem City	1990	23.760
+51	Virginia	775	Salem City	1995	24.200
+51	Virginia	775	Salem City	2000	24.747
+51	Virginia	775	Salem City	2005	24.654
+51	Virginia	775	Salem City	2010	24.802
+51	Virginia	775	Salem City	2015	25.432
+51	Virginia	780	South Boston City	1985	7.200
+51	Virginia	780	South Boston City	1990	7.000
+51	Virginia	780	South Boston City	1995	7.160
+51	Virginia	790	Staunton City	1985	21.700
+51	Virginia	790	Staunton City	1990	24.460
+51	Virginia	790	Staunton City	1995	24.800
+51	Virginia	790	Staunton City	2000	23.853
+51	Virginia	790	Staunton City	2005	23.337
+51	Virginia	790	Staunton City	2010	23.746
+51	Virginia	790	Staunton City	2015	24.416
+51	Virginia	800	Suffolk City	1985	50.500
+51	Virginia	800	Suffolk City	1990	52.140
+51	Virginia	800	Suffolk City	1995	56.790
+51	Virginia	800	Suffolk City	2000	63.677
+51	Virginia	800	Suffolk City	2005	78.994
+51	Virginia	800	Suffolk City	2010	84.585
+51	Virginia	800	Suffolk City	2015	88.161
+51	Virginia	810	Virginia Beach City	1985	319.400
+51	Virginia	810	Virginia Beach City	1990	393.070
+51	Virginia	810	Virginia Beach City	1995	431.000
+51	Virginia	810	Virginia Beach City	2000	425.257
+51	Virginia	810	Virginia Beach City	2005	438.415
+51	Virginia	810	Virginia Beach City	2010	437.994
+51	Virginia	810	Virginia Beach City	2015	452.745
+51	Virginia	820	Waynesboro City	1985	15.100
+51	Virginia	820	Waynesboro City	1990	18.550
+51	Virginia	820	Waynesboro City	1995	18.930
+51	Virginia	820	Waynesboro City	2000	19.520
+51	Virginia	820	Waynesboro City	2005	21.269
+51	Virginia	820	Waynesboro City	2010	21.006
+51	Virginia	820	Waynesboro City	2015	21.491
+51	Virginia	830	Williamsburg City	1985	10.700
+51	Virginia	830	Williamsburg City	1990	11.530
+51	Virginia	830	Williamsburg City	1995	12.650
+51	Virginia	830	Williamsburg City	2000	11.998
+51	Virginia	830	Williamsburg City	2005	11.751
+51	Virginia	830	Williamsburg City	2010	14.068
+51	Virginia	830	Williamsburg City	2015	15.052
+51	Virginia	840	Winchester City	1985	20.700
+51	Virginia	840	Winchester City	1990	21.950
+51	Virginia	840	Winchester City	1995	23.240
+51	Virginia	840	Winchester City	2000	23.585
+51	Virginia	840	Winchester City	2005	25.119
+51	Virginia	840	Winchester City	2010	26.203
+51	Virginia	840	Winchester City	2015	27.284

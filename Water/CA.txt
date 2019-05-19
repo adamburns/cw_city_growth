@@ -1,0 +1,442 @@
+#
+# File created on 2019-05-18 23:23:14 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+06	California	001	Alameda County	1985	1195.160
+06	California	001	Alameda County	1990	1279.180
+06	California	001	Alameda County	1995	1347.700
+06	California	001	Alameda County	2000	1443.740
+06	California	001	Alameda County	2005	1448.905
+06	California	001	Alameda County	2010	1510.271
+06	California	001	Alameda County	2015	1638.215
+06	California	003	Alpine County	1985	1.200
+06	California	003	Alpine County	1990	1.110
+06	California	003	Alpine County	1995	1.170
+06	California	003	Alpine County	2000	1.210
+06	California	003	Alpine County	2005	1.159
+06	California	003	Alpine County	2010	1.175
+06	California	003	Alpine County	2015	1.110
+06	California	005	Amador County	1985	22.890
+06	California	005	Amador County	1990	30.040
+06	California	005	Amador County	1995	32.600
+06	California	005	Amador County	2000	35.100
+06	California	005	Amador County	2005	38.471
+06	California	005	Amador County	2010	38.091
+06	California	005	Amador County	2015	37.001
+06	California	007	Butte County	1985	163.220
+06	California	007	Butte County	1990	182.120
+06	California	007	Butte County	1995	196.100
+06	California	007	Butte County	2000	203.170
+06	California	007	Butte County	2005	214.185
+06	California	007	Butte County	2010	220.000
+06	California	007	Butte County	2015	225.411
+06	California	009	Calaveras County	1985	26.880
+06	California	009	Calaveras County	1990	32.000
+06	California	009	Calaveras County	1995	36.950
+06	California	009	Calaveras County	2000	40.550
+06	California	009	Calaveras County	2005	46.871
+06	California	009	Calaveras County	2010	45.578
+06	California	009	Calaveras County	2015	44.828
+06	California	011	Colusa County	1985	14.690
+06	California	011	Colusa County	1990	16.280
+06	California	011	Colusa County	1995	17.850
+06	California	011	Colusa County	2000	18.800
+06	California	011	Colusa County	2005	21.095
+06	California	011	Colusa County	2010	21.419
+06	California	011	Colusa County	2015	21.482
+06	California	013	Contra Costa County	1985	711.880
+06	California	013	Contra Costa County	1990	803.730
+06	California	013	Contra Costa County	1995	867.300
+06	California	013	Contra Costa County	2000	948.820
+06	California	013	Contra Costa County	2005	1017.787
+06	California	013	Contra Costa County	2010	1049.025
+06	California	013	Contra Costa County	2015	1126.745
+06	California	015	Del Norte County	1985	18.680
+06	California	015	Del Norte County	1990	23.460
+06	California	015	Del Norte County	1995	27.600
+06	California	015	Del Norte County	2000	27.510
+06	California	015	Del Norte County	2005	28.705
+06	California	015	Del Norte County	2010	28.610
+06	California	015	Del Norte County	2015	27.254
+06	California	017	El Dorado County	1985	103.850
+06	California	017	El Dorado County	1990	126.000
+06	California	017	El Dorado County	1995	144.200
+06	California	017	El Dorado County	2000	156.300
+06	California	017	El Dorado County	2005	176.841
+06	California	017	El Dorado County	2010	181.058
+06	California	017	El Dorado County	2015	184.452
+06	California	019	Fresno County	1985	579.690
+06	California	019	Fresno County	1990	667.490
+06	California	019	Fresno County	1995	754.100
+06	California	019	Fresno County	2000	799.410
+06	California	019	Fresno County	2005	877.584
+06	California	019	Fresno County	2010	930.450
+06	California	019	Fresno County	2015	974.861
+06	California	021	Glenn County	1985	23.080
+06	California	021	Glenn County	1990	24.800
+06	California	021	Glenn County	1995	26.600
+06	California	021	Glenn County	2000	26.450
+06	California	021	Glenn County	2005	27.759
+06	California	021	Glenn County	2010	28.122
+06	California	021	Glenn County	2015	28.017
+06	California	023	Humboldt County	1985	112.900
+06	California	023	Humboldt County	1990	119.120
+06	California	023	Humboldt County	1995	124.500
+06	California	023	Humboldt County	2000	126.520
+06	California	023	Humboldt County	2005	128.376
+06	California	023	Humboldt County	2010	134.623
+06	California	023	Humboldt County	2015	135.727
+06	California	025	Imperial County	1985	105.720
+06	California	025	Imperial County	1990	109.300
+06	California	025	Imperial County	1995	137.400
+06	California	025	Imperial County	2000	142.360
+06	California	025	Imperial County	2005	155.823
+06	California	025	Imperial County	2010	174.528
+06	California	025	Imperial County	2015	180.191
+06	California	027	Inyo County	1985	18.270
+06	California	027	Inyo County	1990	18.280
+06	California	027	Inyo County	1995	18.450
+06	California	027	Inyo County	2000	17.950
+06	California	027	Inyo County	2005	18.156
+06	California	027	Inyo County	2010	18.546
+06	California	027	Inyo County	2015	18.260
+06	California	029	Kern County	1985	480.680
+06	California	029	Kern County	1990	543.480
+06	California	029	Kern County	1995	616.700
+06	California	029	Kern County	2000	661.650
+06	California	029	Kern County	2005	756.825
+06	California	029	Kern County	2010	839.631
+06	California	029	Kern County	2015	882.176
+06	California	031	Kings County	1985	84.560
+06	California	031	Kings County	1990	101.470
+06	California	031	Kings County	1995	114.900
+06	California	031	Kings County	2000	129.460
+06	California	031	Kings County	2005	143.420
+06	California	031	Kings County	2010	152.982
+06	California	031	Kings County	2015	150.965
+06	California	033	Lake County	1985	47.660
+06	California	033	Lake County	1990	50.630
+06	California	033	Lake County	1995	55.100
+06	California	033	Lake County	2000	58.310
+06	California	033	Lake County	2005	65.147
+06	California	033	Lake County	2010	64.665
+06	California	033	Lake County	2015	64.591
+06	California	035	Lassen County	1985	24.380
+06	California	035	Lassen County	1990	27.600
+06	California	035	Lassen County	1995	28.650
+06	California	035	Lassen County	2000	33.830
+06	California	035	Lassen County	2005	34.751
+06	California	035	Lassen County	2010	34.895
+06	California	035	Lassen County	2015	31.345
+06	California	037	Los Angeles County	1985	8105.540
+06	California	037	Los Angeles County	1990	8863.110
+06	California	037	Los Angeles County	1995	9352.200
+06	California	037	Los Angeles County	2000	9519.340
+06	California	037	Los Angeles County	2005	9935.475
+06	California	037	Los Angeles County	2010	9818.605
+06	California	037	Los Angeles County	2015	10170.292
+06	California	039	Madera County	1985	75.750
+06	California	039	Madera County	1990	88.090
+06	California	039	Madera County	1995	106.400
+06	California	039	Madera County	2000	123.110
+06	California	039	Madera County	2005	142.788
+06	California	039	Madera County	2010	150.865
+06	California	039	Madera County	2015	154.998
+06	California	041	Marin County	1985	223.990
+06	California	041	Marin County	1990	230.100
+06	California	041	Marin County	1995	238.900
+06	California	041	Marin County	2000	247.290
+06	California	041	Marin County	2005	246.960
+06	California	041	Marin County	2010	252.409
+06	California	041	Marin County	2015	261.221
+06	California	043	Mariposa County	1985	13.390
+06	California	043	Mariposa County	1990	14.300
+06	California	043	Mariposa County	1995	15.900
+06	California	043	Mariposa County	2000	17.130
+06	California	043	Mariposa County	2005	18.069
+06	California	043	Mariposa County	2010	18.251
+06	California	043	Mariposa County	2015	17.531
+06	California	045	Mendocino County	1985	73.540
+06	California	045	Mendocino County	1990	80.350
+06	California	045	Mendocino County	1995	84.300
+06	California	045	Mendocino County	2000	86.270
+06	California	045	Mendocino County	2005	88.161
+06	California	045	Mendocino County	2010	87.841
+06	California	045	Mendocino County	2015	87.649
+06	California	047	Merced County	1985	158.640
+06	California	047	Merced County	1990	178.400
+06	California	047	Merced County	1995	198.500
+06	California	047	Merced County	2000	210.550
+06	California	047	Merced County	2005	241.706
+06	California	047	Merced County	2010	255.793
+06	California	047	Merced County	2015	268.455
+06	California	049	Modoc County	1985	9.490
+06	California	049	Modoc County	1990	9.680
+06	California	049	Modoc County	1995	10.040
+06	California	049	Modoc County	2000	9.450
+06	California	049	Modoc County	2005	9.524
+06	California	049	Modoc County	2010	9.686
+06	California	049	Modoc County	2015	8.965
+06	California	051	Mono County	1985	9.090
+06	California	051	Mono County	1990	9.960
+06	California	051	Mono County	1995	10.550
+06	California	051	Mono County	2000	12.850
+06	California	051	Mono County	2005	12.509
+06	California	051	Mono County	2010	14.202
+06	California	051	Mono County	2015	13.909
+06	California	053	Monterey County	1985	329.800
+06	California	053	Monterey County	1990	355.660
+06	California	053	Monterey County	1995	361.800
+06	California	053	Monterey County	2000	401.760
+06	California	053	Monterey County	2005	412.104
+06	California	053	Monterey County	2010	415.057
+06	California	053	Monterey County	2015	433.898
+06	California	055	Napa County	1985	103.420
+06	California	055	Napa County	1990	110.770
+06	California	055	Napa County	1995	117.800
+06	California	055	Napa County	2000	124.280
+06	California	055	Napa County	2005	132.764
+06	California	055	Napa County	2010	136.484
+06	California	055	Napa County	2015	142.456
+06	California	057	Nevada County	1985	67.970
+06	California	057	Nevada County	1990	78.510
+06	California	057	Nevada County	1995	86.600
+06	California	057	Nevada County	2000	92.030
+06	California	057	Nevada County	2005	98.394
+06	California	057	Nevada County	2010	98.764
+06	California	057	Nevada County	2015	98.877
+06	California	059	Orange County	1985	2122.100
+06	California	059	Orange County	1990	2410.560
+06	California	059	Orange County	1995	2614.800
+06	California	059	Orange County	2000	2846.290
+06	California	059	Orange County	2005	2988.072
+06	California	059	Orange County	2010	3010.232
+06	California	059	Orange County	2015	3169.776
+06	California	061	Placer County	1985	137.820
+06	California	061	Placer County	1990	172.800
+06	California	061	Placer County	1995	203.500
+06	California	061	Placer County	2000	248.400
+06	California	061	Placer County	2005	317.028
+06	California	061	Placer County	2010	348.432
+06	California	061	Placer County	2015	375.391
+06	California	063	Plumas County	1985	19.190
+06	California	063	Plumas County	1990	19.740
+06	California	063	Plumas County	1995	20.500
+06	California	063	Plumas County	2000	20.820
+06	California	063	Plumas County	2005	21.477
+06	California	063	Plumas County	2010	20.007
+06	California	063	Plumas County	2015	18.409
+06	California	065	Riverside County	1985	820.210
+06	California	065	Riverside County	1990	1170.410
+06	California	065	Riverside County	1995	1370.300
+06	California	065	Riverside County	2000	1545.390
+06	California	065	Riverside County	2005	1946.419
+06	California	065	Riverside County	2010	2189.641
+06	California	065	Riverside County	2015	2361.026
+06	California	067	Sacramento County	1985	891.710
+06	California	067	Sacramento County	1990	1041.220
+06	California	067	Sacramento County	1995	1117.700
+06	California	067	Sacramento County	2000	1223.500
+06	California	067	Sacramento County	2005	1363.482
+06	California	067	Sacramento County	2010	1418.788
+06	California	067	Sacramento County	2015	1501.335
+06	California	069	San Benito County	1985	30.580
+06	California	069	San Benito County	1990	36.700
+06	California	069	San Benito County	1995	42.650
+06	California	069	San Benito County	2000	53.230
+06	California	069	San Benito County	2005	55.936
+06	California	069	San Benito County	2010	55.269
+06	California	069	San Benito County	2015	58.792
+06	California	071	San Bernardino County	1985	1085.660
+06	California	071	San Bernardino County	1990	1418.380
+06	California	071	San Bernardino County	1995	1581.600
+06	California	071	San Bernardino County	2000	1709.430
+06	California	071	San Bernardino County	2005	1963.535
+06	California	071	San Bernardino County	2010	2035.210
+06	California	071	San Bernardino County	2015	2128.133
+06	California	073	San Diego County	1985	2131.990
+06	California	073	San Diego County	1990	2498.020
+06	California	073	San Diego County	1995	2669.200
+06	California	073	San Diego County	2000	2813.830
+06	California	073	San Diego County	2005	2933.462
+06	California	073	San Diego County	2010	3095.313
+06	California	073	San Diego County	2015	3299.521
+06	California	075	San Francisco County	1985	737.300
+06	California	075	San Francisco County	1990	723.960
+06	California	075	San Francisco County	1995	751.500
+06	California	075	San Francisco County	2000	776.730
+06	California	075	San Francisco County	2005	739.426
+06	California	075	San Francisco County	2010	805.235
+06	California	075	San Francisco County	2015	864.816
+06	California	077	San Joaquin County	1985	418.060
+06	California	077	San Joaquin County	1990	480.630
+06	California	077	San Joaquin County	1995	524.600
+06	California	077	San Joaquin County	2000	563.600
+06	California	077	San Joaquin County	2005	664.116
+06	California	077	San Joaquin County	2010	685.306
+06	California	077	San Joaquin County	2015	726.106
+06	California	079	San Luis Obispo County	1985	188.710
+06	California	079	San Luis Obispo County	1990	217.160
+06	California	079	San Luis Obispo County	1995	228.400
+06	California	079	San Luis Obispo County	2000	246.680
+06	California	079	San Luis Obispo County	2005	255.478
+06	California	079	San Luis Obispo County	2010	269.637
+06	California	079	San Luis Obispo County	2015	281.401
+06	California	081	San Mateo County	1985	614.040
+06	California	081	San Mateo County	1990	649.620
+06	California	081	San Mateo County	1995	689.700
+06	California	081	San Mateo County	2000	707.160
+06	California	081	San Mateo County	2005	699.610
+06	California	081	San Mateo County	2010	718.451
+06	California	081	San Mateo County	2015	765.135
+06	California	083	Santa Barbara County	1985	331.850
+06	California	083	Santa Barbara County	1990	369.610
+06	California	083	Santa Barbara County	1995	391.400
+06	California	083	Santa Barbara County	2000	399.350
+06	California	083	Santa Barbara County	2005	400.762
+06	California	083	Santa Barbara County	2010	423.895
+06	California	083	Santa Barbara County	2015	444.769
+06	California	085	Santa Clara County	1985	1397.970
+06	California	085	Santa Clara County	1990	1497.580
+06	California	085	Santa Clara County	1995	1603.300
+06	California	085	Santa Clara County	2000	1682.590
+06	California	085	Santa Clara County	2005	1699.052
+06	California	085	Santa Clara County	2010	1781.642
+06	California	085	Santa Clara County	2015	1918.044
+06	California	087	Santa Cruz County	1985	213.700
+06	California	087	Santa Cruz County	1990	229.730
+06	California	087	Santa Cruz County	1995	241.500
+06	California	087	Santa Cruz County	2000	255.600
+06	California	087	Santa Cruz County	2005	249.666
+06	California	087	Santa Cruz County	2010	262.382
+06	California	087	Santa Cruz County	2015	274.146
+06	California	089	Shasta County	1985	130.640
+06	California	089	Shasta County	1990	147.040
+06	California	089	Shasta County	1995	160.900
+06	California	089	Shasta County	2000	163.260
+06	California	089	Shasta County	2005	179.904
+06	California	089	Shasta County	2010	177.223
+06	California	089	Shasta County	2015	179.533
+06	California	091	Sierra County	1985	3.390
+06	California	091	Sierra County	1990	3.320
+06	California	091	Sierra County	1995	3.390
+06	California	091	Sierra County	2000	3.560
+06	California	091	Sierra County	2005	3.434
+06	California	091	Sierra County	2010	3.240
+06	California	091	Sierra County	2015	2.967
+06	California	093	Siskiyou County	1985	42.860
+06	California	093	Siskiyou County	1990	43.530
+06	California	093	Siskiyou County	1995	44.650
+06	California	093	Siskiyou County	2000	44.300
+06	California	093	Siskiyou County	2005	45.259
+06	California	093	Siskiyou County	2010	44.900
+06	California	093	Siskiyou County	2015	43.554
+06	California	095	Solano County	1985	275.200
+06	California	095	Solano County	1990	340.420
+06	California	095	Solano County	1995	370.500
+06	California	095	Solano County	2000	394.540
+06	California	095	Solano County	2005	411.593
+06	California	095	Solano County	2010	413.344
+06	California	095	Solano County	2015	436.092
+06	California	097	Sonoma County	1985	334.320
+06	California	097	Sonoma County	1990	388.220
+06	California	097	Sonoma County	1995	419.500
+06	California	097	Sonoma County	2000	458.610
+06	California	097	Sonoma County	2005	466.477
+06	California	097	Sonoma County	2010	483.878
+06	California	097	Sonoma County	2015	502.146
+06	California	099	Stanislaus County	1985	305.600
+06	California	099	Stanislaus County	1990	370.520
+06	California	099	Stanislaus County	1995	413.800
+06	California	099	Stanislaus County	2000	447.000
+06	California	099	Stanislaus County	2005	505.505
+06	California	099	Stanislaus County	2010	514.453
+06	California	099	Stanislaus County	2015	538.388
+06	California	101	Sutter County	1985	58.270
+06	California	101	Sutter County	1990	64.420
+06	California	101	Sutter County	1995	73.800
+06	California	101	Sutter County	2000	78.930
+06	California	101	Sutter County	2005	88.876
+06	California	101	Sutter County	2010	94.737
+06	California	101	Sutter County	2015	96.463
+06	California	103	Tehama County	1985	44.270
+06	California	103	Tehama County	1990	49.630
+06	California	103	Tehama County	1995	54.200
+06	California	103	Tehama County	2000	56.040
+06	California	103	Tehama County	2005	61.197
+06	California	103	Tehama County	2010	63.463
+06	California	103	Tehama County	2015	63.308
+06	California	105	Trinity County	1985	13.390
+06	California	105	Trinity County	1990	13.060
+06	California	105	Trinity County	1995	13.400
+06	California	105	Trinity County	2000	13.020
+06	California	105	Trinity County	2005	13.622
+06	California	105	Trinity County	2010	13.786
+06	California	105	Trinity County	2015	13.069
+06	California	107	Tulare County	1985	280.960
+06	California	107	Tulare County	1990	311.920
+06	California	107	Tulare County	1995	349.800
+06	California	107	Tulare County	2000	368.020
+06	California	107	Tulare County	2005	410.874
+06	California	107	Tulare County	2010	442.179
+06	California	107	Tulare County	2015	459.863
+06	California	109	Tuolumne County	1985	40.470
+06	California	109	Tuolumne County	1990	48.460
+06	California	109	Tuolumne County	1995	51.500
+06	California	109	Tuolumne County	2000	54.500
+06	California	109	Tuolumne County	2005	59.380
+06	California	109	Tuolumne County	2010	55.365
+06	California	109	Tuolumne County	2015	53.709
+06	California	111	Ventura County	1985	599.770
+06	California	111	Ventura County	1990	669.020
+06	California	111	Ventura County	1995	712.700
+06	California	111	Ventura County	2000	753.200
+06	California	111	Ventura County	2005	796.106
+06	California	111	Ventura County	2010	823.318
+06	California	111	Ventura County	2015	850.536
+06	California	113	Yolo County	1985	124.350
+06	California	113	Yolo County	1990	141.090
+06	California	113	Yolo County	1995	150.800
+06	California	113	Yolo County	2000	168.660
+06	California	113	Yolo County	2005	184.932
+06	California	113	Yolo County	2010	200.849
+06	California	113	Yolo County	2015	213.016
+06	California	115	Yuba County	1985	53.970
+06	California	115	Yuba County	1990	58.230
+06	California	115	Yuba County	1995	62.300
+06	California	115	Yuba County	2000	60.220
+06	California	115	Yuba County	2005	67.153
+06	California	115	Yuba County	2010	72.155
+06	California	115	Yuba County	2015	74.492

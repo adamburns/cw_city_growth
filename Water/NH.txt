@@ -1,0 +1,106 @@
+#
+# File created on 2019-05-18 23:23:37 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+33	New Hampshire	001	Belknap County	1985	46.300
+33	New Hampshire	001	Belknap County	1990	49.220
+33	New Hampshire	001	Belknap County	1995	50.940
+33	New Hampshire	001	Belknap County	2000	56.330
+33	New Hampshire	001	Belknap County	2005	61.550
+33	New Hampshire	001	Belknap County	2010	60.088
+33	New Hampshire	001	Belknap County	2015	60.641
+33	New Hampshire	003	Carroll County	1985	30.800
+33	New Hampshire	003	Carroll County	1990	35.410
+33	New Hampshire	003	Carroll County	1995	37.580
+33	New Hampshire	003	Carroll County	2000	43.670
+33	New Hampshire	003	Carroll County	2005	47.440
+33	New Hampshire	003	Carroll County	2010	47.818
+33	New Hampshire	003	Carroll County	2015	47.285
+33	New Hampshire	005	Cheshire County	1985	65.500
+33	New Hampshire	005	Cheshire County	1990	70.120
+33	New Hampshire	005	Cheshire County	1995	71.160
+33	New Hampshire	005	Cheshire County	2000	73.830
+33	New Hampshire	005	Cheshire County	2005	77.280
+33	New Hampshire	005	Cheshire County	2010	77.117
+33	New Hampshire	005	Cheshire County	2015	75.909
+33	New Hampshire	007	Coos County	1985	33.700
+33	New Hampshire	007	Coos County	1990	34.160
+33	New Hampshire	007	Coos County	1995	33.580
+33	New Hampshire	007	Coos County	2000	33.110
+33	New Hampshire	007	Coos County	2005	33.660
+33	New Hampshire	007	Coos County	2010	33.055
+33	New Hampshire	007	Coos County	2015	31.212
+33	New Hampshire	009	Grafton County	1985	69.000
+33	New Hampshire	009	Grafton County	1990	75.460
+33	New Hampshire	009	Grafton County	1995	77.740
+33	New Hampshire	009	Grafton County	2000	81.740
+33	New Hampshire	009	Grafton County	2005	84.710
+33	New Hampshire	009	Grafton County	2010	89.118
+33	New Hampshire	009	Grafton County	2015	89.320
+33	New Hampshire	011	Hillsborough County	1985	303.000
+33	New Hampshire	011	Hillsborough County	1990	336.070
+33	New Hampshire	011	Hillsborough County	1995	349.570
+33	New Hampshire	011	Hillsborough County	2000	380.840
+33	New Hampshire	011	Hillsborough County	2005	401.290
+33	New Hampshire	011	Hillsborough County	2010	400.721
+33	New Hampshire	011	Hillsborough County	2015	406.678
+33	New Hampshire	013	Merrimack County	1985	106.000
+33	New Hampshire	013	Merrimack County	1990	120.010
+33	New Hampshire	013	Merrimack County	1995	123.350
+33	New Hampshire	013	Merrimack County	2000	136.230
+33	New Hampshire	013	Merrimack County	2005	146.880
+33	New Hampshire	013	Merrimack County	2010	146.445
+33	New Hampshire	013	Merrimack County	2015	147.994
+33	New Hampshire	015	Rockingham County	1985	214.000
+33	New Hampshire	015	Rockingham County	1990	245.840
+33	New Hampshire	015	Rockingham County	1995	257.580
+33	New Hampshire	015	Rockingham County	2000	277.360
+33	New Hampshire	015	Rockingham County	2005	295.080
+33	New Hampshire	015	Rockingham County	2010	295.223
+33	New Hampshire	015	Rockingham County	2015	301.777
+33	New Hampshire	017	Strafford County	1985	91.900
+33	New Hampshire	017	Strafford County	1990	104.230
+33	New Hampshire	017	Strafford County	1995	107.260
+33	New Hampshire	017	Strafford County	2000	112.230
+33	New Hampshire	017	Strafford County	2005	119.010
+33	New Hampshire	017	Strafford County	2010	123.143
+33	New Hampshire	017	Strafford County	2015	126.825
+33	New Hampshire	019	Sullivan County	1985	37.500
+33	New Hampshire	019	Sullivan County	1990	38.680
+33	New Hampshire	019	Sullivan County	1995	39.490
+33	New Hampshire	019	Sullivan County	2000	40.460
+33	New Hampshire	019	Sullivan County	2005	43.040
+33	New Hampshire	019	Sullivan County	2010	43.742
+33	New Hampshire	019	Sullivan County	2015	42.967

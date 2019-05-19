@@ -1,0 +1,480 @@
+#
+# File created on 2019-05-18 23:23:15 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+08	Colorado	001	Adams County	1985	276.470
+08	Colorado	001	Adams County	1990	265.040
+08	Colorado	001	Adams County	1995	303.300
+08	Colorado	001	Adams County	2000	363.860
+08	Colorado	001	Adams County	2005	399.426
+08	Colorado	001	Adams County	2010	441.603
+08	Colorado	001	Adams County	2015	491.337
+08	Colorado	003	Alamosa County	1985	12.500
+08	Colorado	003	Alamosa County	1990	13.620
+08	Colorado	003	Alamosa County	1995	14.220
+08	Colorado	003	Alamosa County	2000	14.970
+08	Colorado	003	Alamosa County	2005	15.282
+08	Colorado	003	Alamosa County	2010	15.445
+08	Colorado	003	Alamosa County	2015	16.496
+08	Colorado	005	Arapahoe County	1985	371.590
+08	Colorado	005	Arapahoe County	1990	391.510
+08	Colorado	005	Arapahoe County	1995	449.100
+08	Colorado	005	Arapahoe County	2000	487.970
+08	Colorado	005	Arapahoe County	2005	529.090
+08	Colorado	005	Arapahoe County	2010	572.003
+08	Colorado	005	Arapahoe County	2015	631.096
+08	Colorado	007	Archuleta County	1985	5.230
+08	Colorado	007	Archuleta County	1990	5.350
+08	Colorado	007	Archuleta County	1995	7.100
+08	Colorado	007	Archuleta County	2000	9.900
+08	Colorado	007	Archuleta County	2005	11.886
+08	Colorado	007	Archuleta County	2010	12.084
+08	Colorado	007	Archuleta County	2015	12.352
+08	Colorado	009	Baca County	1985	4.820
+08	Colorado	009	Baca County	1990	4.560
+08	Colorado	009	Baca County	1995	4.380
+08	Colorado	009	Baca County	2000	4.520
+08	Colorado	009	Baca County	2005	4.069
+08	Colorado	009	Baca County	2010	3.788
+08	Colorado	009	Baca County	2015	3.615
+08	Colorado	011	Bent County	1985	5.740
+08	Colorado	011	Bent County	1990	5.050
+08	Colorado	011	Bent County	1995	5.520
+08	Colorado	011	Bent County	2000	6.000
+08	Colorado	011	Bent County	2005	5.558
+08	Colorado	011	Bent County	2010	6.499
+08	Colorado	011	Bent County	2015	5.830
+08	Colorado	013	Boulder County	1985	210.640
+08	Colorado	013	Boulder County	1990	225.340
+08	Colorado	013	Boulder County	1995	253.850
+08	Colorado	013	Boulder County	2000	291.290
+08	Colorado	013	Boulder County	2005	280.440
+08	Colorado	013	Boulder County	2010	294.567
+08	Colorado	013	Boulder County	2015	319.372
+08	Colorado	014	Broomfield County	2005	43.478
+08	Colorado	014	Broomfield County	2010	55.889
+08	Colorado	014	Broomfield County	2015	65.065
+08	Colorado	015	Chaffee County	1985	12.270
+08	Colorado	015	Chaffee County	1990	12.680
+08	Colorado	015	Chaffee County	1995	14.410
+08	Colorado	015	Chaffee County	2000	16.240
+08	Colorado	015	Chaffee County	2005	16.968
+08	Colorado	015	Chaffee County	2010	17.809
+08	Colorado	015	Chaffee County	2015	18.658
+08	Colorado	017	Cheyenne County	1985	2.470
+08	Colorado	017	Cheyenne County	1990	2.400
+08	Colorado	017	Cheyenne County	1995	2.310
+08	Colorado	017	Cheyenne County	2000	2.230
+08	Colorado	017	Cheyenne County	2005	1.953
+08	Colorado	017	Cheyenne County	2010	1.836
+08	Colorado	017	Cheyenne County	2015	1.829
+08	Colorado	019	Clear Creek County	1985	7.730
+08	Colorado	019	Clear Creek County	1990	7.620
+08	Colorado	019	Clear Creek County	1995	8.740
+08	Colorado	019	Clear Creek County	2000	9.320
+08	Colorado	019	Clear Creek County	2005	9.197
+08	Colorado	019	Clear Creek County	2010	9.088
+08	Colorado	019	Clear Creek County	2015	9.303
+08	Colorado	021	Conejos County	1985	8.000
+08	Colorado	021	Conejos County	1990	7.450
+08	Colorado	021	Conejos County	1995	7.810
+08	Colorado	021	Conejos County	2000	8.400
+08	Colorado	021	Conejos County	2005	8.512
+08	Colorado	021	Conejos County	2010	8.256
+08	Colorado	021	Conejos County	2015	8.130
+08	Colorado	023	Costilla County	1985	3.390
+08	Colorado	023	Costilla County	1990	3.190
+08	Colorado	023	Costilla County	1995	3.380
+08	Colorado	023	Costilla County	2000	3.660
+08	Colorado	023	Costilla County	2005	3.424
+08	Colorado	023	Costilla County	2010	3.524
+08	Colorado	023	Costilla County	2015	3.584
+08	Colorado	025	Crowley County	1985	3.260
+08	Colorado	025	Crowley County	1990	3.950
+08	Colorado	025	Crowley County	1995	4.300
+08	Colorado	025	Crowley County	2000	5.520
+08	Colorado	025	Crowley County	2005	5.401
+08	Colorado	025	Crowley County	2010	5.823
+08	Colorado	025	Crowley County	2015	5.562
+08	Colorado	027	Custer County	1985	2.130
+08	Colorado	027	Custer County	1990	1.930
+08	Colorado	027	Custer County	1995	2.700
+08	Colorado	027	Custer County	2000	3.500
+08	Colorado	027	Custer County	2005	3.860
+08	Colorado	027	Custer County	2010	4.255
+08	Colorado	027	Custer County	2015	4.445
+08	Colorado	029	Delta County	1985	23.990
+08	Colorado	029	Delta County	1990	20.980
+08	Colorado	029	Delta County	1995	25.080
+08	Colorado	029	Delta County	2000	27.830
+08	Colorado	029	Delta County	2005	29.947
+08	Colorado	029	Delta County	2010	30.952
+08	Colorado	029	Delta County	2015	29.979
+08	Colorado	031	Denver County	1985	510.910
+08	Colorado	031	Denver County	1990	467.610
+08	Colorado	031	Denver County	1995	494.460
+08	Colorado	031	Denver County	2000	554.640
+08	Colorado	031	Denver County	2005	557.917
+08	Colorado	031	Denver County	2010	600.158
+08	Colorado	031	Denver County	2015	682.545
+08	Colorado	033	Dolores County	1985	1.580
+08	Colorado	033	Dolores County	1990	1.500
+08	Colorado	033	Dolores County	1995	1.590
+08	Colorado	033	Dolores County	2000	1.840
+08	Colorado	033	Dolores County	2005	1.827
+08	Colorado	033	Dolores County	2010	2.064
+08	Colorado	033	Dolores County	2015	1.978
+08	Colorado	035	Douglas County	1985	36.760
+08	Colorado	035	Douglas County	1990	60.390
+08	Colorado	035	Douglas County	1995	99.580
+08	Colorado	035	Douglas County	2000	175.770
+08	Colorado	035	Douglas County	2005	249.416
+08	Colorado	035	Douglas County	2010	285.465
+08	Colorado	035	Douglas County	2015	322.387
+08	Colorado	037	Eagle County	1985	18.260
+08	Colorado	037	Eagle County	1990	21.930
+08	Colorado	037	Eagle County	1995	28.840
+08	Colorado	037	Eagle County	2000	41.660
+08	Colorado	037	Eagle County	2005	47.530
+08	Colorado	037	Eagle County	2010	52.197
+08	Colorado	037	Eagle County	2015	53.605
+08	Colorado	039	Elbert County	1985	8.490
+08	Colorado	039	Elbert County	1990	9.650
+08	Colorado	039	Elbert County	1995	14.560
+08	Colorado	039	Elbert County	2000	19.870
+08	Colorado	039	Elbert County	2005	22.788
+08	Colorado	039	Elbert County	2010	23.086
+08	Colorado	039	Elbert County	2015	24.735
+08	Colorado	041	El Paso County	1985	368.750
+08	Colorado	041	El Paso County	1990	397.010
+08	Colorado	041	El Paso County	1995	465.800
+08	Colorado	041	El Paso County	2000	516.930
+08	Colorado	041	El Paso County	2005	565.582
+08	Colorado	041	El Paso County	2010	622.263
+08	Colorado	041	El Paso County	2015	674.471
+08	Colorado	043	Fremont County	1985	30.300
+08	Colorado	043	Fremont County	1990	32.270
+08	Colorado	043	Fremont County	1995	39.790
+08	Colorado	043	Fremont County	2000	46.150
+08	Colorado	043	Fremont County	2005	47.766
+08	Colorado	043	Fremont County	2010	46.824
+08	Colorado	043	Fremont County	2015	46.692
+08	Colorado	045	Garfield County	1985	25.150
+08	Colorado	045	Garfield County	1990	29.970
+08	Colorado	045	Garfield County	1995	35.340
+08	Colorado	045	Garfield County	2000	43.790
+08	Colorado	045	Garfield County	2005	49.810
+08	Colorado	045	Garfield County	2010	56.389
+08	Colorado	045	Garfield County	2015	58.095
+08	Colorado	047	Gilpin County	1985	2.760
+08	Colorado	047	Gilpin County	1990	3.070
+08	Colorado	047	Gilpin County	1995	3.580
+08	Colorado	047	Gilpin County	2000	4.760
+08	Colorado	047	Gilpin County	2005	4.932
+08	Colorado	047	Gilpin County	2010	5.441
+08	Colorado	047	Gilpin County	2015	5.828
+08	Colorado	049	Grand County	1985	9.660
+08	Colorado	049	Grand County	1990	7.970
+08	Colorado	049	Grand County	1995	9.190
+08	Colorado	049	Grand County	2000	12.440
+08	Colorado	049	Grand County	2005	13.211
+08	Colorado	049	Grand County	2010	14.843
+08	Colorado	049	Grand County	2015	14.615
+08	Colorado	051	Gunnison County	1985	11.170
+08	Colorado	051	Gunnison County	1990	10.270
+08	Colorado	051	Gunnison County	1995	11.930
+08	Colorado	051	Gunnison County	2000	13.960
+08	Colorado	051	Gunnison County	2005	14.226
+08	Colorado	051	Gunnison County	2010	15.324
+08	Colorado	051	Gunnison County	2015	16.067
+08	Colorado	053	Hinsdale County	1985	0.410
+08	Colorado	053	Hinsdale County	1990	0.470
+08	Colorado	053	Hinsdale County	1995	0.650
+08	Colorado	053	Hinsdale County	2000	0.790
+08	Colorado	053	Hinsdale County	2005	0.765
+08	Colorado	053	Hinsdale County	2010	0.843
+08	Colorado	053	Hinsdale County	2015	0.774
+08	Colorado	055	Huerfano County	1985	7.250
+08	Colorado	055	Huerfano County	1990	6.010
+08	Colorado	055	Huerfano County	1995	6.360
+08	Colorado	055	Huerfano County	2000	7.860
+08	Colorado	055	Huerfano County	2005	7.771
+08	Colorado	055	Huerfano County	2010	6.711
+08	Colorado	055	Huerfano County	2015	6.492
+08	Colorado	057	Jackson County	1985	1.640
+08	Colorado	057	Jackson County	1990	1.610
+08	Colorado	057	Jackson County	1995	1.540
+08	Colorado	057	Jackson County	2000	1.580
+08	Colorado	057	Jackson County	2005	1.448
+08	Colorado	057	Jackson County	2010	1.394
+08	Colorado	057	Jackson County	2015	1.356
+08	Colorado	059	Jefferson County	1985	415.100
+08	Colorado	059	Jefferson County	1990	438.430
+08	Colorado	059	Jefferson County	1995	484.870
+08	Colorado	059	Jefferson County	2000	527.060
+08	Colorado	059	Jefferson County	2005	526.801
+08	Colorado	059	Jefferson County	2010	534.543
+08	Colorado	059	Jefferson County	2015	565.524
+08	Colorado	061	Kiowa County	1985	1.890
+08	Colorado	061	Kiowa County	1990	1.690
+08	Colorado	061	Kiowa County	1995	1.630
+08	Colorado	061	Kiowa County	2000	1.620
+08	Colorado	061	Kiowa County	2005	1.422
+08	Colorado	061	Kiowa County	2010	1.398
+08	Colorado	061	Kiowa County	2015	1.423
+08	Colorado	063	Kit Carson County	1985	7.790
+08	Colorado	063	Kit Carson County	1990	7.140
+08	Colorado	063	Kit Carson County	1995	7.300
+08	Colorado	063	Kit Carson County	2000	8.010
+08	Colorado	063	Kit Carson County	2005	7.642
+08	Colorado	063	Kit Carson County	2010	8.270
+08	Colorado	063	Kit Carson County	2015	7.758
+08	Colorado	065	Lake County	1985	6.980
+08	Colorado	065	Lake County	1990	6.010
+08	Colorado	065	Lake County	1995	6.300
+08	Colorado	065	Lake County	2000	7.810
+08	Colorado	065	Lake County	2005	7.738
+08	Colorado	065	Lake County	2010	7.310
+08	Colorado	065	Lake County	2015	7.485
+08	Colorado	067	La Plata County	1985	30.840
+08	Colorado	067	La Plata County	1990	32.280
+08	Colorado	067	La Plata County	1995	38.310
+08	Colorado	067	La Plata County	2000	43.940
+08	Colorado	067	La Plata County	2005	47.452
+08	Colorado	067	La Plata County	2010	51.334
+08	Colorado	067	La Plata County	2015	54.688
+08	Colorado	069	Larimer County	1985	170.280
+08	Colorado	069	Larimer County	1990	186.140
+08	Colorado	069	Larimer County	1995	217.220
+08	Colorado	069	Larimer County	2000	251.490
+08	Colorado	069	Larimer County	2005	271.927
+08	Colorado	069	Larimer County	2010	299.630
+08	Colorado	069	Larimer County	2015	333.577
+08	Colorado	071	Las Animas County	1985	14.290
+08	Colorado	071	Las Animas County	1990	13.770
+08	Colorado	071	Las Animas County	1995	14.270
+08	Colorado	071	Las Animas County	2000	15.210
+08	Colorado	071	Las Animas County	2005	15.446
+08	Colorado	071	Las Animas County	2010	15.507
+08	Colorado	071	Las Animas County	2015	14.058
+08	Colorado	073	Lincoln County	1985	4.650
+08	Colorado	073	Lincoln County	1990	4.530
+08	Colorado	073	Lincoln County	1995	5.600
+08	Colorado	073	Lincoln County	2000	6.090
+08	Colorado	073	Lincoln County	2005	5.618
+08	Colorado	073	Lincoln County	2010	5.467
+08	Colorado	073	Lincoln County	2015	5.557
+08	Colorado	075	Logan County	1985	19.820
+08	Colorado	075	Logan County	1990	17.570
+08	Colorado	075	Logan County	1995	17.870
+08	Colorado	075	Logan County	2000	20.500
+08	Colorado	075	Logan County	2005	20.719
+08	Colorado	075	Logan County	2010	22.709
+08	Colorado	075	Logan County	2015	22.036
+08	Colorado	077	Mesa County	1985	88.580
+08	Colorado	077	Mesa County	1990	93.150
+08	Colorado	077	Mesa County	1995	106.550
+08	Colorado	077	Mesa County	2000	116.260
+08	Colorado	077	Mesa County	2005	129.872
+08	Colorado	077	Mesa County	2010	146.723
+08	Colorado	077	Mesa County	2015	148.513
+08	Colorado	079	Mineral County	1985	0.800
+08	Colorado	079	Mineral County	1990	0.560
+08	Colorado	079	Mineral County	1995	0.630
+08	Colorado	079	Mineral County	2000	0.830
+08	Colorado	079	Mineral County	2005	0.932
+08	Colorado	079	Mineral County	2010	0.712
+08	Colorado	079	Mineral County	2015	0.726
+08	Colorado	081	Moffat County	1985	12.610
+08	Colorado	081	Moffat County	1990	11.360
+08	Colorado	081	Moffat County	1995	12.140
+08	Colorado	081	Moffat County	2000	13.180
+08	Colorado	081	Moffat County	2005	13.417
+08	Colorado	081	Moffat County	2010	13.795
+08	Colorado	081	Moffat County	2015	12.937
+08	Colorado	083	Montezuma County	1985	18.030
+08	Colorado	083	Montezuma County	1990	18.670
+08	Colorado	083	Montezuma County	1995	21.590
+08	Colorado	083	Montezuma County	2000	23.830
+08	Colorado	083	Montezuma County	2005	24.778
+08	Colorado	083	Montezuma County	2010	25.535
+08	Colorado	083	Montezuma County	2015	26.168
+08	Colorado	085	Montrose County	1985	25.570
+08	Colorado	085	Montrose County	1990	24.420
+08	Colorado	085	Montrose County	1995	28.830
+08	Colorado	085	Montrose County	2000	33.430
+08	Colorado	085	Montrose County	2005	37.482
+08	Colorado	085	Montrose County	2010	41.276
+08	Colorado	085	Montrose County	2015	40.946
+08	Colorado	087	Morgan County	1985	22.830
+08	Colorado	087	Morgan County	1990	21.940
+08	Colorado	087	Morgan County	1995	23.730
+08	Colorado	087	Morgan County	2000	27.170
+08	Colorado	087	Morgan County	2005	27.995
+08	Colorado	087	Morgan County	2010	28.159
+08	Colorado	087	Morgan County	2015	28.360
+08	Colorado	089	Otero County	1985	22.210
+08	Colorado	089	Otero County	1990	20.190
+08	Colorado	089	Otero County	1995	20.790
+08	Colorado	089	Otero County	2000	20.310
+08	Colorado	089	Otero County	2005	19.495
+08	Colorado	089	Otero County	2010	18.831
+08	Colorado	089	Otero County	2015	18.343
+08	Colorado	091	Ouray County	1985	2.010
+08	Colorado	091	Ouray County	1990	2.300
+08	Colorado	091	Ouray County	1995	3.030
+08	Colorado	091	Ouray County	2000	3.740
+08	Colorado	091	Ouray County	2005	4.260
+08	Colorado	091	Ouray County	2010	4.436
+08	Colorado	091	Ouray County	2015	4.691
+08	Colorado	093	Park County	1985	6.060
+08	Colorado	093	Park County	1990	7.170
+08	Colorado	093	Park County	1995	10.590
+08	Colorado	093	Park County	2000	14.520
+08	Colorado	093	Park County	2005	16.949
+08	Colorado	093	Park County	2010	16.206
+08	Colorado	093	Park County	2015	16.510
+08	Colorado	095	Phillips County	1985	4.530
+08	Colorado	095	Phillips County	1990	4.190
+08	Colorado	095	Phillips County	1995	4.310
+08	Colorado	095	Phillips County	2000	4.480
+08	Colorado	095	Phillips County	2005	4.586
+08	Colorado	095	Phillips County	2010	4.442
+08	Colorado	095	Phillips County	2015	4.349
+08	Colorado	097	Pitkin County	1985	12.140
+08	Colorado	097	Pitkin County	1990	12.660
+08	Colorado	097	Pitkin County	1995	13.590
+08	Colorado	097	Pitkin County	2000	14.870
+08	Colorado	097	Pitkin County	2005	14.914
+08	Colorado	097	Pitkin County	2010	17.148
+08	Colorado	097	Pitkin County	2015	17.787
+08	Colorado	099	Prowers County	1985	14.140
+08	Colorado	099	Prowers County	1990	13.350
+08	Colorado	099	Prowers County	1995	13.590
+08	Colorado	099	Prowers County	2000	14.480
+08	Colorado	099	Prowers County	2005	13.892
+08	Colorado	099	Prowers County	2010	12.551
+08	Colorado	099	Prowers County	2015	11.954
+08	Colorado	101	Pueblo County	1985	127.020
+08	Colorado	101	Pueblo County	1990	123.050
+08	Colorado	101	Pueblo County	1995	129.760
+08	Colorado	101	Pueblo County	2000	141.470
+08	Colorado	101	Pueblo County	2005	151.322
+08	Colorado	101	Pueblo County	2010	159.063
+08	Colorado	101	Pueblo County	2015	163.591
+08	Colorado	103	Rio Blanco County	1985	6.020
+08	Colorado	103	Rio Blanco County	1990	5.970
+08	Colorado	103	Rio Blanco County	1995	6.470
+08	Colorado	103	Rio Blanco County	2000	5.990
+08	Colorado	103	Rio Blanco County	2005	5.973
+08	Colorado	103	Rio Blanco County	2010	6.666
+08	Colorado	103	Rio Blanco County	2015	6.571
+08	Colorado	105	Rio Grande County	1985	11.460
+08	Colorado	105	Rio Grande County	1990	10.770
+08	Colorado	105	Rio Grande County	1995	11.260
+08	Colorado	105	Rio Grande County	2000	12.410
+08	Colorado	105	Rio Grande County	2005	12.227
+08	Colorado	105	Rio Grande County	2010	11.982
+08	Colorado	105	Rio Grande County	2015	11.543
+08	Colorado	107	Routt County	1985	14.670
+08	Colorado	107	Routt County	1990	14.090
+08	Colorado	107	Routt County	1995	16.710
+08	Colorado	107	Routt County	2000	19.690
+08	Colorado	107	Routt County	2005	21.313
+08	Colorado	107	Routt County	2010	23.509
+08	Colorado	107	Routt County	2015	24.130
+08	Colorado	109	Saguache County	1985	3.950
+08	Colorado	109	Saguache County	1990	4.620
+08	Colorado	109	Saguache County	1995	5.510
+08	Colorado	109	Saguache County	2000	5.920
+08	Colorado	109	Saguache County	2005	7.031
+08	Colorado	109	Saguache County	2010	6.108
+08	Colorado	109	Saguache County	2015	6.251
+08	Colorado	111	San Juan County	1985	0.790
+08	Colorado	111	San Juan County	1990	0.750
+08	Colorado	111	San Juan County	1995	0.550
+08	Colorado	111	San Juan County	2000	0.560
+08	Colorado	111	San Juan County	2005	0.577
+08	Colorado	111	San Juan County	2010	0.699
+08	Colorado	111	San Juan County	2015	0.701
+08	Colorado	113	San Miguel County	1985	3.510
+08	Colorado	113	San Miguel County	1990	3.650
+08	Colorado	113	San Miguel County	1995	4.930
+08	Colorado	113	San Miguel County	2000	6.590
+08	Colorado	113	San Miguel County	2005	7.213
+08	Colorado	113	San Miguel County	2010	7.359
+08	Colorado	113	San Miguel County	2015	7.879
+08	Colorado	115	Sedgwick County	1985	3.120
+08	Colorado	115	Sedgwick County	1990	2.690
+08	Colorado	115	Sedgwick County	1995	2.610
+08	Colorado	115	Sedgwick County	2000	2.750
+08	Colorado	115	Sedgwick County	2005	2.529
+08	Colorado	115	Sedgwick County	2010	2.379
+08	Colorado	115	Sedgwick County	2015	2.399
+08	Colorado	117	Summit County	1985	13.670
+08	Colorado	117	Summit County	1990	12.880
+08	Colorado	117	Summit County	1995	17.200
+08	Colorado	117	Summit County	2000	23.550
+08	Colorado	117	Summit County	2005	24.892
+08	Colorado	117	Summit County	2010	27.994
+08	Colorado	117	Summit County	2015	30.257
+08	Colorado	119	Teller County	1985	10.630
+08	Colorado	119	Teller County	1990	12.470
+08	Colorado	119	Teller County	1995	17.480
+08	Colorado	119	Teller County	2000	20.560
+08	Colorado	119	Teller County	2005	21.918
+08	Colorado	119	Teller County	2010	23.350
+08	Colorado	119	Teller County	2015	23.385
+08	Colorado	121	Washington County	1985	5.350
+08	Colorado	121	Washington County	1990	4.810
+08	Colorado	121	Washington County	1995	4.690
+08	Colorado	121	Washington County	2000	4.930
+08	Colorado	121	Washington County	2005	4.633
+08	Colorado	121	Washington County	2010	4.814
+08	Colorado	121	Washington County	2015	4.864
+08	Colorado	123	Weld County	1985	136.580
+08	Colorado	123	Weld County	1990	131.820
+08	Colorado	123	Weld County	1995	148.010
+08	Colorado	123	Weld County	2000	180.940
+08	Colorado	123	Weld County	2005	228.943
+08	Colorado	123	Weld County	2010	252.825
+08	Colorado	123	Weld County	2015	285.174
+08	Colorado	125	Yuma County	1985	9.960
+08	Colorado	125	Yuma County	1990	8.950
+08	Colorado	125	Yuma County	1995	9.260
+08	Colorado	125	Yuma County	2000	9.840
+08	Colorado	125	Yuma County	2005	9.789
+08	Colorado	125	Yuma County	2010	10.043
+08	Colorado	125	Yuma County	2015	10.146

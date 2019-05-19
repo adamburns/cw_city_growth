@@ -1,0 +1,841 @@
+#
+# File created on 2019-05-18 23:23:33 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+29	Missouri	001	Adair County	1985	24.700
+29	Missouri	001	Adair County	1990	24.580
+29	Missouri	001	Adair County	1995	24.760
+29	Missouri	001	Adair County	2000	24.980
+29	Missouri	001	Adair County	2005	24.509
+29	Missouri	001	Adair County	2010	25.607
+29	Missouri	001	Adair County	2015	25.378
+29	Missouri	003	Andrew County	1985	14.900
+29	Missouri	003	Andrew County	1990	14.630
+29	Missouri	003	Andrew County	1995	15.200
+29	Missouri	003	Andrew County	2000	16.490
+29	Missouri	003	Andrew County	2005	16.899
+29	Missouri	003	Andrew County	2010	17.291
+29	Missouri	003	Andrew County	2015	17.296
+29	Missouri	005	Atchison County	1985	8.200
+29	Missouri	005	Atchison County	1990	7.460
+29	Missouri	005	Atchison County	1995	7.140
+29	Missouri	005	Atchison County	2000	6.430
+29	Missouri	005	Atchison County	2005	6.246
+29	Missouri	005	Atchison County	2010	5.685
+29	Missouri	005	Atchison County	2015	5.306
+29	Missouri	007	Audrain County	1985	25.600
+29	Missouri	007	Audrain County	1990	23.600
+29	Missouri	007	Audrain County	1995	23.590
+29	Missouri	007	Audrain County	2000	25.850
+29	Missouri	007	Audrain County	2005	25.759
+29	Missouri	007	Audrain County	2010	25.529
+29	Missouri	007	Audrain County	2015	26.096
+29	Missouri	009	Barry County	1985	26.000
+29	Missouri	009	Barry County	1990	27.550
+29	Missouri	009	Barry County	1995	31.380
+29	Missouri	009	Barry County	2000	34.010
+29	Missouri	009	Barry County	2005	35.599
+29	Missouri	009	Barry County	2010	35.597
+29	Missouri	009	Barry County	2015	35.829
+29	Missouri	011	Barton County	1985	11.500
+29	Missouri	011	Barton County	1990	11.310
+29	Missouri	011	Barton County	1995	11.740
+29	Missouri	011	Barton County	2000	12.540
+29	Missouri	011	Barton County	2005	13.057
+29	Missouri	011	Barton County	2010	12.402
+29	Missouri	011	Barton County	2015	11.880
+29	Missouri	013	Bates County	1985	15.900
+29	Missouri	013	Bates County	1990	15.020
+29	Missouri	013	Bates County	1995	15.420
+29	Missouri	013	Bates County	2000	16.650
+29	Missouri	013	Bates County	2005	17.027
+29	Missouri	013	Bates County	2010	17.049
+29	Missouri	013	Bates County	2015	16.446
+29	Missouri	015	Benton County	1985	12.800
+29	Missouri	015	Benton County	1990	13.860
+29	Missouri	015	Benton County	1995	15.490
+29	Missouri	015	Benton County	2000	17.180
+29	Missouri	015	Benton County	2005	18.854
+29	Missouri	015	Benton County	2010	19.056
+29	Missouri	015	Benton County	2015	18.670
+29	Missouri	017	Bollinger County	1985	10.500
+29	Missouri	017	Bollinger County	1990	10.620
+29	Missouri	017	Bollinger County	1995	11.250
+29	Missouri	017	Bollinger County	2000	12.030
+29	Missouri	017	Bollinger County	2005	12.325
+29	Missouri	017	Bollinger County	2010	12.363
+29	Missouri	017	Bollinger County	2015	12.182
+29	Missouri	019	Boone County	1985	105.600
+29	Missouri	019	Boone County	1990	112.380
+29	Missouri	019	Boone County	1995	123.740
+29	Missouri	019	Boone County	2000	135.450
+29	Missouri	019	Boone County	2005	143.326
+29	Missouri	019	Boone County	2010	162.642
+29	Missouri	019	Boone County	2015	174.974
+29	Missouri	021	Buchanan County	1985	85.800
+29	Missouri	021	Buchanan County	1990	83.080
+29	Missouri	021	Buchanan County	1995	82.480
+29	Missouri	021	Buchanan County	2000	86.000
+29	Missouri	021	Buchanan County	2005	84.904
+29	Missouri	021	Buchanan County	2010	89.201
+29	Missouri	021	Buchanan County	2015	89.100
+29	Missouri	023	Butler County	1985	38.500
+29	Missouri	023	Butler County	1990	38.760
+29	Missouri	023	Butler County	1995	40.270
+29	Missouri	023	Butler County	2000	40.870
+29	Missouri	023	Butler County	2005	41.338
+29	Missouri	023	Butler County	2010	42.794
+29	Missouri	023	Butler County	2015	42.951
+29	Missouri	025	Caldwell County	1985	8.200
+29	Missouri	025	Caldwell County	1990	8.380
+29	Missouri	025	Caldwell County	1995	8.570
+29	Missouri	025	Caldwell County	2000	8.970
+29	Missouri	025	Caldwell County	2005	9.307
+29	Missouri	025	Caldwell County	2010	9.424
+29	Missouri	025	Caldwell County	2015	9.014
+29	Missouri	027	Callaway County	1985	32.100
+29	Missouri	027	Callaway County	1990	32.810
+29	Missouri	027	Callaway County	1995	34.870
+29	Missouri	027	Callaway County	2000	40.770
+29	Missouri	027	Callaway County	2005	42.541
+29	Missouri	027	Callaway County	2010	44.332
+29	Missouri	027	Callaway County	2015	44.834
+29	Missouri	029	Camden County	1985	24.200
+29	Missouri	029	Camden County	1990	27.500
+29	Missouri	029	Camden County	1995	31.610
+29	Missouri	029	Camden County	2000	37.050
+29	Missouri	029	Camden County	2005	39.432
+29	Missouri	029	Camden County	2010	44.002
+29	Missouri	029	Camden County	2015	44.237
+29	Missouri	031	Cape Girardeau County	1985	60.700
+29	Missouri	031	Cape Girardeau County	1990	61.630
+29	Missouri	031	Cape Girardeau County	1995	65.310
+29	Missouri	031	Cape Girardeau County	2000	68.690
+29	Missouri	031	Cape Girardeau County	2005	71.161
+29	Missouri	031	Cape Girardeau County	2010	75.674
+29	Missouri	031	Cape Girardeau County	2015	78.572
+29	Missouri	033	Carroll County	1985	11.500
+29	Missouri	033	Carroll County	1990	10.750
+29	Missouri	033	Carroll County	1995	10.380
+29	Missouri	033	Carroll County	2000	10.290
+29	Missouri	033	Carroll County	2005	10.193
+29	Missouri	033	Carroll County	2010	9.295
+29	Missouri	033	Carroll County	2015	8.992
+29	Missouri	035	Carter County	1985	5.800
+29	Missouri	035	Carter County	1990	5.520
+29	Missouri	035	Carter County	1995	6.020
+29	Missouri	035	Carter County	2000	5.940
+29	Missouri	035	Carter County	2005	5.910
+29	Missouri	035	Carter County	2010	6.265
+29	Missouri	035	Carter County	2015	6.263
+29	Missouri	037	Cass County	1985	55.800
+29	Missouri	037	Cass County	1990	63.810
+29	Missouri	037	Cass County	1995	73.550
+29	Missouri	037	Cass County	2000	82.090
+29	Missouri	037	Cass County	2005	94.232
+29	Missouri	037	Cass County	2010	99.478
+29	Missouri	037	Cass County	2015	101.603
+29	Missouri	039	Cedar County	1985	12.200
+29	Missouri	039	Cedar County	1990	12.090
+29	Missouri	039	Cedar County	1995	12.890
+29	Missouri	039	Cedar County	2000	13.730
+29	Missouri	039	Cedar County	2005	14.160
+29	Missouri	039	Cedar County	2010	13.982
+29	Missouri	039	Cedar County	2015	13.934
+29	Missouri	041	Chariton County	1985	10.200
+29	Missouri	041	Chariton County	1990	9.200
+29	Missouri	041	Chariton County	1995	8.830
+29	Missouri	041	Chariton County	2000	8.440
+29	Missouri	041	Chariton County	2005	8.124
+29	Missouri	041	Chariton County	2010	7.831
+29	Missouri	041	Chariton County	2015	7.589
+29	Missouri	043	Christian County	1985	25.600
+29	Missouri	043	Christian County	1990	32.640
+29	Missouri	043	Christian County	1995	42.740
+29	Missouri	043	Christian County	2000	54.290
+29	Missouri	043	Christian County	2005	67.266
+29	Missouri	043	Christian County	2010	77.422
+29	Missouri	043	Christian County	2015	83.279
+29	Missouri	045	Clark County	1985	8.100
+29	Missouri	045	Clark County	1990	7.550
+29	Missouri	045	Clark County	1995	7.450
+29	Missouri	045	Clark County	2000	7.420
+29	Missouri	045	Clark County	2005	7.323
+29	Missouri	045	Clark County	2010	7.139
+29	Missouri	045	Clark County	2015	6.801
+29	Missouri	047	Clay County	1985	141.100
+29	Missouri	047	Clay County	1990	153.410
+29	Missouri	047	Clay County	1995	165.980
+29	Missouri	047	Clay County	2000	184.010
+29	Missouri	047	Clay County	2005	202.078
+29	Missouri	047	Clay County	2010	221.939
+29	Missouri	047	Clay County	2015	235.637
+29	Missouri	049	Clinton County	1985	16.200
+29	Missouri	049	Clinton County	1990	16.600
+29	Missouri	049	Clinton County	1995	17.810
+29	Missouri	049	Clinton County	2000	18.980
+29	Missouri	049	Clinton County	2005	20.715
+29	Missouri	049	Clinton County	2010	20.743
+29	Missouri	049	Clinton County	2015	20.609
+29	Missouri	051	Cole County	1985	61.400
+29	Missouri	051	Cole County	1990	63.580
+29	Missouri	051	Cole County	1995	67.640
+29	Missouri	051	Cole County	2000	71.400
+29	Missouri	051	Cole County	2005	72.757
+29	Missouri	051	Cole County	2010	75.990
+29	Missouri	051	Cole County	2015	76.720
+29	Missouri	053	Cooper County	1985	15.000
+29	Missouri	053	Cooper County	1990	14.840
+29	Missouri	053	Cooper County	1995	15.990
+29	Missouri	053	Cooper County	2000	16.670
+29	Missouri	053	Cooper County	2005	17.294
+29	Missouri	053	Cooper County	2010	17.601
+29	Missouri	053	Cooper County	2015	17.642
+29	Missouri	055	Crawford County	1985	19.100
+29	Missouri	055	Crawford County	1990	19.170
+29	Missouri	055	Crawford County	1995	21.330
+29	Missouri	055	Crawford County	2000	22.800
+29	Missouri	055	Crawford County	2005	23.932
+29	Missouri	055	Crawford County	2010	24.696
+29	Missouri	055	Crawford County	2015	24.526
+29	Missouri	057	Dade County	1985	7.600
+29	Missouri	057	Dade County	1990	7.450
+29	Missouri	057	Dade County	1995	8.010
+29	Missouri	057	Dade County	2000	7.920
+29	Missouri	057	Dade County	2005	7.830
+29	Missouri	057	Dade County	2010	7.883
+29	Missouri	057	Dade County	2015	7.595
+29	Missouri	059	Dallas County	1985	12.700
+29	Missouri	059	Dallas County	1990	12.650
+29	Missouri	059	Dallas County	1995	14.640
+29	Missouri	059	Dallas County	2000	15.660
+29	Missouri	059	Dallas County	2005	16.437
+29	Missouri	059	Dallas County	2010	16.777
+29	Missouri	059	Dallas County	2015	16.393
+29	Missouri	061	Daviess County	1985	8.600
+29	Missouri	061	Daviess County	1990	7.860
+29	Missouri	061	Daviess County	1995	7.900
+29	Missouri	061	Daviess County	2000	8.020
+29	Missouri	061	Daviess County	2005	8.121
+29	Missouri	061	Daviess County	2010	8.433
+29	Missouri	061	Daviess County	2015	8.253
+29	Missouri	063	De Kalb County	1985	8.200
+29	Missouri	063	De Kalb County	1990	9.970
+29	Missouri	063	De Kalb County	1995	10.550
+29	Missouri	063	De Kalb County	2000	11.600
+29	Missouri	063	De Kalb County	2005	12.342
+29	Missouri	063	De Kalb County	2010	12.892
+29	Missouri	063	De Kalb County	2015	12.687
+29	Missouri	065	Dent County	1985	14.500
+29	Missouri	065	Dent County	1990	13.700
+29	Missouri	065	Dent County	1995	14.160
+29	Missouri	065	Dent County	2000	14.930
+29	Missouri	065	Dent County	2005	15.083
+29	Missouri	065	Dent County	2010	15.657
+29	Missouri	065	Dent County	2015	15.593
+29	Missouri	067	Douglas County	1985	12.400
+29	Missouri	067	Douglas County	1990	11.880
+29	Missouri	067	Douglas County	1995	12.120
+29	Missouri	067	Douglas County	2000	13.080
+29	Missouri	067	Douglas County	2005	13.594
+29	Missouri	067	Douglas County	2010	13.684
+29	Missouri	067	Douglas County	2015	13.373
+29	Missouri	069	Dunklin County	1985	35.100
+29	Missouri	069	Dunklin County	1990	33.110
+29	Missouri	069	Dunklin County	1995	32.960
+29	Missouri	069	Dunklin County	2000	33.160
+29	Missouri	069	Dunklin County	2005	32.545
+29	Missouri	069	Dunklin County	2010	31.953
+29	Missouri	069	Dunklin County	2015	30.895
+29	Missouri	071	Franklin County	1985	76.400
+29	Missouri	071	Franklin County	1990	80.600
+29	Missouri	071	Franklin County	1995	87.770
+29	Missouri	071	Franklin County	2000	93.810
+29	Missouri	071	Franklin County	2005	99.090
+29	Missouri	071	Franklin County	2010	101.492
+29	Missouri	071	Franklin County	2015	102.426
+29	Missouri	073	Gasconade County	1985	13.500
+29	Missouri	073	Gasconade County	1990	14.010
+29	Missouri	073	Gasconade County	1995	14.530
+29	Missouri	073	Gasconade County	2000	15.340
+29	Missouri	073	Gasconade County	2005	15.745
+29	Missouri	073	Gasconade County	2010	15.222
+29	Missouri	073	Gasconade County	2015	14.858
+29	Missouri	075	Gentry County	1985	7.800
+29	Missouri	075	Gentry County	1990	6.850
+29	Missouri	075	Gentry County	1995	6.800
+29	Missouri	075	Gentry County	2000	6.860
+29	Missouri	075	Gentry County	2005	6.555
+29	Missouri	075	Gentry County	2010	6.738
+29	Missouri	075	Gentry County	2015	6.692
+29	Missouri	077	Greene County	1985	195.900
+29	Missouri	077	Greene County	1990	207.950
+29	Missouri	077	Greene County	1995	224.980
+29	Missouri	077	Greene County	2000	240.390
+29	Missouri	077	Greene County	2005	250.784
+29	Missouri	077	Greene County	2010	275.174
+29	Missouri	077	Greene County	2015	288.072
+29	Missouri	079	Grundy County	1985	11.400
+29	Missouri	079	Grundy County	1990	10.540
+29	Missouri	079	Grundy County	1995	10.420
+29	Missouri	079	Grundy County	2000	10.430
+29	Missouri	079	Grundy County	2005	10.327
+29	Missouri	079	Grundy County	2010	10.261
+29	Missouri	079	Grundy County	2015	10.097
+29	Missouri	081	Harrison County	1985	9.700
+29	Missouri	081	Harrison County	1990	8.470
+29	Missouri	081	Harrison County	1995	8.270
+29	Missouri	081	Harrison County	2000	8.850
+29	Missouri	081	Harrison County	2005	8.876
+29	Missouri	081	Harrison County	2010	8.957
+29	Missouri	081	Harrison County	2015	8.615
+29	Missouri	083	Henry County	1985	19.900
+29	Missouri	083	Henry County	1990	20.040
+29	Missouri	083	Henry County	1995	20.960
+29	Missouri	083	Henry County	2000	22.000
+29	Missouri	083	Henry County	2005	22.577
+29	Missouri	083	Henry County	2010	22.272
+29	Missouri	083	Henry County	2015	21.737
+29	Missouri	085	Hickory County	1985	7.000
+29	Missouri	085	Hickory County	1990	7.340
+29	Missouri	085	Hickory County	1995	8.310
+29	Missouri	085	Hickory County	2000	8.940
+29	Missouri	085	Hickory County	2005	9.271
+29	Missouri	085	Hickory County	2010	9.627
+29	Missouri	085	Hickory County	2015	9.201
+29	Missouri	087	Holt County	1985	6.600
+29	Missouri	087	Holt County	1990	6.030
+29	Missouri	087	Holt County	1995	5.660
+29	Missouri	087	Holt County	2000	5.350
+29	Missouri	087	Holt County	2005	5.081
+29	Missouri	087	Holt County	2010	4.912
+29	Missouri	087	Holt County	2015	4.484
+29	Missouri	089	Howard County	1985	9.800
+29	Missouri	089	Howard County	1990	9.630
+29	Missouri	089	Howard County	1995	9.660
+29	Missouri	089	Howard County	2000	10.210
+29	Missouri	089	Howard County	2005	9.957
+29	Missouri	089	Howard County	2010	10.144
+29	Missouri	089	Howard County	2015	10.139
+29	Missouri	091	Howell County	1985	29.900
+29	Missouri	091	Howell County	1990	31.450
+29	Missouri	091	Howell County	1995	34.510
+29	Missouri	091	Howell County	2000	37.240
+29	Missouri	091	Howell County	2005	38.400
+29	Missouri	091	Howell County	2010	40.400
+29	Missouri	091	Howell County	2015	40.117
+29	Missouri	093	Iron County	1985	11.100
+29	Missouri	093	Iron County	1990	10.730
+29	Missouri	093	Iron County	1995	10.890
+29	Missouri	093	Iron County	2000	10.700
+29	Missouri	093	Iron County	2005	10.273
+29	Missouri	093	Iron County	2010	10.630
+29	Missouri	093	Iron County	2015	10.125
+29	Missouri	095	Jackson County	1985	634.000
+29	Missouri	095	Jackson County	1990	633.230
+29	Missouri	095	Jackson County	1995	635.640
+29	Missouri	095	Jackson County	2000	654.880
+29	Missouri	095	Jackson County	2005	662.959
+29	Missouri	095	Jackson County	2010	674.158
+29	Missouri	095	Jackson County	2015	687.623
+29	Missouri	097	Jasper County	1985	88.800
+29	Missouri	097	Jasper County	1990	90.460
+29	Missouri	097	Jasper County	1995	96.280
+29	Missouri	097	Jasper County	2000	104.690
+29	Missouri	097	Jasper County	2005	110.624
+29	Missouri	097	Jasper County	2010	117.404
+29	Missouri	097	Jasper County	2015	118.596
+29	Missouri	099	Jefferson County	1985	160.900
+29	Missouri	099	Jefferson County	1990	171.380
+29	Missouri	099	Jefferson County	1995	186.440
+29	Missouri	099	Jefferson County	2000	198.100
+29	Missouri	099	Jefferson County	2005	213.669
+29	Missouri	099	Jefferson County	2010	218.733
+29	Missouri	099	Jefferson County	2015	224.124
+29	Missouri	101	Johnson County	1985	38.200
+29	Missouri	101	Johnson County	1990	42.510
+29	Missouri	101	Johnson County	1995	46.600
+29	Missouri	101	Johnson County	2000	48.260
+29	Missouri	101	Johnson County	2005	50.784
+29	Missouri	101	Johnson County	2010	52.595
+29	Missouri	101	Johnson County	2015	53.951
+29	Missouri	103	Knox County	1985	5.100
+29	Missouri	103	Knox County	1990	4.480
+29	Missouri	103	Knox County	1995	4.350
+29	Missouri	103	Knox County	2000	4.360
+29	Missouri	103	Knox County	2005	4.171
+29	Missouri	103	Knox County	2010	4.131
+29	Missouri	103	Knox County	2015	3.910
+29	Missouri	105	Laclede County	1985	26.200
+29	Missouri	105	Laclede County	1990	27.160
+29	Missouri	105	Laclede County	1995	29.110
+29	Missouri	105	Laclede County	2000	32.510
+29	Missouri	105	Laclede County	2005	34.492
+29	Missouri	105	Laclede County	2010	35.571
+29	Missouri	105	Laclede County	2015	35.473
+29	Missouri	107	Lafayette County	1985	30.400
+29	Missouri	107	Lafayette County	1990	31.110
+29	Missouri	107	Lafayette County	1995	32.190
+29	Missouri	107	Lafayette County	2000	32.960
+29	Missouri	107	Lafayette County	2005	33.108
+29	Missouri	107	Lafayette County	2010	33.381
+29	Missouri	107	Lafayette County	2015	32.701
+29	Missouri	109	Lawrence County	1985	30.200
+29	Missouri	109	Lawrence County	1990	30.240
+29	Missouri	109	Lawrence County	1995	31.700
+29	Missouri	109	Lawrence County	2000	35.200
+29	Missouri	109	Lawrence County	2005	37.127
+29	Missouri	109	Lawrence County	2010	38.634
+29	Missouri	109	Lawrence County	2015	38.180
+29	Missouri	111	Lewis County	1985	10.800
+29	Missouri	111	Lewis County	1990	10.230
+29	Missouri	111	Lewis County	1995	10.220
+29	Missouri	111	Lewis County	2000	10.490
+29	Missouri	111	Lewis County	2005	10.186
+29	Missouri	111	Lewis County	2010	10.211
+29	Missouri	111	Lewis County	2015	10.207
+29	Missouri	113	Lincoln County	1985	24.800
+29	Missouri	113	Lincoln County	1990	28.890
+29	Missouri	113	Lincoln County	1995	32.970
+29	Missouri	113	Lincoln County	2000	38.940
+29	Missouri	113	Lincoln County	2005	47.727
+29	Missouri	113	Lincoln County	2010	52.566
+29	Missouri	113	Lincoln County	2015	54.696
+29	Missouri	115	Linn County	1985	15.100
+29	Missouri	115	Linn County	1990	13.890
+29	Missouri	115	Linn County	1995	14.000
+29	Missouri	115	Linn County	2000	13.750
+29	Missouri	115	Linn County	2005	13.133
+29	Missouri	115	Linn County	2010	12.761
+29	Missouri	115	Linn County	2015	12.308
+29	Missouri	117	Livingston County	1985	15.200
+29	Missouri	117	Livingston County	1990	14.590
+29	Missouri	117	Livingston County	1995	14.350
+29	Missouri	117	Livingston County	2000	14.560
+29	Missouri	117	Livingston County	2005	14.291
+29	Missouri	117	Livingston County	2010	15.195
+29	Missouri	117	Livingston County	2015	15.028
+29	Missouri	119	McDonald County	1985	15.700
+29	Missouri	119	McDonald County	1990	16.940
+29	Missouri	119	McDonald County	1995	18.550
+29	Missouri	119	McDonald County	2000	21.680
+29	Missouri	119	McDonald County	2005	22.844
+29	Missouri	119	McDonald County	2010	23.083
+29	Missouri	119	McDonald County	2015	22.643
+29	Missouri	121	Macon County	1985	16.700
+29	Missouri	121	Macon County	1990	15.340
+29	Missouri	121	Macon County	1995	15.210
+29	Missouri	121	Macon County	2000	15.760
+29	Missouri	121	Macon County	2005	15.600
+29	Missouri	121	Macon County	2010	15.566
+29	Missouri	121	Macon County	2015	15.335
+29	Missouri	123	Madison County	1985	11.200
+29	Missouri	123	Madison County	1990	11.130
+29	Missouri	123	Madison County	1995	11.210
+29	Missouri	123	Madison County	2000	11.800
+29	Missouri	123	Madison County	2005	12.151
+29	Missouri	123	Madison County	2010	12.226
+29	Missouri	123	Madison County	2015	12.408
+29	Missouri	125	Maries County	1985	7.800
+29	Missouri	125	Maries County	1990	7.980
+29	Missouri	125	Maries County	1995	8.290
+29	Missouri	125	Maries County	2000	8.900
+29	Missouri	125	Maries County	2005	8.989
+29	Missouri	125	Maries County	2010	9.176
+29	Missouri	125	Maries County	2015	8.963
+29	Missouri	127	Marion County	1985	28.900
+29	Missouri	127	Marion County	1990	27.680
+29	Missouri	127	Marion County	1995	27.890
+29	Missouri	127	Marion County	2000	28.290
+29	Missouri	127	Marion County	2005	28.375
+29	Missouri	127	Marion County	2010	28.781
+29	Missouri	127	Marion County	2015	28.880
+29	Missouri	129	Mercer County	1985	4.300
+29	Missouri	129	Mercer County	1990	3.720
+29	Missouri	129	Mercer County	1995	4.090
+29	Missouri	129	Mercer County	2000	3.760
+29	Missouri	129	Mercer County	2005	3.595
+29	Missouri	129	Mercer County	2010	3.785
+29	Missouri	129	Mercer County	2015	3.694
+29	Missouri	131	Miller County	1985	20.700
+29	Missouri	131	Miller County	1990	20.700
+29	Missouri	131	Miller County	1995	21.970
+29	Missouri	131	Miller County	2000	23.560
+29	Missouri	131	Miller County	2005	24.712
+29	Missouri	131	Miller County	2010	24.748
+29	Missouri	131	Miller County	2015	25.113
+29	Missouri	133	Mississippi County	1985	15.600
+29	Missouri	133	Mississippi County	1990	14.440
+29	Missouri	133	Mississippi County	1995	13.820
+29	Missouri	133	Mississippi County	2000	13.430
+29	Missouri	133	Mississippi County	2005	13.599
+29	Missouri	133	Mississippi County	2010	14.358
+29	Missouri	133	Mississippi County	2015	14.036
+29	Missouri	135	Moniteau County	1985	12.800
+29	Missouri	135	Moniteau County	1990	12.300
+29	Missouri	135	Moniteau County	1995	12.980
+29	Missouri	135	Moniteau County	2000	14.830
+29	Missouri	135	Moniteau County	2005	15.084
+29	Missouri	135	Moniteau County	2010	15.607
+29	Missouri	135	Moniteau County	2015	15.963
+29	Missouri	137	Monroe County	1985	9.500
+29	Missouri	137	Monroe County	1990	9.100
+29	Missouri	137	Monroe County	1995	8.820
+29	Missouri	137	Monroe County	2000	9.310
+29	Missouri	137	Monroe County	2005	9.379
+29	Missouri	137	Monroe County	2010	8.840
+29	Missouri	137	Monroe County	2015	8.583
+29	Missouri	139	Montgomery County	1985	11.500
+29	Missouri	139	Montgomery County	1990	11.350
+29	Missouri	139	Montgomery County	1995	11.610
+29	Missouri	139	Montgomery County	2000	12.140
+29	Missouri	139	Montgomery County	2005	12.166
+29	Missouri	139	Montgomery County	2010	12.236
+29	Missouri	139	Montgomery County	2015	11.703
+29	Missouri	141	Morgan County	1985	15.300
+29	Missouri	141	Morgan County	1990	15.570
+29	Missouri	141	Morgan County	1995	17.180
+29	Missouri	141	Morgan County	2000	19.310
+29	Missouri	141	Morgan County	2005	20.436
+29	Missouri	141	Morgan County	2010	20.565
+29	Missouri	141	Morgan County	2015	20.171
+29	Missouri	143	New Madrid County	1985	22.000
+29	Missouri	143	New Madrid County	1990	20.930
+29	Missouri	143	New Madrid County	1995	20.710
+29	Missouri	143	New Madrid County	2000	19.760
+29	Missouri	143	New Madrid County	2005	18.566
+29	Missouri	143	New Madrid County	2010	18.956
+29	Missouri	143	New Madrid County	2015	18.208
+29	Missouri	145	Newton County	1985	44.000
+29	Missouri	145	Newton County	1990	44.440
+29	Missouri	145	Newton County	1995	47.530
+29	Missouri	145	Newton County	2000	52.640
+29	Missouri	145	Newton County	2005	55.554
+29	Missouri	145	Newton County	2010	58.114
+29	Missouri	145	Newton County	2015	58.615
+29	Missouri	147	Nodaway County	1985	21.700
+29	Missouri	147	Nodaway County	1990	21.710
+29	Missouri	147	Nodaway County	1995	21.100
+29	Missouri	147	Nodaway County	2000	21.910
+29	Missouri	147	Nodaway County	2005	21.710
+29	Missouri	147	Nodaway County	2010	23.370
+29	Missouri	147	Nodaway County	2015	22.810
+29	Missouri	149	Oregon County	1985	9.900
+29	Missouri	149	Oregon County	1990	9.470
+29	Missouri	149	Oregon County	1995	10.030
+29	Missouri	149	Oregon County	2000	10.340
+29	Missouri	149	Oregon County	2005	10.403
+29	Missouri	149	Oregon County	2010	10.881
+29	Missouri	149	Oregon County	2015	10.953
+29	Missouri	151	Osage County	1985	12.200
+29	Missouri	151	Osage County	1990	12.020
+29	Missouri	151	Osage County	1995	12.370
+29	Missouri	151	Osage County	2000	13.060
+29	Missouri	151	Osage County	2005	13.485
+29	Missouri	151	Osage County	2010	13.878
+29	Missouri	151	Osage County	2015	13.628
+29	Missouri	153	Ozark County	1985	8.700
+29	Missouri	153	Ozark County	1990	8.600
+29	Missouri	153	Ozark County	1995	9.520
+29	Missouri	153	Ozark County	2000	9.540
+29	Missouri	153	Ozark County	2005	9.490
+29	Missouri	153	Ozark County	2010	9.723
+29	Missouri	153	Ozark County	2015	9.409
+29	Missouri	155	Pemiscot County	1985	23.700
+29	Missouri	155	Pemiscot County	1990	21.920
+29	Missouri	155	Pemiscot County	1995	21.700
+29	Missouri	155	Pemiscot County	2000	20.050
+29	Missouri	155	Pemiscot County	2005	19.412
+29	Missouri	155	Pemiscot County	2010	18.296
+29	Missouri	155	Pemiscot County	2015	17.482
+29	Missouri	157	Perry County	1985	17.200
+29	Missouri	157	Perry County	1990	16.650
+29	Missouri	157	Perry County	1995	17.320
+29	Missouri	157	Perry County	2000	18.130
+29	Missouri	157	Perry County	2005	18.571
+29	Missouri	157	Perry County	2010	18.971
+29	Missouri	157	Perry County	2015	19.183
+29	Missouri	159	Pettis County	1985	36.100
+29	Missouri	159	Pettis County	1990	35.440
+29	Missouri	159	Pettis County	1995	36.640
+29	Missouri	159	Pettis County	2000	39.400
+29	Missouri	159	Pettis County	2005	40.121
+29	Missouri	159	Pettis County	2010	42.201
+29	Missouri	159	Pettis County	2015	42.255
+29	Missouri	161	Phelps County	1985	34.700
+29	Missouri	161	Phelps County	1990	35.250
+29	Missouri	161	Phelps County	1995	37.480
+29	Missouri	161	Phelps County	2000	39.830
+29	Missouri	161	Phelps County	2005	42.125
+29	Missouri	161	Phelps County	2010	45.156
+29	Missouri	161	Phelps County	2015	44.794
+29	Missouri	163	Pike County	1985	16.800
+29	Missouri	163	Pike County	1990	15.970
+29	Missouri	163	Pike County	1995	16.200
+29	Missouri	163	Pike County	2000	18.350
+29	Missouri	163	Pike County	2005	18.762
+29	Missouri	163	Pike County	2010	18.516
+29	Missouri	163	Pike County	2015	18.348
+29	Missouri	165	Platte County	1985	49.900
+29	Missouri	165	Platte County	1990	57.870
+29	Missouri	165	Platte County	1995	66.530
+29	Missouri	165	Platte County	2000	73.780
+29	Missouri	165	Platte County	2005	82.085
+29	Missouri	165	Platte County	2010	89.322
+29	Missouri	165	Platte County	2015	96.096
+29	Missouri	167	Polk County	1985	20.200
+29	Missouri	167	Polk County	1990	21.820
+29	Missouri	167	Polk County	1995	24.500
+29	Missouri	167	Polk County	2000	26.990
+29	Missouri	167	Polk County	2005	28.892
+29	Missouri	167	Polk County	2010	31.137
+29	Missouri	167	Polk County	2015	31.229
+29	Missouri	169	Pulaski County	1985	43.700
+29	Missouri	169	Pulaski County	1990	41.310
+29	Missouri	169	Pulaski County	1995	38.520
+29	Missouri	169	Pulaski County	2000	41.170
+29	Missouri	169	Pulaski County	2005	44.187
+29	Missouri	169	Pulaski County	2010	52.274
+29	Missouri	169	Pulaski County	2015	53.221
+29	Missouri	171	Putnam County	1985	5.600
+29	Missouri	171	Putnam County	1990	5.080
+29	Missouri	171	Putnam County	1995	5.090
+29	Missouri	171	Putnam County	2000	5.220
+29	Missouri	171	Putnam County	2005	5.168
+29	Missouri	171	Putnam County	2010	4.979
+29	Missouri	171	Putnam County	2015	4.858
+29	Missouri	173	Ralls County	1985	8.900
+29	Missouri	173	Ralls County	1990	8.480
+29	Missouri	173	Ralls County	1995	8.790
+29	Missouri	173	Ralls County	2000	9.630
+29	Missouri	173	Ralls County	2005	9.761
+29	Missouri	173	Ralls County	2010	10.167
+29	Missouri	173	Ralls County	2015	10.196
+29	Missouri	175	Randolph County	1985	26.100
+29	Missouri	175	Randolph County	1990	24.370
+29	Missouri	175	Randolph County	1995	23.920
+29	Missouri	175	Randolph County	2000	24.660
+29	Missouri	175	Randolph County	2005	25.336
+29	Missouri	175	Randolph County	2010	25.414
+29	Missouri	175	Randolph County	2015	25.104
+29	Missouri	177	Ray County	1985	22.000
+29	Missouri	177	Ray County	1990	21.970
+29	Missouri	177	Ray County	1995	22.370
+29	Missouri	177	Ray County	2000	23.350
+29	Missouri	177	Ray County	2005	24.101
+29	Missouri	177	Ray County	2010	23.494
+29	Missouri	177	Ray County	2015	22.810
+29	Missouri	179	Reynolds County	1985	6.900
+29	Missouri	179	Reynolds County	1990	6.660
+29	Missouri	179	Reynolds County	1995	6.730
+29	Missouri	179	Reynolds County	2000	6.690
+29	Missouri	179	Reynolds County	2005	6.585
+29	Missouri	179	Reynolds County	2010	6.696
+29	Missouri	179	Reynolds County	2015	6.432
+29	Missouri	181	Ripley County	1985	12.800
+29	Missouri	181	Ripley County	1990	12.300
+29	Missouri	181	Ripley County	1995	13.450
+29	Missouri	181	Ripley County	2000	13.510
+29	Missouri	181	Ripley County	2005	13.851
+29	Missouri	181	Ripley County	2010	14.100
+29	Missouri	181	Ripley County	2015	13.802
+29	Missouri	183	St. Charles County	1985	172.300
+29	Missouri	183	St. Charles County	1990	212.910
+29	Missouri	183	St. Charles County	1995	248.330
+29	Missouri	183	St. Charles County	2000	283.880
+29	Missouri	183	St. Charles County	2005	329.940
+29	Missouri	183	St. Charles County	2010	360.485
+29	Missouri	183	St. Charles County	2015	385.590
+29	Missouri	185	St. Clair County	1985	8.400
+29	Missouri	185	St. Clair County	1990	8.460
+29	Missouri	185	St. Clair County	1995	8.880
+29	Missouri	185	St. Clair County	2000	9.650
+29	Missouri	185	St. Clair County	2005	9.686
+29	Missouri	185	St. Clair County	2010	9.805
+29	Missouri	185	St. Clair County	2015	9.440
+29	Missouri	186	Ste. Genevieve County	1985	15.500
+29	Missouri	186	Ste. Genevieve County	1990	16.040
+29	Missouri	186	Ste. Genevieve County	1995	16.640
+29	Missouri	186	Ste. Genevieve County	2000	17.840
+29	Missouri	186	Ste. Genevieve County	2005	18.198
+29	Missouri	186	Ste. Genevieve County	2010	18.145
+29	Missouri	186	Ste. Genevieve County	2015	17.919
+29	Missouri	187	St. Francois County	1985	44.000
+29	Missouri	187	St. Francois County	1990	48.900
+29	Missouri	187	St. Francois County	1995	53.250
+29	Missouri	187	St. Francois County	2000	55.640
+29	Missouri	187	St. Francois County	2005	61.661
+29	Missouri	187	St. Francois County	2010	65.359
+29	Missouri	187	St. Francois County	2015	66.520
+29	Missouri	189	St. Louis County	1985	989.500
+29	Missouri	189	St. Louis County	1990	993.530
+29	Missouri	189	St. Louis County	1995	1007.830
+29	Missouri	189	St. Louis County	2000	1016.310
+29	Missouri	189	St. Louis County	2005	1004.666
+29	Missouri	189	St. Louis County	2010	998.954
+29	Missouri	189	St. Louis County	2015	1003.362
+29	Missouri	195	Saline County	1985	24.600
+29	Missouri	195	Saline County	1990	23.520
+29	Missouri	195	Saline County	1995	23.020
+29	Missouri	195	Saline County	2000	23.760
+29	Missouri	195	Saline County	2005	23.075
+29	Missouri	195	Saline County	2010	23.370
+29	Missouri	195	Saline County	2015	23.258
+29	Missouri	197	Schuyler County	1985	4.600
+29	Missouri	197	Schuyler County	1990	4.240
+29	Missouri	197	Schuyler County	1995	4.330
+29	Missouri	197	Schuyler County	2000	4.170
+29	Missouri	197	Schuyler County	2005	4.308
+29	Missouri	197	Schuyler County	2010	4.431
+29	Missouri	197	Schuyler County	2015	4.436
+29	Missouri	199	Scotland County	1985	5.200
+29	Missouri	199	Scotland County	1990	4.820
+29	Missouri	199	Scotland County	1995	4.850
+29	Missouri	199	Scotland County	2000	4.980
+29	Missouri	199	Scotland County	2005	4.928
+29	Missouri	199	Scotland County	2010	4.843
+29	Missouri	199	Scotland County	2015	4.854
+29	Missouri	201	Scott County	1985	40.100
+29	Missouri	201	Scott County	1990	39.380
+29	Missouri	201	Scott County	1995	40.300
+29	Missouri	201	Scott County	2000	40.420
+29	Missouri	201	Scott County	2005	41.143
+29	Missouri	201	Scott County	2010	39.191
+29	Missouri	201	Scott County	2015	39.008
+29	Missouri	203	Shannon County	1985	8.000
+29	Missouri	203	Shannon County	1990	7.610
+29	Missouri	203	Shannon County	1995	8.070
+29	Missouri	203	Shannon County	2000	8.320
+29	Missouri	203	Shannon County	2005	8.367
+29	Missouri	203	Shannon County	2010	8.441
+29	Missouri	203	Shannon County	2015	8.258
+29	Missouri	205	Shelby County	1985	7.500
+29	Missouri	205	Shelby County	1990	6.940
+29	Missouri	205	Shelby County	1995	6.880
+29	Missouri	205	Shelby County	2000	6.800
+29	Missouri	205	Shelby County	2005	6.744
+29	Missouri	205	Shelby County	2010	6.373
+29	Missouri	205	Shelby County	2015	6.128
+29	Missouri	207	Stoddard County	1985	28.700
+29	Missouri	207	Stoddard County	1990	28.900
+29	Missouri	207	Stoddard County	1995	29.570
+29	Missouri	207	Stoddard County	2000	29.710
+29	Missouri	207	Stoddard County	2005	29.714
+29	Missouri	207	Stoddard County	2010	29.968
+29	Missouri	207	Stoddard County	2015	29.862
+29	Missouri	209	Stone County	1985	17.600
+29	Missouri	209	Stone County	1990	19.080
+29	Missouri	209	Stone County	1995	25.080
+29	Missouri	209	Stone County	2000	28.660
+29	Missouri	209	Stone County	2005	30.931
+29	Missouri	209	Stone County	2010	32.202
+29	Missouri	209	Stone County	2015	30.943
+29	Missouri	211	Sullivan County	1985	7.100
+29	Missouri	211	Sullivan County	1990	6.320
+29	Missouri	211	Sullivan County	1995	6.550
+29	Missouri	211	Sullivan County	2000	7.220
+29	Missouri	211	Sullivan County	2005	6.907
+29	Missouri	211	Sullivan County	2010	6.714
+29	Missouri	211	Sullivan County	2015	6.353
+29	Missouri	213	Taney County	1985	24.300
+29	Missouri	213	Taney County	1990	25.560
+29	Missouri	213	Taney County	1995	32.260
+29	Missouri	213	Taney County	2000	39.700
+29	Missouri	213	Taney County	2005	42.985
+29	Missouri	213	Taney County	2010	51.675
+29	Missouri	213	Taney County	2015	54.592
+29	Missouri	215	Texas County	1985	21.600
+29	Missouri	215	Texas County	1990	21.480
+29	Missouri	215	Texas County	1995	22.190
+29	Missouri	215	Texas County	2000	23.000
+29	Missouri	215	Texas County	2005	24.614
+29	Missouri	215	Texas County	2010	26.008
+29	Missouri	215	Texas County	2015	25.690
+29	Missouri	217	Vernon County	1985	19.700
+29	Missouri	217	Vernon County	1990	19.040
+29	Missouri	217	Vernon County	1995	19.300
+29	Missouri	217	Vernon County	2000	20.450
+29	Missouri	217	Vernon County	2005	20.441
+29	Missouri	217	Vernon County	2010	21.159
+29	Missouri	217	Vernon County	2015	20.826
+29	Missouri	219	Warren County	1985	17.500
+29	Missouri	219	Warren County	1990	19.530
+29	Missouri	219	Warren County	1995	22.570
+29	Missouri	219	Warren County	2000	24.530
+29	Missouri	219	Warren County	2005	28.764
+29	Missouri	219	Warren County	2010	32.513
+29	Missouri	219	Warren County	2015	33.513
+29	Missouri	221	Washington County	1985	18.800
+29	Missouri	221	Washington County	1990	20.380
+29	Missouri	221	Washington County	1995	21.910
+29	Missouri	221	Washington County	2000	23.340
+29	Missouri	221	Washington County	2005	24.032
+29	Missouri	221	Washington County	2010	25.195
+29	Missouri	221	Washington County	2015	24.788
+29	Missouri	223	Wayne County	1985	11.800
+29	Missouri	223	Wayne County	1990	11.540
+29	Missouri	223	Wayne County	1995	12.650
+29	Missouri	223	Wayne County	2000	13.260
+29	Missouri	223	Wayne County	2005	13.097
+29	Missouri	223	Wayne County	2010	13.521
+29	Missouri	223	Wayne County	2015	13.405
+29	Missouri	225	Webster County	1985	22.200
+29	Missouri	225	Webster County	1990	23.750
+29	Missouri	225	Webster County	1995	26.810
+29	Missouri	225	Webster County	2000	31.050
+29	Missouri	225	Webster County	2005	34.745
+29	Missouri	225	Webster County	2010	36.202
+29	Missouri	225	Webster County	2015	37.483
+29	Missouri	227	Worth County	1985	2.800
+29	Missouri	227	Worth County	1990	2.440
+29	Missouri	227	Worth County	1995	2.350
+29	Missouri	227	Worth County	2000	2.380
+29	Missouri	227	Worth County	2005	2.174
+29	Missouri	227	Worth County	2010	2.171
+29	Missouri	227	Worth County	2015	2.057
+29	Missouri	229	Wright County	1985	16.600
+29	Missouri	229	Wright County	1990	16.760
+29	Missouri	229	Wright County	1995	18.700
+29	Missouri	229	Wright County	2000	17.960
+29	Missouri	229	Wright County	2005	18.306
+29	Missouri	229	Wright County	2010	18.815
+29	Missouri	229	Wright County	2015	18.268
+29	Missouri	510	St. Louis City	1985	422.600
+29	Missouri	510	St. Louis City	1990	396.680
+29	Missouri	510	St. Louis City	1995	358.700
+29	Missouri	510	St. Louis City	2000	348.190
+29	Missouri	510	St. Louis City	2005	344.362
+29	Missouri	510	St. Louis City	2010	319.294
+29	Missouri	510	St. Louis City	2015	315.685

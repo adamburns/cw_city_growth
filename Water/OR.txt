@@ -1,0 +1,288 @@
+#
+# File created on 2019-05-18 23:23:44 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+41	Oregon	001	Baker County	1985	15.600
+41	Oregon	001	Baker County	1990	15.320
+41	Oregon	001	Baker County	1995	16.470
+41	Oregon	001	Baker County	2000	16.740
+41	Oregon	001	Baker County	2005	16.287
+41	Oregon	001	Baker County	2010	16.134
+41	Oregon	001	Baker County	2015	16.005
+41	Oregon	003	Benton County	1985	69.100
+41	Oregon	003	Benton County	1990	70.810
+41	Oregon	003	Benton County	1995	75.230
+41	Oregon	003	Benton County	2000	78.150
+41	Oregon	003	Benton County	2005	78.640
+41	Oregon	003	Benton County	2010	85.579
+41	Oregon	003	Benton County	2015	87.572
+41	Oregon	005	Clackamas County	1985	248.200
+41	Oregon	005	Clackamas County	1990	278.850
+41	Oregon	005	Clackamas County	1995	316.420
+41	Oregon	005	Clackamas County	2000	338.390
+41	Oregon	005	Clackamas County	2005	368.470
+41	Oregon	005	Clackamas County	2010	375.992
+41	Oregon	005	Clackamas County	2015	401.515
+41	Oregon	007	Clatsop County	1985	32.900
+41	Oregon	007	Clatsop County	1990	33.300
+41	Oregon	007	Clatsop County	1995	35.370
+41	Oregon	007	Clatsop County	2000	35.630
+41	Oregon	007	Clatsop County	2005	36.798
+41	Oregon	007	Clatsop County	2010	37.039
+41	Oregon	007	Clatsop County	2015	37.831
+41	Oregon	009	Columbia County	1985	36.100
+41	Oregon	009	Columbia County	1990	37.560
+41	Oregon	009	Columbia County	1995	41.810
+41	Oregon	009	Columbia County	2000	43.560
+41	Oregon	009	Columbia County	2005	48.065
+41	Oregon	009	Columbia County	2010	49.351
+41	Oregon	009	Columbia County	2015	49.600
+41	Oregon	011	Coos County	1985	60.150
+41	Oregon	011	Coos County	1990	60.270
+41	Oregon	011	Coos County	1995	62.820
+41	Oregon	011	Coos County	2000	62.780
+41	Oregon	011	Coos County	2005	64.711
+41	Oregon	011	Coos County	2010	63.043
+41	Oregon	011	Coos County	2015	63.121
+41	Oregon	013	Crook County	1985	13.400
+41	Oregon	013	Crook County	1990	14.110
+41	Oregon	013	Crook County	1995	16.380
+41	Oregon	013	Crook County	2000	19.180
+41	Oregon	013	Crook County	2005	22.067
+41	Oregon	013	Crook County	2010	20.978
+41	Oregon	013	Crook County	2015	21.630
+41	Oregon	015	Curry County	1985	16.900
+41	Oregon	015	Curry County	1990	19.330
+41	Oregon	015	Curry County	1995	21.240
+41	Oregon	015	Curry County	2000	21.140
+41	Oregon	015	Curry County	2005	22.427
+41	Oregon	015	Curry County	2010	22.364
+41	Oregon	015	Curry County	2015	22.483
+41	Oregon	017	Deschutes County	1985	65.400
+41	Oregon	017	Deschutes County	1990	74.960
+41	Oregon	017	Deschutes County	1995	94.970
+41	Oregon	017	Deschutes County	2000	115.370
+41	Oregon	017	Deschutes County	2005	141.382
+41	Oregon	017	Deschutes County	2010	157.733
+41	Oregon	017	Deschutes County	2015	175.268
+41	Oregon	019	Douglas County	1985	92.150
+41	Oregon	019	Douglas County	1990	94.650
+41	Oregon	019	Douglas County	1995	99.900
+41	Oregon	019	Douglas County	2000	100.400
+41	Oregon	019	Douglas County	2005	104.202
+41	Oregon	019	Douglas County	2010	107.667
+41	Oregon	019	Douglas County	2015	107.685
+41	Oregon	021	Gilliam County	1985	1.900
+41	Oregon	021	Gilliam County	1990	1.710
+41	Oregon	021	Gilliam County	1995	1.860
+41	Oregon	021	Gilliam County	2000	1.920
+41	Oregon	021	Gilliam County	2005	1.794
+41	Oregon	021	Gilliam County	2010	1.871
+41	Oregon	021	Gilliam County	2015	1.859
+41	Oregon	023	Grant County	1985	8.230
+41	Oregon	023	Grant County	1990	7.850
+41	Oregon	023	Grant County	1995	7.970
+41	Oregon	023	Grant County	2000	7.940
+41	Oregon	023	Grant County	2005	7.297
+41	Oregon	023	Grant County	2010	7.445
+41	Oregon	023	Grant County	2015	7.185
+41	Oregon	025	Harney County	1985	7.350
+41	Oregon	025	Harney County	1990	7.060
+41	Oregon	025	Harney County	1995	7.070
+41	Oregon	025	Harney County	2000	7.610
+41	Oregon	025	Harney County	2005	6.898
+41	Oregon	025	Harney County	2010	7.422
+41	Oregon	025	Harney County	2015	7.200
+41	Oregon	027	Hood River County	1985	16.350
+41	Oregon	027	Hood River County	1990	16.900
+41	Oregon	027	Hood River County	1995	18.590
+41	Oregon	027	Hood River County	2000	20.410
+41	Oregon	027	Hood River County	2005	21.284
+41	Oregon	027	Hood River County	2010	22.346
+41	Oregon	027	Hood River County	2015	23.137
+41	Oregon	029	Jackson County	1985	137.900
+41	Oregon	029	Jackson County	1990	146.390
+41	Oregon	029	Jackson County	1995	166.060
+41	Oregon	029	Jackson County	2000	181.270
+41	Oregon	029	Jackson County	2005	195.322
+41	Oregon	029	Jackson County	2010	203.206
+41	Oregon	029	Jackson County	2015	212.567
+41	Oregon	031	Jefferson County	1985	12.150
+41	Oregon	031	Jefferson County	1990	13.680
+41	Oregon	031	Jefferson County	1995	15.970
+41	Oregon	031	Jefferson County	2000	19.010
+41	Oregon	031	Jefferson County	2005	20.100
+41	Oregon	031	Jefferson County	2010	21.720
+41	Oregon	031	Jefferson County	2015	22.666
+41	Oregon	033	Josephine County	1985	61.500
+41	Oregon	033	Josephine County	1990	62.650
+41	Oregon	033	Josephine County	1995	71.330
+41	Oregon	033	Josephine County	2000	75.730
+41	Oregon	033	Josephine County	2005	80.761
+41	Oregon	033	Josephine County	2010	82.713
+41	Oregon	033	Josephine County	2015	84.745
+41	Oregon	035	Klamath County	1985	57.550
+41	Oregon	035	Klamath County	1990	57.700
+41	Oregon	035	Klamath County	1995	61.040
+41	Oregon	035	Klamath County	2000	63.780
+41	Oregon	035	Klamath County	2005	66.192
+41	Oregon	035	Klamath County	2010	66.380
+41	Oregon	035	Klamath County	2015	66.016
+41	Oregon	037	Lake County	1985	7.450
+41	Oregon	037	Lake County	1990	7.190
+41	Oregon	037	Lake County	1995	7.420
+41	Oregon	037	Lake County	2000	7.420
+41	Oregon	037	Lake County	2005	7.313
+41	Oregon	037	Lake County	2010	7.895
+41	Oregon	037	Lake County	2015	7.829
+41	Oregon	039	Lane County	1985	269.500
+41	Oregon	039	Lane County	1990	282.910
+41	Oregon	039	Lane County	1995	303.420
+41	Oregon	039	Lane County	2000	322.960
+41	Oregon	039	Lane County	2005	335.180
+41	Oregon	039	Lane County	2010	351.715
+41	Oregon	039	Lane County	2015	362.895
+41	Oregon	041	Lincoln County	1985	37.230
+41	Oregon	041	Lincoln County	1990	38.890
+41	Oregon	041	Lincoln County	1995	44.340
+41	Oregon	041	Lincoln County	2000	44.480
+41	Oregon	041	Lincoln County	2005	45.994
+41	Oregon	041	Lincoln County	2010	46.034
+41	Oregon	041	Lincoln County	2015	47.038
+41	Oregon	043	Linn County	1985	89.000
+41	Oregon	043	Linn County	1990	91.230
+41	Oregon	043	Linn County	1995	100.130
+41	Oregon	043	Linn County	2000	103.070
+41	Oregon	043	Linn County	2005	108.914
+41	Oregon	043	Linn County	2010	116.672
+41	Oregon	043	Linn County	2015	120.547
+41	Oregon	045	Malheur County	1985	28.000
+41	Oregon	045	Malheur County	1990	26.040
+41	Oregon	045	Malheur County	1995	27.860
+41	Oregon	045	Malheur County	2000	31.620
+41	Oregon	045	Malheur County	2005	31.330
+41	Oregon	045	Malheur County	2010	31.313
+41	Oregon	045	Malheur County	2015	30.380
+41	Oregon	047	Marion County	1985	213.750
+41	Oregon	047	Marion County	1990	228.480
+41	Oregon	047	Marion County	1995	255.040
+41	Oregon	047	Marion County	2000	284.830
+41	Oregon	047	Marion County	2005	305.265
+41	Oregon	047	Marion County	2010	315.335
+41	Oregon	047	Marion County	2015	330.700
+41	Oregon	049	Morrow County	1985	7.570
+41	Oregon	049	Morrow County	1990	7.620
+41	Oregon	049	Morrow County	1995	8.920
+41	Oregon	049	Morrow County	2000	10.990
+41	Oregon	049	Morrow County	2005	11.666
+41	Oregon	049	Morrow County	2010	11.173
+41	Oregon	049	Morrow County	2015	11.190
+41	Oregon	051	Multnomah County	1985	561.800
+41	Oregon	051	Multnomah County	1990	583.890
+41	Oregon	051	Multnomah County	1995	614.100
+41	Oregon	051	Multnomah County	2000	660.490
+41	Oregon	051	Multnomah County	2005	672.906
+41	Oregon	051	Multnomah County	2010	735.334
+41	Oregon	051	Multnomah County	2015	790.294
+41	Oregon	053	Polk County	1985	44.300
+41	Oregon	053	Polk County	1990	49.540
+41	Oregon	053	Polk County	1995	56.670
+41	Oregon	053	Polk County	2000	62.380
+41	Oregon	053	Polk County	2005	70.295
+41	Oregon	053	Polk County	2010	75.403
+41	Oregon	053	Polk County	2015	79.391
+41	Oregon	055	Sherman County	1985	2.070
+41	Oregon	055	Sherman County	1990	1.920
+41	Oregon	055	Sherman County	1995	1.880
+41	Oregon	055	Sherman County	2000	1.930
+41	Oregon	055	Sherman County	2005	1.749
+41	Oregon	055	Sherman County	2010	1.765
+41	Oregon	055	Sherman County	2015	1.680
+41	Oregon	057	Tillamook County	1985	21.500
+41	Oregon	057	Tillamook County	1990	21.570
+41	Oregon	057	Tillamook County	1995	23.760
+41	Oregon	057	Tillamook County	2000	24.260
+41	Oregon	057	Tillamook County	2005	25.277
+41	Oregon	057	Tillamook County	2010	25.250
+41	Oregon	057	Tillamook County	2015	25.653
+41	Oregon	059	Umatilla County	1985	60.000
+41	Oregon	059	Umatilla County	1990	59.240
+41	Oregon	059	Umatilla County	1995	64.040
+41	Oregon	059	Umatilla County	2000	70.550
+41	Oregon	059	Umatilla County	2005	73.878
+41	Oregon	059	Umatilla County	2010	75.889
+41	Oregon	059	Umatilla County	2015	76.531
+41	Oregon	061	Union County	1985	24.350
+41	Oregon	061	Union County	1990	23.600
+41	Oregon	061	Union County	1995	24.940
+41	Oregon	061	Union County	2000	24.530
+41	Oregon	061	Union County	2005	24.540
+41	Oregon	061	Union County	2010	25.748
+41	Oregon	061	Union County	2015	25.790
+41	Oregon	063	Wallowa County	1985	7.420
+41	Oregon	063	Wallowa County	1990	6.910
+41	Oregon	063	Wallowa County	1995	7.530
+41	Oregon	063	Wallowa County	2000	7.230
+41	Oregon	063	Wallowa County	2005	7.014
+41	Oregon	063	Wallowa County	2010	7.008
+41	Oregon	063	Wallowa County	2015	6.856
+41	Oregon	065	Wasco County	1985	22.000
+41	Oregon	065	Wasco County	1990	21.680
+41	Oregon	065	Wasco County	1995	22.730
+41	Oregon	065	Wasco County	2000	23.790
+41	Oregon	065	Wasco County	2005	23.593
+41	Oregon	065	Wasco County	2010	25.213
+41	Oregon	065	Wasco County	2015	25.775
+41	Oregon	067	Washington County	1985	268.000
+41	Oregon	067	Washington County	1990	311.550
+41	Oregon	067	Washington County	1995	370.190
+41	Oregon	067	Washington County	2000	445.340
+41	Oregon	067	Washington County	2005	499.794
+41	Oregon	067	Washington County	2010	529.710
+41	Oregon	067	Washington County	2015	574.326
+41	Oregon	069	Wheeler County	1985	1.430
+41	Oregon	069	Wheeler County	1990	1.400
+41	Oregon	069	Wheeler County	1995	1.540
+41	Oregon	069	Wheeler County	2000	1.580
+41	Oregon	069	Wheeler County	2005	1.455
+41	Oregon	069	Wheeler County	2010	1.441
+41	Oregon	069	Wheeler County	2015	1.358
+41	Oregon	071	Yamhill County	1985	57.600
+41	Oregon	071	Yamhill County	1990	65.550
+41	Oregon	071	Yamhill County	1995	75.440
+41	Oregon	071	Yamhill County	2000	84.990
+41	Oregon	071	Yamhill County	2005	92.196
+41	Oregon	071	Yamhill County	2010	99.193
+41	Oregon	071	Yamhill County	2015	102.659

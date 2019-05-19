@@ -1,0 +1,358 @@
+#
+# File created on 2019-05-18 23:23:47 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+45	South Carolina	001	Abbeville County	1985	22.700
+45	South Carolina	001	Abbeville County	1990	23.860
+45	South Carolina	001	Abbeville County	1995	24.260
+45	South Carolina	001	Abbeville County	2000	26.167
+45	South Carolina	001	Abbeville County	2005	26.133
+45	South Carolina	001	Abbeville County	2010	25.417
+45	South Carolina	001	Abbeville County	2015	24.932
+45	South Carolina	003	Aiken County	1985	116.000
+45	South Carolina	003	Aiken County	1990	120.940
+45	South Carolina	003	Aiken County	1995	133.060
+45	South Carolina	003	Aiken County	2000	142.552
+45	South Carolina	003	Aiken County	2005	150.181
+45	South Carolina	003	Aiken County	2010	160.099
+45	South Carolina	003	Aiken County	2015	165.829
+45	South Carolina	005	Allendale County	1985	10.400
+45	South Carolina	005	Allendale County	1990	11.720
+45	South Carolina	005	Allendale County	1995	11.580
+45	South Carolina	005	Allendale County	2000	11.211
+45	South Carolina	005	Allendale County	2005	10.917
+45	South Carolina	005	Allendale County	2010	10.419
+45	South Carolina	005	Allendale County	2015	9.433
+45	South Carolina	007	Anderson County	1985	139.600
+45	South Carolina	007	Anderson County	1990	145.190
+45	South Carolina	007	Anderson County	1995	154.480
+45	South Carolina	007	Anderson County	2000	165.740
+45	South Carolina	007	Anderson County	2005	175.514
+45	South Carolina	007	Anderson County	2010	187.126
+45	South Carolina	007	Anderson County	2015	194.692
+45	South Carolina	009	Bamberg County	1985	18.400
+45	South Carolina	009	Bamberg County	1990	16.900
+45	South Carolina	009	Bamberg County	1995	16.700
+45	South Carolina	009	Bamberg County	2000	16.658
+45	South Carolina	009	Bamberg County	2005	15.880
+45	South Carolina	009	Bamberg County	2010	15.987
+45	South Carolina	009	Bamberg County	2015	14.880
+45	South Carolina	011	Barnwell County	1985	20.500
+45	South Carolina	011	Barnwell County	1990	20.290
+45	South Carolina	011	Barnwell County	1995	21.480
+45	South Carolina	011	Barnwell County	2000	23.478
+45	South Carolina	011	Barnwell County	2005	23.345
+45	South Carolina	011	Barnwell County	2010	22.621
+45	South Carolina	011	Barnwell County	2015	21.725
+45	South Carolina	013	Beaufort County	1985	83.800
+45	South Carolina	013	Beaufort County	1990	86.420
+45	South Carolina	013	Beaufort County	1995	99.840
+45	South Carolina	013	Beaufort County	2000	120.937
+45	South Carolina	013	Beaufort County	2005	137.849
+45	South Carolina	013	Beaufort County	2010	162.233
+45	South Carolina	013	Beaufort County	2015	179.589
+45	South Carolina	015	Berkeley County	1985	119.500
+45	South Carolina	015	Berkeley County	1990	128.770
+45	South Carolina	015	Berkeley County	1995	135.340
+45	South Carolina	015	Berkeley County	2000	142.651
+45	South Carolina	015	Berkeley County	2005	151.673
+45	South Carolina	015	Berkeley County	2010	177.843
+45	South Carolina	015	Berkeley County	2015	202.786
+45	South Carolina	017	Calhoun County	1985	11.900
+45	South Carolina	017	Calhoun County	1990	12.750
+45	South Carolina	017	Calhoun County	1995	13.370
+45	South Carolina	017	Calhoun County	2000	15.185
+45	South Carolina	017	Calhoun County	2005	15.100
+45	South Carolina	017	Calhoun County	2010	15.175
+45	South Carolina	017	Calhoun County	2015	14.781
+45	South Carolina	019	Charleston County	1985	289.400
+45	South Carolina	019	Charleston County	1990	295.040
+45	South Carolina	019	Charleston County	1995	281.980
+45	South Carolina	019	Charleston County	2000	309.969
+45	South Carolina	019	Charleston County	2005	330.368
+45	South Carolina	019	Charleston County	2010	350.209
+45	South Carolina	019	Charleston County	2015	389.262
+45	South Carolina	021	Cherokee County	1985	41.100
+45	South Carolina	021	Cherokee County	1990	44.510
+45	South Carolina	021	Cherokee County	1995	47.180
+45	South Carolina	021	Cherokee County	2000	52.537
+45	South Carolina	021	Cherokee County	2005	53.844
+45	South Carolina	021	Cherokee County	2010	55.342
+45	South Carolina	021	Cherokee County	2015	56.194
+45	South Carolina	023	Chester County	1985	30.600
+45	South Carolina	023	Chester County	1990	32.170
+45	South Carolina	023	Chester County	1995	33.050
+45	South Carolina	023	Chester County	2000	34.068
+45	South Carolina	023	Chester County	2005	33.228
+45	South Carolina	023	Chester County	2010	33.140
+45	South Carolina	023	Chester County	2015	32.267
+45	South Carolina	025	Chesterfield County	1985	38.700
+45	South Carolina	025	Chesterfield County	1990	38.580
+45	South Carolina	025	Chesterfield County	1995	39.360
+45	South Carolina	025	Chesterfield County	2000	42.768
+45	South Carolina	025	Chesterfield County	2005	43.435
+45	South Carolina	025	Chesterfield County	2010	46.734
+45	South Carolina	025	Chesterfield County	2015	46.017
+45	South Carolina	027	Clarendon County	1985	28.000
+45	South Carolina	027	Clarendon County	1990	28.450
+45	South Carolina	027	Clarendon County	1995	29.420
+45	South Carolina	027	Clarendon County	2000	32.502
+45	South Carolina	027	Clarendon County	2005	33.363
+45	South Carolina	027	Clarendon County	2010	34.971
+45	South Carolina	027	Clarendon County	2015	33.775
+45	South Carolina	029	Colleton County	1985	34.100
+45	South Carolina	029	Colleton County	1990	34.370
+45	South Carolina	029	Colleton County	1995	36.740
+45	South Carolina	029	Colleton County	2000	38.264
+45	South Carolina	029	Colleton County	2005	39.605
+45	South Carolina	029	Colleton County	2010	38.892
+45	South Carolina	029	Colleton County	2015	37.731
+45	South Carolina	031	Darlington County	1985	64.400
+45	South Carolina	031	Darlington County	1990	61.850
+45	South Carolina	031	Darlington County	1995	65.000
+45	South Carolina	031	Darlington County	2000	67.394
+45	South Carolina	031	Darlington County	2005	67.346
+45	South Carolina	031	Darlington County	2010	68.681
+45	South Carolina	031	Darlington County	2015	67.548
+45	South Carolina	033	Dillon County	1985	32.300
+45	South Carolina	033	Dillon County	1990	29.110
+45	South Carolina	033	Dillon County	1995	29.760
+45	South Carolina	033	Dillon County	2000	30.722
+45	South Carolina	033	Dillon County	2005	30.974
+45	South Carolina	033	Dillon County	2010	32.062
+45	South Carolina	033	Dillon County	2015	31.234
+45	South Carolina	035	Dorchester County	1985	72.900
+45	South Carolina	035	Dorchester County	1990	83.060
+45	South Carolina	035	Dorchester County	1995	89.100
+45	South Carolina	035	Dorchester County	2000	96.413
+45	South Carolina	035	Dorchester County	2005	112.858
+45	South Carolina	035	Dorchester County	2010	136.555
+45	South Carolina	035	Dorchester County	2015	152.478
+45	South Carolina	037	Edgefield County	1985	18.000
+45	South Carolina	037	Edgefield County	1990	18.370
+45	South Carolina	037	Edgefield County	1995	19.340
+45	South Carolina	037	Edgefield County	2000	24.595
+45	South Carolina	037	Edgefield County	2005	25.528
+45	South Carolina	037	Edgefield County	2010	26.985
+45	South Carolina	037	Edgefield County	2015	26.514
+45	South Carolina	039	Fairfield County	1985	21.200
+45	South Carolina	039	Fairfield County	1990	22.290
+45	South Carolina	039	Fairfield County	1995	22.500
+45	South Carolina	039	Fairfield County	2000	23.454
+45	South Carolina	039	Fairfield County	2005	24.047
+45	South Carolina	039	Fairfield County	2010	23.956
+45	South Carolina	039	Fairfield County	2015	22.747
+45	South Carolina	041	Florence County	1985	115.200
+45	South Carolina	041	Florence County	1990	114.340
+45	South Carolina	041	Florence County	1995	122.770
+45	South Carolina	041	Florence County	2000	125.761
+45	South Carolina	041	Florence County	2005	131.097
+45	South Carolina	041	Florence County	2010	136.885
+45	South Carolina	041	Florence County	2015	138.900
+45	South Carolina	043	Georgetown County	1985	46.300
+45	South Carolina	043	Georgetown County	1990	46.300
+45	South Carolina	043	Georgetown County	1995	50.890
+45	South Carolina	043	Georgetown County	2000	55.797
+45	South Carolina	043	Georgetown County	2005	60.983
+45	South Carolina	043	Georgetown County	2010	60.158
+45	South Carolina	043	Georgetown County	2015	61.298
+45	South Carolina	045	Greenville County	1985	302.900
+45	South Carolina	045	Greenville County	1990	320.160
+45	South Carolina	045	Greenville County	1995	339.910
+45	South Carolina	045	Greenville County	2000	379.616
+45	South Carolina	045	Greenville County	2005	407.383
+45	South Carolina	045	Greenville County	2010	451.225
+45	South Carolina	045	Greenville County	2015	491.863
+45	South Carolina	047	Greenwood County	1985	60.000
+45	South Carolina	047	Greenwood County	1990	59.570
+45	South Carolina	047	Greenwood County	1995	61.950
+45	South Carolina	047	Greenwood County	2000	66.271
+45	South Carolina	047	Greenwood County	2005	67.979
+45	South Carolina	047	Greenwood County	2010	69.661
+45	South Carolina	047	Greenwood County	2015	69.838
+45	South Carolina	049	Hampton County	1985	18.800
+45	South Carolina	049	Hampton County	1990	18.190
+45	South Carolina	049	Hampton County	1995	19.120
+45	South Carolina	049	Hampton County	2000	21.386
+45	South Carolina	049	Hampton County	2005	21.329
+45	South Carolina	049	Hampton County	2010	21.090
+45	South Carolina	049	Hampton County	2015	20.049
+45	South Carolina	051	Horry County	1985	126.700
+45	South Carolina	051	Horry County	1990	144.050
+45	South Carolina	051	Horry County	1995	157.900
+45	South Carolina	051	Horry County	2000	196.629
+45	South Carolina	051	Horry County	2005	226.992
+45	South Carolina	051	Horry County	2010	269.291
+45	South Carolina	051	Horry County	2015	309.199
+45	South Carolina	053	Jasper County	1985	14.700
+45	South Carolina	053	Jasper County	1990	15.490
+45	South Carolina	053	Jasper County	1995	16.400
+45	South Carolina	053	Jasper County	2000	20.678
+45	South Carolina	053	Jasper County	2005	21.398
+45	South Carolina	053	Jasper County	2010	24.777
+45	South Carolina	053	Jasper County	2015	27.824
+45	South Carolina	055	Kershaw County	1985	42.200
+45	South Carolina	055	Kershaw County	1990	43.600
+45	South Carolina	055	Kershaw County	1995	46.770
+45	South Carolina	055	Kershaw County	2000	52.647
+45	South Carolina	055	Kershaw County	2005	56.486
+45	South Carolina	055	Kershaw County	2010	61.697
+45	South Carolina	055	Kershaw County	2015	63.603
+45	South Carolina	057	Lancaster County	1985	55.400
+45	South Carolina	057	Lancaster County	1990	54.510
+45	South Carolina	057	Lancaster County	1995	56.320
+45	South Carolina	057	Lancaster County	2000	61.351
+45	South Carolina	057	Lancaster County	2005	63.113
+45	South Carolina	057	Lancaster County	2010	76.652
+45	South Carolina	057	Lancaster County	2015	85.842
+45	South Carolina	059	Laurens County	1985	53.200
+45	South Carolina	059	Laurens County	1990	58.090
+45	South Carolina	059	Laurens County	1995	60.800
+45	South Carolina	059	Laurens County	2000	69.567
+45	South Carolina	059	Laurens County	2005	70.293
+45	South Carolina	059	Laurens County	2010	66.537
+45	South Carolina	059	Laurens County	2015	66.623
+45	South Carolina	061	Lee County	1985	18.700
+45	South Carolina	061	Lee County	1990	18.440
+45	South Carolina	061	Lee County	1995	18.670
+45	South Carolina	061	Lee County	2000	20.119
+45	South Carolina	061	Lee County	2005	20.638
+45	South Carolina	061	Lee County	2010	19.220
+45	South Carolina	061	Lee County	2015	17.896
+45	South Carolina	063	Lexington County	1985	160.400
+45	South Carolina	063	Lexington County	1990	167.610
+45	South Carolina	063	Lexington County	1995	191.880
+45	South Carolina	063	Lexington County	2000	216.014
+45	South Carolina	063	Lexington County	2005	235.272
+45	South Carolina	063	Lexington County	2010	262.391
+45	South Carolina	063	Lexington County	2015	281.833
+45	South Carolina	065	McCormick County	1985	7.200
+45	South Carolina	065	McCormick County	1990	8.870
+45	South Carolina	065	McCormick County	1995	9.220
+45	South Carolina	065	McCormick County	2000	9.960
+45	South Carolina	065	McCormick County	2005	10.108
+45	South Carolina	065	McCormick County	2010	10.233
+45	South Carolina	065	McCormick County	2015	9.706
+45	South Carolina	067	Marion County	1985	35.000
+45	South Carolina	067	Marion County	1990	33.900
+45	South Carolina	067	Marion County	1995	35.200
+45	South Carolina	067	Marion County	2000	35.470
+45	South Carolina	067	Marion County	2005	34.904
+45	South Carolina	067	Marion County	2010	33.062
+45	South Carolina	067	Marion County	2015	31.747
+45	South Carolina	069	Marlboro County	1985	32.000
+45	South Carolina	069	Marlboro County	1990	29.360
+45	South Carolina	069	Marlboro County	1995	29.960
+45	South Carolina	069	Marlboro County	2000	28.820
+45	South Carolina	069	Marlboro County	2005	28.021
+45	South Carolina	069	Marlboro County	2010	28.933
+45	South Carolina	069	Marlboro County	2015	27.494
+45	South Carolina	071	Newberry County	1985	32.000
+45	South Carolina	071	Newberry County	1990	33.170
+45	South Carolina	071	Newberry County	1995	34.220
+45	South Carolina	071	Newberry County	2000	36.108
+45	South Carolina	071	Newberry County	2005	37.250
+45	South Carolina	071	Newberry County	2010	37.508
+45	South Carolina	071	Newberry County	2015	38.012
+45	South Carolina	073	Oconee County	1985	51.600
+45	South Carolina	073	Oconee County	1990	57.490
+45	South Carolina	073	Oconee County	1995	61.600
+45	South Carolina	073	Oconee County	2000	66.215
+45	South Carolina	073	Oconee County	2005	69.577
+45	South Carolina	073	Oconee County	2010	74.273
+45	South Carolina	073	Oconee County	2015	75.713
+45	South Carolina	075	Orangeburg County	1985	86.200
+45	South Carolina	075	Orangeburg County	1990	84.800
+45	South Carolina	075	Orangeburg County	1995	87.720
+45	South Carolina	075	Orangeburg County	2000	91.582
+45	South Carolina	075	Orangeburg County	2005	92.167
+45	South Carolina	075	Orangeburg County	2010	92.501
+45	South Carolina	075	Orangeburg County	2015	89.208
+45	South Carolina	077	Pickens County	1985	85.500
+45	South Carolina	077	Pickens County	1990	93.890
+45	South Carolina	077	Pickens County	1995	102.410
+45	South Carolina	077	Pickens County	2000	110.757
+45	South Carolina	077	Pickens County	2005	113.575
+45	South Carolina	077	Pickens County	2010	119.224
+45	South Carolina	077	Pickens County	2015	121.691
+45	South Carolina	079	Richland County	1985	279.100
+45	South Carolina	079	Richland County	1990	285.720
+45	South Carolina	079	Richland County	1995	289.840
+45	South Carolina	079	Richland County	2000	320.677
+45	South Carolina	079	Richland County	2005	340.078
+45	South Carolina	079	Richland County	2010	384.504
+45	South Carolina	079	Richland County	2015	407.051
+45	South Carolina	081	Saluda County	1985	17.200
+45	South Carolina	081	Saluda County	1990	16.360
+45	South Carolina	081	Saluda County	1995	16.900
+45	South Carolina	081	Saluda County	2000	19.181
+45	South Carolina	081	Saluda County	2005	18.895
+45	South Carolina	081	Saluda County	2010	19.875
+45	South Carolina	081	Saluda County	2015	20.053
+45	South Carolina	083	Spartanburg County	1985	211.200
+45	South Carolina	083	Spartanburg County	1990	226.800
+45	South Carolina	083	Spartanburg County	1995	240.330
+45	South Carolina	083	Spartanburg County	2000	253.791
+45	South Carolina	083	Spartanburg County	2005	266.809
+45	South Carolina	083	Spartanburg County	2010	284.307
+45	South Carolina	083	Spartanburg County	2015	297.302
+45	South Carolina	085	Sumter County	1985	94.600
+45	South Carolina	085	Sumter County	1990	102.630
+45	South Carolina	085	Sumter County	1995	106.820
+45	South Carolina	085	Sumter County	2000	104.646
+45	South Carolina	085	Sumter County	2005	105.517
+45	South Carolina	085	Sumter County	2010	107.456
+45	South Carolina	085	Sumter County	2015	107.480
+45	South Carolina	087	Union County	1985	30.800
+45	South Carolina	087	Union County	1990	30.340
+45	South Carolina	087	Union County	1995	30.840
+45	South Carolina	087	Union County	2000	29.881
+45	South Carolina	087	Union County	2005	28.539
+45	South Carolina	087	Union County	2010	28.961
+45	South Carolina	087	Union County	2015	27.777
+45	South Carolina	089	Williamsburg County	1985	38.700
+45	South Carolina	089	Williamsburg County	1990	36.810
+45	South Carolina	089	Williamsburg County	1995	37.470
+45	South Carolina	089	Williamsburg County	2000	37.217
+45	South Carolina	089	Williamsburg County	2005	35.395
+45	South Carolina	089	Williamsburg County	2010	34.423
+45	South Carolina	089	Williamsburg County	2015	32.535
+45	South Carolina	091	York County	1985	118.400
+45	South Carolina	091	York County	1990	131.500
+45	South Carolina	091	York County	1995	143.820
+45	South Carolina	091	York County	2000	164.614
+45	South Carolina	091	York County	2005	190.097
+45	South Carolina	091	York County	2010	226.073
+45	South Carolina	091	York County	2015	251.195

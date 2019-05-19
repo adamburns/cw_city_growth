@@ -1,0 +1,470 @@
+#
+# File created on 2019-05-18 23:23:39 EDT
+# Refresh Date: 2018-06
+#
+# U.S. Geological Survey
+#
+# This file contains selected WaterUse data 
+#
+# The data you have secured from the USGS NWISWeb database may include data that have 
+# not received Director's approval and as such are provisional and subject to revision. 
+# The data are released on the condition that neither the USGS nor the United States 
+# Government may be held liable for any damages resulting from its authorized or 
+# unauthorized use.
+#
+#  * References to sources of water-use data can be found here. - https://water.usgs.gov/watuse
+#
+#  Search Criteria:
+#  Year(s)          - ALL
+#  Area             - County
+#  County Codes(s)  - ALL
+#  County Name(s)   - --ALL Counties--
+#  Category Code(s) - TP
+#  Category Name(s) - Total Population
+#
+#  Columns:
+#  state_cd    - State Code
+#  state_name  - State Name
+#  county_cd   - County Code
+#  county_nm   - County Name
+#  year        - Year
+#
+#  The following categories are included: 
+#  Total Population total population of area, in thousands 
+#
+state_cd	state_name	county_cd	county_nm	year	Total Population total population of area, in thousands
+2s	40s	3s	40s	4s	16s
+36	New York	001	Albany County	1985	283.900
+36	New York	001	Albany County	1990	292.590
+36	New York	001	Albany County	1995	289.550
+36	New York	001	Albany County	2000	294.570
+36	New York	001	Albany County	2005	297.414
+36	New York	001	Albany County	2010	304.204
+36	New York	001	Albany County	2015	309.381
+36	New York	003	Allegany County	1985	50.900
+36	New York	003	Allegany County	1990	50.470
+36	New York	003	Allegany County	1995	51.390
+36	New York	003	Allegany County	2000	49.930
+36	New York	003	Allegany County	2005	50.602
+36	New York	003	Allegany County	2010	48.946
+36	New York	003	Allegany County	2015	47.462
+36	New York	005	Bronx County	1985	1184.200
+36	New York	005	Bronx County	1990	1203.790
+36	New York	005	Bronx County	1995	1187.800
+36	New York	005	Bronx County	2000	1332.650
+36	New York	005	Bronx County	2005	1357.589
+36	New York	005	Bronx County	2010	1385.108
+36	New York	005	Bronx County	2015	1455.444
+36	New York	007	Broome County	1985	212.400
+36	New York	007	Broome County	1990	212.160
+36	New York	007	Broome County	1995	204.440
+36	New York	007	Broome County	2000	200.540
+36	New York	007	Broome County	2005	196.947
+36	New York	007	Broome County	2010	200.600
+36	New York	007	Broome County	2015	196.567
+36	New York	009	Cattaraugus County	1985	85.300
+36	New York	009	Cattaraugus County	1990	84.230
+36	New York	009	Cattaraugus County	1995	85.600
+36	New York	009	Cattaraugus County	2000	83.960
+36	New York	009	Cattaraugus County	2005	82.502
+36	New York	009	Cattaraugus County	2010	80.317
+36	New York	009	Cattaraugus County	2015	77.922
+36	New York	011	Cayuga County	1985	79.900
+36	New York	011	Cayuga County	1990	82.310
+36	New York	011	Cayuga County	1995	82.990
+36	New York	011	Cayuga County	2000	81.960
+36	New York	011	Cayuga County	2005	81.454
+36	New York	011	Cayuga County	2010	80.026
+36	New York	011	Cayuga County	2015	78.288
+36	New York	013	Chautauqua County	1985	144.200
+36	New York	013	Chautauqua County	1990	141.900
+36	New York	013	Chautauqua County	1995	141.680
+36	New York	013	Chautauqua County	2000	139.750
+36	New York	013	Chautauqua County	2005	136.409
+36	New York	013	Chautauqua County	2010	134.905
+36	New York	013	Chautauqua County	2015	130.779
+36	New York	015	Chemung County	1985	92.000
+36	New York	015	Chemung County	1990	95.200
+36	New York	015	Chemung County	1995	94.080
+36	New York	015	Chemung County	2000	91.070
+36	New York	015	Chemung County	2005	89.512
+36	New York	015	Chemung County	2010	88.830
+36	New York	015	Chemung County	2015	87.071
+36	New York	017	Chenango County	1985	50.000
+36	New York	017	Chenango County	1990	51.770
+36	New York	017	Chenango County	1995	51.980
+36	New York	017	Chenango County	2000	51.400
+36	New York	017	Chenango County	2005	51.755
+36	New York	017	Chenango County	2010	50.477
+36	New York	017	Chenango County	2015	48.844
+36	New York	019	Clinton County	1985	81.600
+36	New York	019	Clinton County	1990	85.970
+36	New York	019	Clinton County	1995	83.370
+36	New York	019	Clinton County	2000	79.890
+36	New York	019	Clinton County	2005	82.047
+36	New York	019	Clinton County	2010	82.128
+36	New York	019	Clinton County	2015	81.251
+36	New York	021	Columbia County	1985	60.600
+36	New York	021	Columbia County	1990	62.980
+36	New York	021	Columbia County	1995	63.700
+36	New York	021	Columbia County	2000	63.090
+36	New York	021	Columbia County	2005	63.622
+36	New York	021	Columbia County	2010	63.096
+36	New York	021	Columbia County	2015	61.509
+36	New York	023	Cortland County	1985	47.400
+36	New York	023	Cortland County	1990	48.960
+36	New York	023	Cortland County	1995	49.050
+36	New York	023	Cortland County	2000	48.600
+36	New York	023	Cortland County	2005	48.622
+36	New York	023	Cortland County	2010	49.336
+36	New York	023	Cortland County	2015	48.494
+36	New York	025	Delaware County	1985	46.900
+36	New York	025	Delaware County	1990	47.220
+36	New York	025	Delaware County	1995	47.580
+36	New York	025	Delaware County	2000	48.060
+36	New York	025	Delaware County	2005	47.534
+36	New York	025	Delaware County	2010	47.980
+36	New York	025	Delaware County	2015	46.053
+36	New York	027	Dutchess County	1985	255.100
+36	New York	027	Dutchess County	1990	259.460
+36	New York	027	Dutchess County	1995	262.060
+36	New York	027	Dutchess County	2000	280.150
+36	New York	027	Dutchess County	2005	294.849
+36	New York	027	Dutchess County	2010	297.488
+36	New York	027	Dutchess County	2015	295.754
+36	New York	029	Erie County	1985	971.400
+36	New York	029	Erie County	1990	968.530
+36	New York	029	Erie County	1995	962.050
+36	New York	029	Erie County	2000	950.270
+36	New York	029	Erie County	2005	930.703
+36	New York	029	Erie County	2010	919.040
+36	New York	029	Erie County	2015	922.578
+36	New York	031	Essex County	1985	36.400
+36	New York	031	Essex County	1990	37.150
+36	New York	031	Essex County	1995	37.890
+36	New York	031	Essex County	2000	38.850
+36	New York	031	Essex County	2005	38.676
+36	New York	031	Essex County	2010	39.370
+36	New York	031	Essex County	2015	38.478
+36	New York	033	Franklin County	1985	43.800
+36	New York	033	Franklin County	1990	46.540
+36	New York	033	Franklin County	1995	49.400
+36	New York	033	Franklin County	2000	51.130
+36	New York	033	Franklin County	2005	51.033
+36	New York	033	Franklin County	2010	51.599
+36	New York	033	Franklin County	2015	50.660
+36	New York	035	Fulton County	1985	55.400
+36	New York	035	Fulton County	1990	54.190
+36	New York	035	Fulton County	1995	54.110
+36	New York	035	Fulton County	2000	55.070
+36	New York	035	Fulton County	2005	55.625
+36	New York	035	Fulton County	2010	55.531
+36	New York	035	Fulton County	2015	53.992
+36	New York	037	Genesee County	1985	59.100
+36	New York	037	Genesee County	1990	60.060
+36	New York	037	Genesee County	1995	61.320
+36	New York	037	Genesee County	2000	60.370
+36	New York	037	Genesee County	2005	59.257
+36	New York	037	Genesee County	2010	60.079
+36	New York	037	Genesee County	2015	58.937
+36	New York	039	Greene County	1985	41.500
+36	New York	039	Greene County	1990	44.740
+36	New York	039	Greene County	1995	47.660
+36	New York	039	Greene County	2000	48.200
+36	New York	039	Greene County	2005	49.682
+36	New York	039	Greene County	2010	49.221
+36	New York	039	Greene County	2015	47.625
+36	New York	041	Hamilton County	1985	5.000
+36	New York	041	Hamilton County	1990	5.280
+36	New York	041	Hamilton County	1995	5.210
+36	New York	041	Hamilton County	2000	5.380
+36	New York	041	Hamilton County	2005	5.228
+36	New York	041	Hamilton County	2010	4.836
+36	New York	041	Hamilton County	2015	4.712
+36	New York	043	Herkimer County	1985	66.900
+36	New York	043	Herkimer County	1990	65.800
+36	New York	043	Herkimer County	1995	66.350
+36	New York	043	Herkimer County	2000	64.430
+36	New York	043	Herkimer County	2005	63.780
+36	New York	043	Herkimer County	2010	64.519
+36	New York	043	Herkimer County	2015	63.100
+36	New York	045	Jefferson County	1985	88.600
+36	New York	045	Jefferson County	1990	110.940
+36	New York	045	Jefferson County	1995	114.710
+36	New York	045	Jefferson County	2000	111.740
+36	New York	045	Jefferson County	2005	116.384
+36	New York	045	Jefferson County	2010	116.229
+36	New York	045	Jefferson County	2015	117.635
+36	New York	047	Kings County	1985	2283.400
+36	New York	047	Kings County	1990	2300.660
+36	New York	047	Kings County	1995	2244.020
+36	New York	047	Kings County	2000	2465.330
+36	New York	047	Kings County	2005	2486.235
+36	New York	047	Kings County	2010	2504.700
+36	New York	047	Kings County	2015	2636.735
+36	New York	049	Lewis County	1985	25.200
+36	New York	049	Lewis County	1990	26.800
+36	New York	049	Lewis County	1995	27.710
+36	New York	049	Lewis County	2000	26.940
+36	New York	049	Lewis County	2005	26.571
+36	New York	049	Lewis County	2010	27.087
+36	New York	049	Lewis County	2015	26.957
+36	New York	051	Livingston County	1985	58.300
+36	New York	051	Livingston County	1990	62.370
+36	New York	051	Livingston County	1995	65.770
+36	New York	051	Livingston County	2000	64.330
+36	New York	051	Livingston County	2005	64.205
+36	New York	051	Livingston County	2010	65.393
+36	New York	051	Livingston County	2015	64.717
+36	New York	053	Madison County	1985	66.700
+36	New York	053	Madison County	1990	69.120
+36	New York	053	Madison County	1995	71.490
+36	New York	053	Madison County	2000	69.440
+36	New York	053	Madison County	2005	70.337
+36	New York	053	Madison County	2010	73.442
+36	New York	053	Madison County	2015	71.849
+36	New York	055	Monroe County	1985	704.900
+36	New York	055	Monroe County	1990	713.970
+36	New York	055	Monroe County	1995	723.180
+36	New York	055	Monroe County	2000	735.340
+36	New York	055	Monroe County	2005	733.366
+36	New York	055	Monroe County	2010	744.344
+36	New York	055	Monroe County	2015	749.600
+36	New York	057	Montgomery County	1985	52.500
+36	New York	057	Montgomery County	1990	51.980
+36	New York	057	Montgomery County	1995	52.070
+36	New York	057	Montgomery County	2000	49.710
+36	New York	057	Montgomery County	2005	48.968
+36	New York	057	Montgomery County	2010	50.219
+36	New York	057	Montgomery County	2015	49.642
+36	New York	059	Nassau County	1985	1331.300
+36	New York	059	Nassau County	1990	1287.350
+36	New York	059	Nassau County	1995	1305.770
+36	New York	059	Nassau County	2000	1334.540
+36	New York	059	Nassau County	2005	1333.137
+36	New York	059	Nassau County	2010	1339.532
+36	New York	059	Nassau County	2015	1361.350
+36	New York	061	New York County	1985	1479.800
+36	New York	061	New York County	1990	1487.540
+36	New York	061	New York County	1995	1518.910
+36	New York	061	New York County	2000	1537.200
+36	New York	061	New York County	2005	1593.200
+36	New York	061	New York County	2010	1585.873
+36	New York	061	New York County	2015	1644.518
+36	New York	063	Niagara County	1985	216.500
+36	New York	063	Niagara County	1990	220.760
+36	New York	063	Niagara County	1995	222.010
+36	New York	063	Niagara County	2000	219.850
+36	New York	063	Niagara County	2005	217.008
+36	New York	063	Niagara County	2010	216.469
+36	New York	063	Niagara County	2015	212.652
+36	New York	065	Oneida County	1985	250.700
+36	New York	065	Oneida County	1990	250.840
+36	New York	065	Oneida County	1995	242.210
+36	New York	065	Oneida County	2000	235.470
+36	New York	065	Oneida County	2005	234.105
+36	New York	065	Oneida County	2010	234.878
+36	New York	065	Oneida County	2015	232.500
+36	New York	067	Onondaga County	1985	465.300
+36	New York	067	Onondaga County	1990	468.970
+36	New York	067	Onondaga County	1995	469.820
+36	New York	067	Onondaga County	2000	458.340
+36	New York	067	Onondaga County	2005	458.053
+36	New York	067	Onondaga County	2010	467.026
+36	New York	067	Onondaga County	2015	468.463
+36	New York	069	Ontario County	1985	92.400
+36	New York	069	Ontario County	1990	95.100
+36	New York	069	Ontario County	1995	99.140
+36	New York	069	Ontario County	2000	100.220
+36	New York	069	Ontario County	2005	104.461
+36	New York	069	Ontario County	2010	107.931
+36	New York	069	Ontario County	2015	109.561
+36	New York	071	Orange County	1985	277.600
+36	New York	071	Orange County	1990	307.650
+36	New York	071	Orange County	1995	322.890
+36	New York	071	Orange County	2000	341.370
+36	New York	071	Orange County	2005	372.893
+36	New York	071	Orange County	2010	372.813
+36	New York	071	Orange County	2015	377.647
+36	New York	073	Orleans County	1985	39.100
+36	New York	073	Orleans County	1990	41.850
+36	New York	073	Orleans County	1995	45.140
+36	New York	073	Orleans County	2000	44.170
+36	New York	073	Orleans County	2005	43.387
+36	New York	073	Orleans County	2010	42.883
+36	New York	073	Orleans County	2015	41.582
+36	New York	075	Oswego County	1985	119.100
+36	New York	075	Oswego County	1990	121.770
+36	New York	075	Oswego County	1995	125.790
+36	New York	075	Oswego County	2000	122.380
+36	New York	075	Oswego County	2005	123.373
+36	New York	075	Oswego County	2010	122.109
+36	New York	075	Oswego County	2015	120.146
+36	New York	077	Otsego County	1985	59.400
+36	New York	077	Otsego County	1990	60.520
+36	New York	077	Otsego County	1995	61.580
+36	New York	077	Otsego County	2000	61.680
+36	New York	077	Otsego County	2005	62.746
+36	New York	077	Otsego County	2010	62.259
+36	New York	077	Otsego County	2015	60.636
+36	New York	079	Putnam County	1985	80.900
+36	New York	079	Putnam County	1990	83.940
+36	New York	079	Putnam County	1995	90.320
+36	New York	079	Putnam County	2000	95.750
+36	New York	079	Putnam County	2005	100.507
+36	New York	079	Putnam County	2010	99.710
+36	New York	079	Putnam County	2015	99.042
+36	New York	081	Queens County	1985	1933.000
+36	New York	081	Queens County	1990	1951.600
+36	New York	081	Queens County	1995	1963.630
+36	New York	081	Queens County	2000	2229.380
+36	New York	081	Queens County	2005	2241.600
+36	New York	081	Queens County	2010	2230.722
+36	New York	081	Queens County	2015	2339.150
+36	New York	083	Rensselaer County	1985	151.400
+36	New York	083	Rensselaer County	1990	154.430
+36	New York	083	Rensselaer County	1995	155.680
+36	New York	083	Rensselaer County	2000	152.540
+36	New York	083	Rensselaer County	2005	155.251
+36	New York	083	Rensselaer County	2010	159.429
+36	New York	083	Rensselaer County	2015	160.266
+36	New York	085	Richmond County	1985	373.900
+36	New York	085	Richmond County	1990	378.980
+36	New York	085	Richmond County	1995	397.720
+36	New York	085	Richmond County	2000	443.730
+36	New York	085	Richmond County	2005	464.573
+36	New York	085	Richmond County	2010	468.730
+36	New York	085	Richmond County	2015	474.558
+36	New York	087	Rockland County	1985	265.200
+36	New York	087	Rockland County	1990	265.480
+36	New York	087	Rockland County	1995	276.900
+36	New York	087	Rockland County	2000	286.750
+36	New York	087	Rockland County	2005	292.916
+36	New York	087	Rockland County	2010	311.687
+36	New York	087	Rockland County	2015	326.037
+36	New York	089	St. Lawrence County	1985	113.400
+36	New York	089	St. Lawrence County	1990	111.970
+36	New York	089	St. Lawrence County	1995	115.480
+36	New York	089	St. Lawrence County	2000	111.930
+36	New York	089	St. Lawrence County	2005	111.380
+36	New York	089	St. Lawrence County	2010	111.944
+36	New York	089	St. Lawrence County	2015	111.007
+36	New York	091	Saratoga County	1985	161.600
+36	New York	091	Saratoga County	1990	181.280
+36	New York	091	Saratoga County	1995	194.330
+36	New York	091	Saratoga County	2000	200.640
+36	New York	091	Saratoga County	2005	214.859
+36	New York	091	Saratoga County	2010	219.607
+36	New York	091	Saratoga County	2015	226.249
+36	New York	093	Schenectady County	1985	150.600
+36	New York	093	Schenectady County	1990	149.280
+36	New York	093	Schenectady County	1995	148.890
+36	New York	093	Schenectady County	2000	146.560
+36	New York	093	Schenectady County	2005	149.078
+36	New York	093	Schenectady County	2010	154.727
+36	New York	093	Schenectady County	2015	154.604
+36	New York	095	Schoharie County	1985	29.800
+36	New York	095	Schoharie County	1990	31.860
+36	New York	095	Schoharie County	1995	32.840
+36	New York	095	Schoharie County	2000	31.580
+36	New York	095	Schoharie County	2005	32.277
+36	New York	095	Schoharie County	2010	32.749
+36	New York	095	Schoharie County	2015	31.330
+36	New York	097	Schuyler County	1985	17.500
+36	New York	097	Schuyler County	1990	18.660
+36	New York	097	Schuyler County	1995	19.250
+36	New York	097	Schuyler County	2000	19.220
+36	New York	097	Schuyler County	2005	19.342
+36	New York	097	Schuyler County	2010	18.343
+36	New York	097	Schuyler County	2015	18.186
+36	New York	099	Seneca County	1985	32.800
+36	New York	099	Seneca County	1990	33.680
+36	New York	099	Seneca County	1995	32.590
+36	New York	099	Seneca County	2000	33.340
+36	New York	099	Seneca County	2005	34.855
+36	New York	099	Seneca County	2010	35.251
+36	New York	099	Seneca County	2015	34.833
+36	New York	101	Steuben County	1985	97.300
+36	New York	101	Steuben County	1990	99.090
+36	New York	101	Steuben County	1995	99.950
+36	New York	101	Steuben County	2000	98.730
+36	New York	101	Steuben County	2005	98.632
+36	New York	101	Steuben County	2010	98.990
+36	New York	101	Steuben County	2015	97.631
+36	New York	103	Suffolk County	1985	1313.300
+36	New York	103	Suffolk County	1990	1321.860
+36	New York	103	Suffolk County	1995	1353.700
+36	New York	103	Suffolk County	2000	1419.370
+36	New York	103	Suffolk County	2005	1474.927
+36	New York	103	Suffolk County	2010	1493.350
+36	New York	103	Suffolk County	2015	1501.587
+36	New York	105	Sullivan County	1985	67.600
+36	New York	105	Sullivan County	1990	69.280
+36	New York	105	Sullivan County	1995	70.450
+36	New York	105	Sullivan County	2000	73.970
+36	New York	105	Sullivan County	2005	76.539
+36	New York	105	Sullivan County	2010	77.547
+36	New York	105	Sullivan County	2015	74.877
+36	New York	107	Tioga County	1985	50.400
+36	New York	107	Tioga County	1990	52.340
+36	New York	107	Tioga County	1995	52.970
+36	New York	107	Tioga County	2000	51.780
+36	New York	107	Tioga County	2005	51.475
+36	New York	107	Tioga County	2010	51.125
+36	New York	107	Tioga County	2015	49.453
+36	New York	109	Tompkins County	1985	88.100
+36	New York	109	Tompkins County	1990	94.100
+36	New York	109	Tompkins County	1995	96.380
+36	New York	109	Tompkins County	2000	96.500
+36	New York	109	Tompkins County	2005	100.018
+36	New York	109	Tompkins County	2010	101.564
+36	New York	109	Tompkins County	2015	104.926
+36	New York	111	Ulster County	1985	163.800
+36	New York	111	Ulster County	1990	165.300
+36	New York	111	Ulster County	1995	167.860
+36	New York	111	Ulster County	2000	177.750
+36	New York	111	Ulster County	2005	182.693
+36	New York	111	Ulster County	2010	182.493
+36	New York	111	Ulster County	2015	180.143
+36	New York	113	Warren County	1985	55.600
+36	New York	113	Warren County	1990	59.210
+36	New York	113	Warren County	1995	61.540
+36	New York	113	Warren County	2000	63.300
+36	New York	113	Warren County	2005	65.548
+36	New York	113	Warren County	2010	65.707
+36	New York	113	Warren County	2015	64.688
+36	New York	115	Washington County	1985	56.800
+36	New York	115	Washington County	1990	59.330
+36	New York	115	Washington County	1995	61.020
+36	New York	115	Washington County	2000	61.040
+36	New York	115	Washington County	2005	63.024
+36	New York	115	Washington County	2010	63.216
+36	New York	115	Washington County	2015	62.230
+36	New York	117	Wayne County	1985	87.600
+36	New York	117	Wayne County	1990	89.120
+36	New York	117	Wayne County	1995	93.970
+36	New York	117	Wayne County	2000	93.770
+36	New York	117	Wayne County	2005	93.609
+36	New York	117	Wayne County	2010	93.772
+36	New York	117	Wayne County	2015	91.446
+36	New York	119	Westchester County	1985	865.500
+36	New York	119	Westchester County	1990	874.870
+36	New York	119	Westchester County	1995	890.920
+36	New York	119	Westchester County	2000	923.460
+36	New York	119	Westchester County	2005	940.807
+36	New York	119	Westchester County	2010	949.113
+36	New York	119	Westchester County	2015	976.396
+36	New York	121	Wyoming County	1985	40.700
+36	New York	121	Wyoming County	1990	42.510
+36	New York	121	Wyoming County	1995	44.080
+36	New York	121	Wyoming County	2000	43.420
+36	New York	121	Wyoming County	2005	42.693
+36	New York	121	Wyoming County	2010	42.155
+36	New York	121	Wyoming County	2015	41.013
+36	New York	123	Yates County	1985	21.500
+36	New York	123	Yates County	1990	22.810
+36	New York	123	Yates County	1995	24.150
+36	New York	123	Yates County	2000	24.620
+36	New York	123	Yates County	2005	24.756
+36	New York	123	Yates County	2010	25.348
+36	New York	123	Yates County	2015	25.048
