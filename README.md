@@ -2,7 +2,22 @@
 
 ## Introduction 
 
-City growth can be attributed to many things, and infrastructure development is a heavy indicator of such activity. Building Permit, and Water usage data were included to proxy infrastructure growth. In a similar light, the economic growth can be modelled using Employment, Housing Value, School Enrollment. General city growth may be attributed to the classic Population increase, although this type of growth alone doesn’t imply successful growth. Lastly, airline data may also be a good indicator of a city’s growth as proxied by demand as a destination city (although this may be due to tourism). 
+City growth can be attributed to many things, and infrastructure development is a heavy indicator of such activity. Building Permit, and Water usage data were included to proxy infrastructure growth. In a similar light, the economic growth can be modelled using Employment, Housing Value, School Enrollment. General city growth may be attributed to the classic Population increase, although this type of growth alone doesn’t imply successful growth. Do note that the antecedent can be made for city shrinkage below:
+
+* Building Permits
+  * Infrastructure growth: Good marker of city growth as they mean growth for commercial and residential communities
+* Employment Rate
+  * Economic growth: This particular point describes the usage rate of the workforce -- more growth would incentive immigration and later tax revenue growth
+* Flight Destinations
+  * May be a good indicator of a city’s growth as proxied by demand as a destination city (although this may be due to tourism)
+* Housing Values
+  * Housing prices are a great indicator of a community's demand
+* Population
+  * Classic descriptor of city growth, but can be used in congruence with other data points
+* School Enrollment
+  * Economic growth: more students enrolled leads to a more highly educated community which can be a proxy for a more in-tune workforce in the future
+* Water Usage
+  * Infrastructure growth: Ex) Can be used in association with Population data to proxy water efficiency
 
 ## Requirements 
 
