@@ -22,11 +22,13 @@ City growth can be attributed to many things, and infrastructure development is 
 ## Requirements 
 
 All data in this directory was obtained using either Python scripts or `wget` from Linux’s command line. The following libraries will be needed for the scripts to function:  
-* BeautifulSoup4 
-* json 
-* requests 
-* time 
-
+* Python3
+  * `BeautifulSoup4` 
+  * `json` 
+  * `requests` 
+  * `time` 
+* Linux
+  * `wget`
 ## To do 
 Given more time, I would gather more data on infrastructure usage/spending over metropolitan cities (electricity, oil/gas, sewage). I would also want to know how much a city spends on their roads and the average commute time of its citizens. Another avenue to take is to use the [urbansprawl package](https://github.com/lgervasoni/urbansprawl) to quantify the physical expansion of cities into surrounding areas. 
 
